@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
+  "versionCode": 6,
+  "versionName": "1.5.0",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
   "apkUrlArm64": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
-  "changelog": "Versión 1.4.0: Carga ultrarrápida de Reparto y reproducción inmediata sin bloqueos, carátulas completas con título en Relacionados/Recomendados y foco directo al teclado en Buscar.",
-  "releaseNotes": "Versión 1.4.0: Carga ultrarrápida de Reparto y reproducción inmediata sin bloqueos, carátulas completas con título en Relacionados/Recomendados y foco directo al teclado en Buscar."
+  "changelog": "Versión 1.5.0: Nuevo diseño de navegación de episodios en el reproductor, mejoras de foco D-Pad en episodios, Inicio, Buscar y TV, limpieza del mini-reproductor y Canal 9/Canal 7 Mendoza primeros en Canales Argentina.",
+  "releaseNotes": "Versión 1.5.0: Nuevo diseño de navegación de episodios en el reproductor, mejoras de foco D-Pad en episodios, Inicio, Buscar y TV, limpieza del mini-reproductor y Canal 9/Canal 7 Mendoza primeros en Canales Argentina."
 }
