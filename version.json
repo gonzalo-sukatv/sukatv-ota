@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/gonzalo-sukatv/sukatv-ota/releases/latest/download/SukaTV-armeabi-v7a-release.apk",
+  "apkUrlArm64": "https://github.com/gonzalo-sukatv/sukatv-ota/releases/latest/download/SukaTV-arm64-v8a-release.apk",
+  "releaseNotes": "Nueva versión disponible de SukaTV optimizada para Smart TV y Chromecast con Google TV."
+}
