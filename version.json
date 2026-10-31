@@ -1,10 +1,10 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5.0",
+  "versionCode": 7,
+  "versionName": "1.6.0",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
   "apkUrlArm64": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
-  "changelog": "Versión 1.5.0: Nuevo diseño de navegación de episodios en el reproductor, mejoras de foco D-Pad en episodios, Inicio, Buscar y TV, limpieza del mini-reproductor y Canal 9/Canal 7 Mendoza primeros en Canales Argentina.",
-  "releaseNotes": "Versión 1.5.0: Nuevo diseño de navegación de episodios en el reproductor, mejoras de foco D-Pad en episodios, Inicio, Buscar y TV, limpieza del mini-reproductor y Canal 9/Canal 7 Mendoza primeros en Canales Argentina."
+  "changelog": "Versión 1.6.0: Corrección del salto lateral del cursor al volver de los detalles de un título y reparación integral de la extracción de series (Breaking Bad, The Chosen / Los Elegidos, Los Hechiceros de Waverly Place, Los Simuladores y más).",
+  "releaseNotes": "Versión 1.6.0: Corrección del salto lateral del cursor al volver de los detalles de un título y reparación integral de la extracción de series (Breaking Bad, The Chosen / Los Elegidos, Los Hechiceros de Waverly Place, Los Simuladores y más)."
 }
