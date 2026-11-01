@@ -1,10 +1,10 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9.0",
+  "versionCode": 11,
+  "versionName": "1.9.1",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
   "apkUrlArm64": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
-  "changelog": "Versión 1.9.0: Arranque ultra-rápido de episodios de Anime (~1s en lugar de ~60s) mediante extracción directa de JKMedia/JKPlayers, filtro estricto de HTML embeds (.mp4) y corte temprano para servidores SUB/LAT; eliminación de 'Canales de TV en vivo' del buscador; foco inicial garantizado en el botón Reproducir/Continuar; centrado simétrico del banner rectangular de Android TV; y corrección de recorte lateral y borde blanco en Favoritos, Ver más tarde e Historial.",
-  "releaseNotes": "Versión 1.9.0: Arranque ultra-rápido de episodios de Anime (~1s en lugar de ~60s) mediante extracción directa de JKMedia/JKPlayers, filtro estricto de HTML embeds (.mp4) y corte temprano para servidores SUB/LAT; eliminación de 'Canales de TV en vivo' del buscador; foco inicial garantizado en el botón Reproducir/Continuar; centrado simétrico del banner rectangular de Android TV; y corrección de recorte lateral y borde blanco en Favoritos, Ver más tarde e Historial."
+  "changelog": "Versión 1.9.1: Búsqueda directa y en tiempo real contra todo el catálogo de JKAnime y TioAnime (títulos como Imouto sae Ireba Ii. aparecen al instante en Animación); prioridad absoluta de los servidores HD Sub Español de JKAnime (Desu/Magi/Desuka 1080p) sobre respaldos genéricos de Dailymotion/YouTube en títulos como Banana Fish; y filtrado estricto contra videos en inglés o baja calidad.",
+  "releaseNotes": "Versión 1.9.1: Búsqueda directa y en tiempo real contra todo el catálogo de JKAnime y TioAnime (títulos como Imouto sae Ireba Ii. aparecen al instante en Animación); prioridad absoluta de los servidores HD Sub Español de JKAnime (Desu/Magi/Desuka 1080p) sobre respaldos genéricos de Dailymotion/YouTube en títulos como Banana Fish; y filtrado estricto contra videos en inglés o baja calidad."
 }
