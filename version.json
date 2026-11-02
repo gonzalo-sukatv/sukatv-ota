@@ -1,10 +1,10 @@
 {
-  "versionCode": 12,
-  "versionName": "1.9.2",
+  "versionCode": 13,
+  "versionName": "1.9.3",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
   "apkUrlArm64": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
-  "changelog": "Versión 1.9.2: Prioridad #1 para JKPlayer Directo #2 (Magi / jkplayer/umv) en todos los episodios de JKAnime con conexión directa ultrarrápida sin competencia de hilos, dejando JKPlayer Directo #1 en segunda posición.",
-  "releaseNotes": "Versión 1.9.2: Prioridad #1 para JKPlayer Directo #2 (Magi / jkplayer/umv) en todos los episodios de JKAnime con conexión directa ultrarrápida sin competencia de hilos, dejando JKPlayer Directo #1 en segunda posición."
+  "changelog": "Versión 1.9.3: Carrera simultánea inteligente por olas (Happy Eyeballs 3 en 3) al pulsar Reproducir/Continuar, ganador inmediato al 1º servidor listo con corte en seco a nivel de red (call.cancel) de los demás servidores, verificación real de sub-manifiesto/video, Guardia de Arranque Rápido de 5.5s y pre-carga automática del capítulo siguiente.",
+  "releaseNotes": "Versión 1.9.3: Carrera simultánea inteligente por olas (Happy Eyeballs 3 en 3) al pulsar Reproducir/Continuar, ganador inmediato al 1º servidor listo con corte en seco a nivel de red (call.cancel) de los demás servidores, verificación real de sub-manifiesto/video, Guardia de Arranque Rápido de 5.5s y pre-carga automática del capítulo siguiente."
 }
