@@ -1,10 +1,10 @@
 {
-  "versionCode": 13,
-  "versionName": "1.9.3",
+  "versionCode": 14,
+  "versionName": "1.9.4",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
   "apkUrlArm64": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
-  "changelog": "Versión 1.9.3: Carrera simultánea inteligente por olas (Happy Eyeballs 3 en 3) al pulsar Reproducir/Continuar, ganador inmediato al 1º servidor listo con corte en seco a nivel de red (call.cancel) de los demás servidores, verificación real de sub-manifiesto/video, Guardia de Arranque Rápido de 5.5s y pre-carga automática del capítulo siguiente.",
-  "releaseNotes": "Versión 1.9.3: Carrera simultánea inteligente por olas (Happy Eyeballs 3 en 3) al pulsar Reproducir/Continuar, ganador inmediato al 1º servidor listo con corte en seco a nivel de red (call.cancel) de los demás servidores, verificación real de sub-manifiesto/video, Guardia de Arranque Rápido de 5.5s y pre-carga automática del capítulo siguiente."
+  "changelog": "Versión 1.9.4: Solución definitiva al Error de extracción en Películas, Series y Animación Occidental; aislamiento de timeouts por servidor en PoseidonHD2/Embed69 priorizando StreamWish y Filemoon (380ms), soporte completo para series animadas occidentales y optimización de la carrera simultánea sin bloqueo de hilos.",
+  "releaseNotes": "Versión 1.9.4: Solución definitiva al Error de extracción en Películas, Series y Animación Occidental; aislamiento de timeouts por servidor en PoseidonHD2/Embed69 priorizando StreamWish y Filemoon (380ms), soporte completo para series animadas occidentales y optimización de la carrera simultánea sin bloqueo de hilos."
 }
