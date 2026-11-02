@@ -1,10 +1,10 @@
 {
-  "versionCode": 14,
-  "versionName": "1.9.4",
+  "versionCode": 15,
+  "versionName": "1.9.5",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
   "apkUrlArm64": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
-  "changelog": "Versión 1.9.4: Solución definitiva al Error de extracción en Películas, Series y Animación Occidental; aislamiento de timeouts por servidor en PoseidonHD2/Embed69 priorizando StreamWish y Filemoon (380ms), soporte completo para series animadas occidentales y optimización de la carrera simultánea sin bloqueo de hilos.",
-  "releaseNotes": "Versión 1.9.4: Solución definitiva al Error de extracción en Películas, Series y Animación Occidental; aislamiento de timeouts por servidor en PoseidonHD2/Embed69 priorizando StreamWish y Filemoon (380ms), soporte completo para series animadas occidentales y optimización de la carrera simultánea sin bloqueo de hilos."
+  "changelog": "Versión 1.9.5: Carga ultrarrápida (1.5s-3.5s) sin esperas en contenedores lentos manteniendo 100% prioridad Español Latino y 1080p; bloqueo de doble salto y ventana de estabilización real para el 2º servidor al cambiar automáticamente por cortes.",
+  "releaseNotes": "Versión 1.9.5: Carga ultrarrápida (1.5s-3.5s) sin esperas en contenedores lentos manteniendo 100% prioridad Español Latino y 1080p; bloqueo de doble salto y ventana de estabilización real para el 2º servidor al cambiar automáticamente por cortes."
 }
