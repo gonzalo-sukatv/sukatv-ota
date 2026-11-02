@@ -1,10 +1,10 @@
 {
-  "versionCode": 15,
-  "versionName": "1.9.5",
+  "versionCode": 17,
+  "versionName": "1.9.7",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
   "apkUrlArm64": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
-  "changelog": "Versión 1.9.5: Carga ultrarrápida (1.5s-3.5s) sin esperas en contenedores lentos manteniendo 100% prioridad Español Latino y 1080p; bloqueo de doble salto y ventana de estabilización real para el 2º servidor al cambiar automáticamente por cortes.",
-  "releaseNotes": "Versión 1.9.5: Carga ultrarrápida (1.5s-3.5s) sin esperas en contenedores lentos manteniendo 100% prioridad Español Latino y 1080p; bloqueo de doble salto y ventana de estabilización real para el 2º servidor al cambiar automáticamente por cortes."
+  "changelog": "Versión 1.9.7: Soporte completo para contenido 'Sin Categoría (Solo en Buscar)' indexado en el buscador sin crear filas vacías en el inicio, prioridades del catálogo manual y compatibilidad con el nuevo Gestor de Catálogo Manual e IMDb.",
+  "releaseNotes": "Versión 1.9.7: Soporte completo para contenido 'Sin Categoría (Solo en Buscar)' indexado en el buscador sin crear filas vacías en el inicio, prioridades del catálogo manual y compatibilidad con el nuevo Gestor de Catálogo Manual e IMDb."
 }
