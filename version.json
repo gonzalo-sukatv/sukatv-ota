@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "1.9.16",
-  "updatedAt": "2026-11-03 01:44:07",
+  "versionCode": 27,
+  "versionName": "1.9.17",
+  "updatedAt": "2026-11-03 01:47:12",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -17,10 +17,10 @@
     "added": ["Beverly Hills Ninja", "Canal 9 Mendoza"],
     "postersUpdated": [],
     "deleted": ["Un ninja en Beverly Hills", "Kimikiss: Pure Rouge", "Kimi to Shita Kiss wa Itsumademo"],
-    "linksUpdated": [],
+    "linksUpdated": ["MTV Flow Latino", "MTV Spankin' New Hits", "Vevo Latino"],
     "modified": []
   },
-  "changelog": "Contenido añadido:\n- MTV",
-  "releaseNotes": "Contenido añadido:\n- MTV"
+  "changelog": "Contenido añadido:\n• Beverly Hills Ninja\n• Canal 9 Mendoza\n\nContenido eliminado:\n• Un ninja en Beverly Hills\n• Kimikiss: Pure Rouge\n• Kimi to Shita Kiss wa Itsumademo\n\nEnlaces y servidores actualizados:\n• MTV Flow Latino\n• MTV Spankin' New Hits\n• Vevo Latino",
+  "releaseNotes": "Contenido añadido:\n• Beverly Hills Ninja\n• Canal 9 Mendoza\n\nContenido eliminado:\n• Un ninja en Beverly Hills\n• Kimikiss: Pure Rouge\n• Kimi to Shita Kiss wa Itsumademo\n\nEnlaces y servidores actualizados:\n• MTV Flow Latino\n• MTV Spankin' New Hits\n• Vevo Latino"
 }
 

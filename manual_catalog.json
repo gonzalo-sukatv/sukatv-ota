@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1793680978628,
+  "updatedAt": 1793681154562,
   "respectManualOrderStrict": true,
   "deletedCategoryIds": [],
   "deletedItemIds": ["tmdb_movie_9622", "imdb_tt0118708", "title:un ninja en beverly hills", "manual_live_tv_de30c211", "title:nuevo canal en vivo", "manual_live_tv_13951ffe", "tmdb_tv_25365", "title:pure rouge", "tmdb_tv_300093"],
@@ -10731,11 +10731,11 @@
               "logoUrl": "https://images.pluto.tv/channels/6047fb075f5b030007978979/colorLogoPNG.png",
               "posterUrl": "https://images.pluto.tv/channels/6047fb075f5b030007978979/colorLogoPNG.png",
               "groupTitle": "Música & Conciertos",
-              "streamUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fb075f5b030007978979/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
-              "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fb075f5b030007978979/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
-              "backupStreamUrl": "U",
+              "streamUrl": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
+              "detailUrl": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
+              "backupStreamUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fb075f5b030007978979/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "channelNumber": 136,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fb075f5b030007978979/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fb075f5b030007978979/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8"]
             },
             {
               "id": "mus_mtv_spankin_new",
@@ -10744,11 +10744,11 @@
               "logoUrl": "https://images.pluto.tv/channels/6047fa760e49b90007898c07/colorLogoPNG.png",
               "posterUrl": "https://images.pluto.tv/channels/6047fa760e49b90007898c07/colorLogoPNG.png",
               "groupTitle": "Música & Conciertos",
-              "streamUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fa760e49b90007898c07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
-              "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fa760e49b90007898c07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
-              "backupStreamUrl": "U",
+              "streamUrl": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
+              "detailUrl": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
+              "backupStreamUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fa760e49b90007898c07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "channelNumber": 137,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fa760e49b90007898c07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fa760e49b90007898c07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8", "https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8"]
             },
             {
               "id": "mus_yo_mtv_raps",
@@ -10770,11 +10770,11 @@
               "logoUrl": "https://images.pluto.tv/channels/5f32f28e79f8c00007671f82/colorLogoPNG.png",
               "posterUrl": "https://images.pluto.tv/channels/5f32f28e79f8c00007671f82/colorLogoPNG.png",
               "groupTitle": "Música & Conciertos",
-              "streamUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f28e79f8c00007671f82/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
-              "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f28e79f8c00007671f82/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
-              "backupStreamUrl": "U",
+              "streamUrl": "https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8",
+              "detailUrl": "https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8",
+              "backupStreamUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f28e79f8c00007671f82/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "channelNumber": 139,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f28e79f8c00007671f82/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f28e79f8c00007671f82/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8", "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8", "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8"]
             },
             {
               "id": "mus_vevo_pop",
