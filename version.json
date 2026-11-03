@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.9.11",
+  "versionCode": 23,
+  "versionName": "1.9.13",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -12,7 +12,7 @@
     "arm64-v8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
     "universal": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk"
   },
-  "changelog": "Contenido añadido:\n• Canl 9 Mendoza",
-  "releaseNotes": "Contenido añadido:\n• Canl 9 Mendoza"
+  "changelog": "Contenido añadido:\n• Beverly Hills Ninja\n• Canal 9 Mendoza",
+  "releaseNotes": "Contenido añadido:\n• Beverly Hills Ninja\n• Canal 9 Mendoza"
 }
 

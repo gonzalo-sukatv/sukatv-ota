@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1793671184323,
+  "updatedAt": 1793673930819,
   "respectManualOrderStrict": true,
   "deletedCategoryIds": [],
   "deletedItemIds": ["tmdb_movie_9622", "imdb_tt0118708", "title:un ninja en beverly hills", "manual_live_tv_de30c211", "title:nuevo canal en vivo", "manual_live_tv_13951ffe"],
@@ -8935,14 +8935,14 @@
           "items": [
             {
               "id": "manual_live_tv_1ce072ac",
-              "name": "Canl 9 Mendoza",
-              "title": "Canl 9 Mendoza",
+              "name": "Canal 9 Mendoza",
+              "title": "Canal 9 Mendoza",
               "logoUrl": "https://i.imgur.com/k4FElhJ.png",
               "posterUrl": "https://i.imgur.com/k4FElhJ.png",
               "groupTitle": "Canales Argentina",
-              "streamUrl": "https://rudo.video/live/televidaar/autostart/false",
-              "detailUrl": "https://rudo.video/live/televidaar/autostart/false",
-              "backupStreamUrl": "https://rudo.video/live/televidaar/autostart/false",
+              "streamUrl": "https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8",
+              "detailUrl": "https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8",
+              "backupStreamUrl": "https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8",
               "channelNumber": 1,
               "mirrorUrls": []
             },
