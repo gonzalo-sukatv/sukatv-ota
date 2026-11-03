@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "1.9.17",
-  "updatedAt": "2026-11-03 01:49:41",
+  "versionCode": 28,
+  "versionName": "1.9.18",
+  "updatedAt": "2026-11-03 06:46:22",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -14,13 +14,13 @@
     "universal": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk"
   },
   "changes": {
-    "added": ["Beverly Hills Ninja", "Canal 9 Mendoza"],
-    "postersUpdated": [],
-    "deleted": ["Un ninja en Beverly Hills", "Kimikiss: Pure Rouge", "Kimi to Shita Kiss wa Itsumademo"],
-    "linksUpdated": [],
-    "modified": []
+    "added": ["Beverly Hills Ninja", "Canal 9 Mendoza", "TN Todo Noticias", "C5N Noticias", "Canal 26 Noticias", "LN+ La Nación Más", "24/7 Canal de Noticias", "El Deber TV Noticias", "BM&C News Brasil", "Aratu On Notícias", "AgroMais BandNews", "CNN Brasil & Jovem Pan News", "ADN TV Noticias", "Cablenoticias 24 Horas", "Blu Radio TV Noticias", "Canal 8 Multimedios • Telediario", "Canal 1 Costa Rica", "Noticias Repretel & Teletica", "Prensa Latina TV", "Televisión Martí Noticias", "Canal Caribe Noticias Cuba", "Ecuador TV Noticias", "Gamavisión Noticias", "Ecotel TV Noticias", "Megavisión Canal 21 • Telenoticias", "Meganoticias 19 El Salvador", "Canal 11 TuTV Noticias", "3CatInfo • Canal 3/24", "Actualidad 360 España", "7TV Andalucía Noticias", "Canal 13 Guatevisión • Noti7", "Canal 13 Esquipulas TV", "TN23 Todo Noticias Guatemala", "HCH Televisión Digital", "ICN Digital Noticias", "Globo TV Honduras", "TV Azteca Honduras • Hechos", "AMX Noticias Mexiquense", "Acustik Noticias", "Canal 10 • Acción 10", "TN8 • Crónica TN8", "Canal 12 • Noticias 12", "Telemetro Reporta", "Nex TV Canal 21 • Nex Noticias", "Radio Ancón TV Noticias", "TVN Noticias Panamá", "Canal Pro Noticias", "América Televisión • Canal N", "Telemundo Puerto Rico • Telenoticias", "TeleOnce • Las Noticias", "WIPR Notiséis 360", "WAPA TV • NotiCentro", "Acento TV Noticias", "Antena 7 • AN7 Noticias", "CDN 37 Noticias Dominicana", "Noticias SIN • Color Visión", "Canal Once Plus Noticias", "Canal i Noticias Venezuela"],
+    "postersUpdated": ["Bolivisión Al Día", "BioBio TV", "Teleamazonas • 24 Horas", "ADN 40 Noticias", "N+ Foro TV", "Imagen Noticias", "ABC TV Paraguay", "C9N & SNT Noticias", "Telefuturo & NPY", "Telenoche • Canal 4", "Subrayado • Canal 10", "Telemundo 12 Uruguay", "Globovisión Noticias", "VPI TV Noticias", "EVTV Venezuela", "TeleSUR HD", "RT en Español"],
+    "deleted": ["La Sexta Noticias", "Citytv & El Tiempo TV", "TC Televisión • El Noticiero", "Un ninja en Beverly Hills", "Kimikiss: Pure Rouge", "Kimi to Shita Kiss wa Itsumademo"],
+    "linksUpdated": ["TNT Sports Premium", "Disney+ Eventos 1", "Disney+ Eventos 2", "Disney+ Eventos 3", "Disney+ Eventos 4", "Disney+ Eventos 5", "ESPN+ Eventos 1", "ESPN+ Eventos 2", "NBA League Pass 1", "NBA League Pass 2", "Universal TV", "Bolivia TV • BTV", "Unitel & Telepaís", "Red Uno & Notivisión", "Bolivisión Al Día", "BioBio TV", "24 Horas TVN", "T13 En Vivo • Canal 13", "Meganoticias", "CHV Noticias • Chilevisión", "Noticias Caracol", "Noticias RCN", "NTN24 Nuestra Tele Noticias", "Ecuavisa Noticias", "Teleamazonas • 24 Horas", "RTVE 24H", "Antena 3 & La Sexta Noticias", "ADN 40 Noticias", "Milenio Televisión", "N+ Foro TV", "Imagen Noticias", "ABC TV Paraguay", "C9N & SNT Noticias", "Telefuturo & NPY", "ATV+ Noticias", "TV Perú Noticias", "Latina Noticias 24/7", "RPP Noticias TV", "Exitosa Noticias", "Panamericana TV • 24 Horas", "Telenoche • Canal 4", "Subrayado • Canal 10", "Telemundo 12 Uruguay", "Globovisión Noticias", "VPI TV Noticias", "EVTV Venezuela", "TeleSUR HD", "Euronews Español"],
+    "modified": ["T13 En Vivo • Canal 13", "Antena 3 & La Sexta Noticias", "Telemundo 12 Uruguay", "TeleSUR HD"]
   },
-  "changelog": "xddd",
-  "releaseNotes": "xddd"
+  "changelog": "xddddd",
+  "releaseNotes": "xddddd"
 }
 
