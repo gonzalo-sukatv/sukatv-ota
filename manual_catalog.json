@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1793673930819,
+  "updatedAt": 1793678213040,
   "respectManualOrderStrict": true,
   "deletedCategoryIds": [],
-  "deletedItemIds": ["tmdb_movie_9622", "imdb_tt0118708", "title:un ninja en beverly hills", "manual_live_tv_de30c211", "title:nuevo canal en vivo", "manual_live_tv_13951ffe"],
+  "deletedItemIds": ["tmdb_movie_9622", "imdb_tt0118708", "title:un ninja en beverly hills", "manual_live_tv_de30c211", "title:nuevo canal en vivo", "manual_live_tv_13951ffe", "tmdb_tv_25365", "title:pure rouge", "tmdb_tv_300093"],
   "sections": {
     "MOVIE": {
       "categories": [
@@ -6427,14 +6427,14 @@
           "items": [
             {
               "id": "cartoon_tt0312172",
-              "title": "KND: Los Chicos del Barrio",
-              "posterUrl": "https://images.metahub.space/poster/medium/tt0312172/img",
-              "backdropUrl": "https://images.metahub.space/poster/medium/tt0312172/img",
+              "title": "KND: Los chicos del barrio",
+              "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTdkNmY4ZGMtZTk3YS00OWUxLTlmNTktZTAxNTg1MWM2YmM2XkEyXkFqcGc@._V1_SX600.jpg",
+              "backdropUrl": "https://image.tmdb.org/t/p/w780/h7rHu5pt9Wzkb7vLGKrA5XD63ge.jpg",
               "badgeText": "CN CLÁSICO",
-              "detailUrl": "https://embed69.org/f/tt0312172-1x1",
-              "year": "2002",
-              "rating": "8.4",
-              "synopsis": "Cinco niños agentes secretos del Sector V luchan contra la tiranía de los adultos y adolescentes desde su gigantesca casa del árbol.",
+              "detailUrl": "manual://cartoon_tt0312172",
+              "year": "2003",
+              "rating": "7.2",
+              "synopsis": "Un grupo de cinco niños que encaran la lucha sin cuartel contra la tiranía de los adolescentes y adultos que intentan imponer su disciplina y sus reglas a los niños de toda la Tierra. Al principio no aceptaban niñas. Su residencia es en la Casa del Árbol y allí toman sus decisiones como grupo aunque reciben órdenes del comando central ubicado en la Base Lunar.",
               "groupTitle": "Aventura",
               "isAnimatedMovie": false,
               "servers": [],
