@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.9.15",
-  "updatedAt": "2026-11-03 01:32:44",
+  "versionCode": 26,
+  "versionName": "1.9.16",
+  "updatedAt": "2026-11-03 01:44:07",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -20,7 +20,7 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "Contenido añadido:\n- Eliminacion de servidores defectuosos",
-  "releaseNotes": "Contenido añadido:\n- Eliminacion de servidores defectuosos"
+  "changelog": "Contenido añadido:\n- MTV",
+  "releaseNotes": "Contenido añadido:\n- MTV"
 }
 
