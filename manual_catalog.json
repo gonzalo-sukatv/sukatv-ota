@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1793678692274,
+  "updatedAt": 1793680299124,
   "respectManualOrderStrict": true,
   "deletedCategoryIds": [],
   "deletedItemIds": ["tmdb_movie_9622", "imdb_tt0118708", "title:un ninja en beverly hills", "manual_live_tv_de30c211", "title:nuevo canal en vivo", "manual_live_tv_13951ffe", "tmdb_tv_25365", "title:pure rouge", "tmdb_tv_300093"],
@@ -8970,7 +8970,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/telefe.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=telefe",
               "channelNumber": 3,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/telefe.php", "https://streamtp-golden1.click/global2.php?stream=telefe", "http://45.173.231.22:8000/play/a053/index.m3u8", "http://200.115.120.1:8000/play/ca016/index.m3u8", "https://canal11saltatv.unpocodeawita.workers.dev/", "https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/telefe.php", "http://45.173.231.22:8000/play/a053/index.m3u8", "http://200.115.120.1:8000/play/ca016/index.m3u8", "https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8"]
             },
             {
               "id": "xuper_eltrece",
@@ -8983,7 +8983,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/eltrece.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=eltrece",
               "channelNumber": 4,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/eltrece.php", "https://streamtp-golden1.click/global2.php?stream=eltrece", "https://livetrx01.vodgc.net/eltrecetv/index.m3u8", "https://streamxhd.sbs/live1.php?stream=eltrece"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/eltrece.php", "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"]
             },
             {
               "id": "ar_tn_5900",
@@ -9145,7 +9145,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/espnpremiumlat.php",
               "backupStreamUrl": "https://redirectus.net/streamo.html?key=arg",
               "channelNumber": 16,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espnpremiumlat.php", "https://redirectus.net/streamo.html?key=arg", "https://redirectus.net/latin/latin.html?p=latin&d=redirectus.net&id=1383&v=20260917a&ref=futbolvivo.tv", "https://tvf90.com/1.php?stream=espnpremium", "https://104game.click/player/capo/76", "https://streamxhd.com/live1.php?stream=espnpremium"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espnpremiumlat.php", "https://redirectus.net/streamo.html?key=arg", "https://redirectus.net/latin/latin.html?p=latin&d=redirectus.net&id=1383&v=20260917a&ref=futbolvivo.tv"]
             },
             {
               "id": "xuper_tnt_sports",
@@ -9158,7 +9158,7 @@
               "detailUrl": "https://104game.click/player/capo/83",
               "backupStreamUrl": "https://redirectus.net/streamo.html?key=arg",
               "channelNumber": 17,
-              "mirrorUrls": ["https://104game.click/player/capo/83", "https://redirectus.net/streamo.html?key=arg", "https://tvf90.com/1.php?stream=tntsports", "https://redirectus.net/latin/latin.html?p=latin&d=redirectus.net&id=1383&v=20260917a&ref=futbolvivo.tv", "https://streamxhd.com/live2.php?stream=tntsports", "https://streamtp-golden1.click/global2.php?stream=tntsports", "https://streamxhd.sbs/live1.php?stream=tntsports"]
+              "mirrorUrls": ["https://redirectus.net/streamo.html?key=arg", "https://redirectus.net/latin/latin.html?p=latin&d=redirectus.net&id=1383&v=20260917a&ref=futbolvivo.tv"]
             },
             {
               "id": "xuper_tyc_sports",
@@ -9171,7 +9171,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/tycsports.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=tyc",
               "channelNumber": 18,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/tycsports.php", "https://streamtp-golden1.click/global2.php?stream=tyc", "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/tycsports.php", "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"]
             },
             {
               "id": "xuper_fox_sports_premium",
@@ -9184,7 +9184,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/foxsportspremium.php",
               "backupStreamUrl": "https://104game.click/player/capo/101",
               "channelNumber": 19,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/foxsportspremium.php", "https://104game.click/player/capo/101", "https://streamtp-golden1.click/global2.php?stream=foxsportspremium"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/foxsportspremium.php"]
             },
             {
               "id": "xuper_fox_sports_1",
@@ -9197,7 +9197,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/foxsports.php",
               "backupStreamUrl": "https://104game.click/player/capo/78",
               "channelNumber": 20,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/foxsports.php", "https://104game.click/player/capo/78", "https://streamtp-golden1.click/global2.php?stream=fox1"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/foxsports.php"]
             },
             {
               "id": "xuper_fox_sports_2",
@@ -9210,7 +9210,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/foxsports2.php",
               "backupStreamUrl": "https://104game.click/player/capo/79",
               "channelNumber": 21,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/foxsports2.php", "https://104game.click/player/capo/79", "https://streamtp-golden1.click/global2.php?stream=fox2"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/foxsports2.php"]
             },
             {
               "id": "xuper_fox_sports_3",
@@ -9223,7 +9223,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/foxsports3.php",
               "backupStreamUrl": "https://104game.click/player/capo/80",
               "channelNumber": 22,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/foxsports3.php", "https://104game.click/player/capo/80", "https://streamtp-golden1.click/global2.php?stream=fox3"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/foxsports3.php"]
             },
             {
               "id": "xuper_espn_lat",
@@ -9236,7 +9236,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/espn.php",
               "backupStreamUrl": "https://104game.click/player/capo/87",
               "channelNumber": 23,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn.php", "https://104game.click/player/capo/87", "https://streamtp-golden1.click/global2.php?stream=espn", "https://tvf90.com/1.php?stream=espn", "https://redirectus.net/streamo.html?key=arg"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn.php", "https://redirectus.net/streamo.html?key=arg"]
             },
             {
               "id": "xuper_espn_2",
@@ -9249,7 +9249,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/espn2.php",
               "backupStreamUrl": "https://104game.click/player/capo/88",
               "channelNumber": 24,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn2.php", "https://104game.click/player/capo/88", "https://streamtp-golden1.click/global2.php?stream=espn2", "https://tvf90.com/1.php?stream=espn2", "https://redirectus.net/streamo.html?key=tv1"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn2.php", "https://redirectus.net/streamo.html?key=tv1"]
             },
             {
               "id": "xuper_espn_3",
@@ -9262,7 +9262,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/espn3.php",
               "backupStreamUrl": "https://104game.click/player/capo/89",
               "channelNumber": 25,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn3.php", "https://104game.click/player/capo/89", "https://streamtp-golden1.click/global2.php?stream=espn3"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn3.php"]
             },
             {
               "id": "xuper_espn_4",
@@ -9275,7 +9275,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/espn4.php",
               "backupStreamUrl": "https://104game.click/player/capo/90",
               "channelNumber": 26,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn4.php", "https://104game.click/player/capo/90", "https://streamtp-golden1.click/global2.php?stream=espn4"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn4.php"]
             },
             {
               "id": "xuper_espn_5",
@@ -9288,7 +9288,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/espn5.php",
               "backupStreamUrl": "https://104game.click/player/capo/91",
               "channelNumber": 27,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn5.php", "https://104game.click/player/capo/91", "https://streamtp-golden1.click/global2.php?stream=espn5", "https://streamxhd.sbs/live1.php?stream=espn5"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn5.php"]
             },
             {
               "id": "xuper_espn_6",
@@ -9301,7 +9301,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/espn6.php",
               "backupStreamUrl": "https://104game.click/player/capo/92",
               "channelNumber": 28,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn6.php", "https://104game.click/player/capo/92", "https://streamtp-golden1.click/global2.php?stream=espn6"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn6.php"]
             },
             {
               "id": "xuper_espn_7",
@@ -9314,7 +9314,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/espn7.php",
               "backupStreamUrl": "https://104game.click/player/capo/93",
               "channelNumber": 29,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn7.php", "https://104game.click/player/capo/93", "https://streamtp-golden1.click/global2.php?stream=espn7"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn7.php"]
             },
             {
               "id": "xuper_directv_sports",
@@ -9327,7 +9327,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/directvsports.php",
               "backupStreamUrl": "https://104game.click/player/capo/94",
               "channelNumber": 30,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/directvsports.php", "https://104game.click/player/capo/94", "https://streamtp-golden1.click/global2.php?stream=dtv", "https://streamxhd.sbs/live1.php?stream=dsports"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/directvsports.php"]
             },
             {
               "id": "xuper_directv_sports_2",
@@ -9340,7 +9340,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/directvsports2.php",
               "backupStreamUrl": "https://104game.click/player/capo/95",
               "channelNumber": 31,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/directvsports2.php", "https://104game.click/player/capo/95", "https://streamtp-golden1.click/global2.php?stream=dtv2", "https://streamxhd.sbs/live1.php?stream=dsports2"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/directvsports2.php"]
             },
             {
               "id": "xuper_directv_sports_plus",
@@ -9353,7 +9353,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/directvsportsplus.php",
               "backupStreamUrl": "https://104game.click/player/capo/96",
               "channelNumber": 32,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/directvsportsplus.php", "https://104game.click/player/capo/96", "https://streamtp-golden1.click/global2.php?stream=dtvplus"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/directvsportsplus.php"]
             },
             {
               "id": "xuper_movistar_campeones",
@@ -9366,7 +9366,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/movistarligadecampeones.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=mcampeones",
               "channelNumber": 33,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/movistarligadecampeones.php", "https://streamtp-golden1.click/global2.php?stream=mcampeones"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/movistarligadecampeones.php"]
             },
             {
               "id": "xuper_tudn",
@@ -9379,7 +9379,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/tudn.php",
               "backupStreamUrl": "https://104game.click/player/capo/106",
               "channelNumber": 34,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/tudn.php", "https://104game.click/player/capo/106", "https://streamtp-golden1.click/global2.php?stream=tudn"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/tudn.php"]
             },
             {
               "id": "xuper_espn_colombia",
@@ -9392,7 +9392,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/espncol.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=espn2co",
               "channelNumber": 35,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espncol.php", "https://streamtp-golden1.click/global2.php?stream=espn2co"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espncol.php"]
             },
             {
               "id": "xuper_fox_sports_mx",
@@ -9405,7 +9405,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/foxsportsmexico.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=fox1mx",
               "channelNumber": 36,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/foxsportsmexico.php", "https://streamtp-golden1.click/global2.php?stream=fox1mx"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/foxsportsmexico.php"]
             },
             {
               "id": "xuper_fox_sports_2_mx",
@@ -9418,7 +9418,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/foxsports2mexico.php",
               "backupStreamUrl": "https://104game.click/player/capo/102",
               "channelNumber": 37,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/foxsports2mexico.php", "https://104game.click/player/capo/102", "https://streamtp-golden1.click/global2.php?stream=fox2mx"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/foxsports2mexico.php"]
             },
             {
               "id": "xuper_fox_sports_3_mx",
@@ -9431,7 +9431,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/foxsports3mexico.php",
               "backupStreamUrl": "https://104game.click/player/capo/103",
               "channelNumber": 38,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/foxsports3mexico.php", "https://104game.click/player/capo/103", "https://streamtp-golden1.click/global2.php?stream=fox3mx"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/foxsports3mexico.php"]
             },
             {
               "id": "xuper_espn_mx",
@@ -9444,7 +9444,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/espnmexico.php",
               "backupStreamUrl": "https://104game.click/player/capo/97",
               "channelNumber": 39,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espnmexico.php", "https://104game.click/player/capo/97", "https://streamtp-golden1.click/global2.php?stream=espndeportes"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espnmexico.php"]
             },
             {
               "id": "xuper_espn_2_mx",
@@ -9457,7 +9457,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/espn2mexico.php",
               "backupStreamUrl": "https://104game.click/player/capo/98",
               "channelNumber": 40,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn2mexico.php", "https://104game.click/player/capo/98", "https://streamtp-golden1.click/global2.php?stream=espn2mx"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn2mexico.php"]
             },
             {
               "id": "xuper_espn_3_mx",
@@ -9470,7 +9470,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/espn3mexico.php",
               "backupStreamUrl": "https://104game.click/player/capo/99",
               "channelNumber": 41,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn3mexico.php", "https://104game.click/player/capo/99", "https://streamtp-golden1.click/global2.php?stream=espn3mx"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn3mexico.php"]
             },
             {
               "id": "xuper_espn_4_mx",
@@ -9483,7 +9483,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/espn4mexico.php",
               "backupStreamUrl": "https://104game.click/player/capo/100",
               "channelNumber": 42,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn4mexico.php", "https://104game.click/player/capo/100"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn4mexico.php"]
             },
             {
               "id": "xuper_espn_5_mx",
@@ -9522,7 +9522,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/liga1max.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=liga1max",
               "channelNumber": 45,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/liga1max.php", "https://streamtp-golden1.click/global2.php?stream=liga1max"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/liga1max.php"]
             },
             {
               "id": "xuper_movistar_deportes_pe",
@@ -9535,7 +9535,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/movistardeportes.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=mdeportes",
               "channelNumber": 46,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/movistardeportes.php", "https://streamtp-golden1.click/global2.php?stream=mdeportes"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/movistardeportes.php"]
             },
             {
               "id": "xuper_azteca_deportes",
@@ -9561,7 +9561,7 @@
               "detailUrl": "https://streamxhd.sbs/live1.php?stream=disney1",
               "backupStreamUrl": "https://tvf90.com/1.php?stream=disney1",
               "channelNumber": 48,
-              "mirrorUrls": ["https://streamxhd.sbs/live1.php?stream=disney1", "https://tvf90.com/1.php?stream=disney1", "https://redirectus.net/latin/latin.html?p=latin&d=redirectus.net&id=1383&v=20260917a&ref=futbolvivo.tv", "https://embed.saohgdassregions.com/embed2/espnpremiumlat.php"]
+              "mirrorUrls": ["https://redirectus.net/latin/latin.html?p=latin&d=redirectus.net&id=1383&v=20260917a&ref=futbolvivo.tv", "https://embed.saohgdassregions.com/embed2/espnpremiumlat.php"]
             },
             {
               "id": "xuper_evento_3",
@@ -9574,7 +9574,7 @@
               "detailUrl": "https://streamxhd.sbs/live1.php?stream=disney2",
               "backupStreamUrl": "https://embed.saohgdassregions.com/embed2/espn.php",
               "channelNumber": 49,
-              "mirrorUrls": ["https://streamxhd.sbs/live1.php?stream=disney2", "https://embed.saohgdassregions.com/embed2/espn.php"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn.php"]
             },
             {
               "id": "xuper_evento_4",
@@ -9587,7 +9587,7 @@
               "detailUrl": "https://streamxhd.sbs/live1.php?stream=disney3",
               "backupStreamUrl": "https://embed.saohgdassregions.com/embed2/espn2.php",
               "channelNumber": 50,
-              "mirrorUrls": ["https://streamxhd.sbs/live1.php?stream=disney3", "https://embed.saohgdassregions.com/embed2/espn2.php"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn2.php"]
             },
             {
               "id": "xuper_evento_5",
@@ -9600,7 +9600,7 @@
               "detailUrl": "https://streamxhd.sbs/live1.php?stream=disney4",
               "backupStreamUrl": "https://embed.saohgdassregions.com/embed2/espn3.php",
               "channelNumber": 51,
-              "mirrorUrls": ["https://streamxhd.sbs/live1.php?stream=disney4", "https://embed.saohgdassregions.com/embed2/espn3.php"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn3.php"]
             },
             {
               "id": "xuper_evento_8",
@@ -9613,7 +9613,7 @@
               "detailUrl": "https://streamxhd.sbs/live1.php?stream=disney5",
               "backupStreamUrl": "https://streamxhd.sbs/live1.php?stream=espn2",
               "channelNumber": 52,
-              "mirrorUrls": ["https://streamxhd.sbs/live1.php?stream=disney5", "https://streamxhd.sbs/live1.php?stream=espn2"]
+              "mirrorUrls": []
             },
             {
               "id": "xuper_evento_9",
@@ -9626,7 +9626,7 @@
               "detailUrl": "https://streamxhd.sbs/live1.php?stream=espnplus1",
               "backupStreamUrl": "https://embed.saohgdassregions.com/embed2/espn6.php",
               "channelNumber": 53,
-              "mirrorUrls": ["https://streamxhd.sbs/live1.php?stream=espnplus1", "https://embed.saohgdassregions.com/embed2/espn6.php"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn6.php"]
             },
             {
               "id": "xuper_evento_10",
@@ -9639,7 +9639,7 @@
               "detailUrl": "https://streamxhd.sbs/live1.php?stream=espnplus2",
               "backupStreamUrl": "https://embed.saohgdassregions.com/embed2/espn7.php",
               "channelNumber": 54,
-              "mirrorUrls": ["https://streamxhd.sbs/live1.php?stream=espnplus2", "https://embed.saohgdassregions.com/embed2/espn7.php"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn7.php"]
             },
             {
               "id": "xuper_evento_32",
@@ -9652,7 +9652,7 @@
               "detailUrl": "https://streamxhd.sbs/live1.php?stream=nba1",
               "backupStreamUrl": "https://embed.saohgdassregions.com/embed2/espn2.php",
               "channelNumber": 55,
-              "mirrorUrls": ["https://streamxhd.sbs/live1.php?stream=nba1", "https://embed.saohgdassregions.com/embed2/espn2.php"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/espn2.php"]
             },
             {
               "id": "xuper_evento_33",
@@ -9665,7 +9665,7 @@
               "detailUrl": "https://streamxhd.sbs/live1.php?stream=nba2",
               "backupStreamUrl": "https://streamxhd.sbs/live1.php?stream=max1",
               "channelNumber": 56,
-              "mirrorUrls": ["https://streamxhd.sbs/live1.php?stream=nba2", "https://streamxhd.sbs/live1.php?stream=max1"]
+              "mirrorUrls": []
             }
           ]
         },
@@ -9684,7 +9684,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/cinemax.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=cinemax",
               "channelNumber": 57,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/cinemax.php", "https://streamtp-golden1.click/global2.php?stream=cinemax", "U", "670ed8dfc7626f000884c3a8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/cinemax.php"]
             },
             {
               "id": "hbo_2_hd",
@@ -9697,7 +9697,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/tnt.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=tnt",
               "channelNumber": 58,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/tnt.php", "https://streamtp-golden1.click/global2.php?stream=tnt", "U", "5dcde437229eff00091b6c30"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/tnt.php"]
             },
             {
               "id": "hbo_plus_hd",
@@ -9710,7 +9710,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/space.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=space",
               "channelNumber": 59,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/space.php", "https://streamtp-golden1.click/global2.php?stream=space", "U", "670edb8149c4060008e3aec8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/space.php"]
             },
             {
               "id": "hbo_family_hd",
@@ -9723,7 +9723,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/cinecanal.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=cinecanal",
               "channelNumber": 60,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/cinecanal.php", "https://streamtp-golden1.click/global2.php?stream=cinecanal", "U", "5dd6ddb30a1d8a000908ed4c"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/cinecanal.php"]
             },
             {
               "id": "hbo_signature_hd",
@@ -9736,7 +9736,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/tntseries.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=tntseries",
               "channelNumber": 61,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/tntseries.php", "https://streamtp-golden1.click/global2.php?stream=tntseries", "U", "655f636d954b020008c93299"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/tntseries.php"]
             },
             {
               "id": "hbo_xtreme_hd",
@@ -9749,7 +9749,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/axn.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=axn",
               "channelNumber": 62,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/axn.php", "https://streamtp-golden1.click/global2.php?stream=axn", "U", "5dcb62e63d4d8f0009f36881"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/axn.php"]
             },
             {
               "id": "hbo_pop_hd",
@@ -9762,7 +9762,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/warnerchannel.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=warner",
               "channelNumber": 63,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/warnerchannel.php", "https://streamtp-golden1.click/global2.php?stream=warner", "U", "5dcdde78f080d900098550e4"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/warnerchannel.php"]
             },
             {
               "id": "hbo_mundi_hd",
@@ -9775,7 +9775,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/amc.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=amc",
               "channelNumber": 64,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/amc.php", "https://streamtp-golden1.click/global2.php?stream=amc", "U", "5dcddfcb229eff00091b6bdf"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/amc.php"]
             },
             {
               "id": "xuper_paramount",
@@ -9788,7 +9788,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/paramountchannel.php",
               "backupStreamUrl": "U",
               "channelNumber": 65,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/paramountchannel.php", "U", "670ed8dfc7626f000884c3a8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/paramountchannel.php"]
             },
             {
               "id": "xuper_comedy_central",
@@ -9801,7 +9801,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/comedycentral.php",
               "backupStreamUrl": "U",
               "channelNumber": 66,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/comedycentral.php", "U", "655f626d57fe4a00085c7c3e"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/comedycentral.php"]
             },
             {
               "id": "xuper_tnt_novelas",
@@ -9827,7 +9827,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/tnt.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=tnt",
               "channelNumber": 68,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/tnt.php", "https://streamtp-golden1.click/global2.php?stream=tnt", "http://168.196.127.137:6001/play/a023/index.m3u8", "http://45.171.64.30:6060/play/a01l/index.m3u8", "http://138.121.15.230:9002/TNT/index.m3u8", "http://38.134.250.110:8000/play/a01j/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/tnt.php", "http://45.171.64.30:6060/play/a01l/index.m3u8", "http://138.121.15.230:9002/TNT/index.m3u8"]
             },
             {
               "id": "xuper_space",
@@ -9840,7 +9840,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/space.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=space",
               "channelNumber": 69,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/space.php", "https://streamtp-golden1.click/global2.php?stream=space", "http://45.171.64.30:6060/play/a04n/index.m3u8", "http://168.196.127.137:6001/play/a00u/index.m3u8", "http://38.134.250.110:8000/play/a01b/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/space.php", "http://45.171.64.30:6060/play/a04n/index.m3u8", "http://38.134.250.110:8000/play/a01b/index.m3u8"]
             },
             {
               "id": "xuper_star_channel",
@@ -9853,7 +9853,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/starchannel.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=starchannel",
               "channelNumber": 70,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/starchannel.php", "https://streamtp-golden1.click/global2.php?stream=starchannel", "http://45.171.64.30:6060/play/a04e/index.m3u8", "http://168.196.127.137:6001/play/a03i/index.m3u8", "http://138.121.15.230:9002/STAR/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/starchannel.php", "http://168.196.127.137:6001/play/a03i/index.m3u8"]
             },
             {
               "id": "xuper_warner",
@@ -9866,7 +9866,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/warnerchannel.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=warner",
               "channelNumber": 71,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/warnerchannel.php", "https://streamtp-golden1.click/global2.php?stream=warner", "http://38.134.250.110:8000/play/a029/index.m3u8", "http://45.171.64.30:6060/play/a01h/index.m3u8", "http://168.196.127.137:6001/play/a024/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/warnerchannel.php", "http://38.134.250.110:8000/play/a029/index.m3u8", "http://45.171.64.30:6060/play/a01h/index.m3u8"]
             },
             {
               "id": "xuper_cinecanal",
@@ -9879,7 +9879,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/cinecanal.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=cinecanal",
               "channelNumber": 72,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/cinecanal.php", "https://streamtp-golden1.click/global2.php?stream=cinecanal", "http://138.121.15.230:9002/CINECANAL/index.m3u8", "http://168.196.127.137:6001/play/a00x/index.m3u8", "http://38.134.250.110:8000/play/a035/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/cinecanal.php", "http://138.121.15.230:9002/CINECANAL/index.m3u8"]
             },
             {
               "id": "xuper_cinemax",
@@ -9892,7 +9892,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/cinemax.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=cinemax",
               "channelNumber": 73,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/cinemax.php", "https://streamtp-golden1.click/global2.php?stream=cinemax", "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8", "https://streaming.onnethn.com/CINEMAX/playlist.m3u8", "http://45.171.64.30:6060/play/a005/index.m3u8", "http://138.121.15.230:9002/CINEMAX/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/cinemax.php", "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8", "https://streaming.onnethn.com/CINEMAX/playlist.m3u8", "http://45.171.64.30:6060/play/a005/index.m3u8"]
             },
             {
               "id": "xuper_fx",
@@ -9905,7 +9905,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/fx.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=fx",
               "channelNumber": 74,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/fx.php", "https://streamtp-golden1.click/global2.php?stream=fx", "http://45.171.64.30:6060/play/a04g/index.m3u8", "http://138.121.15.230:9002/FX/index.m3u8", "http://168.196.127.137:6001/play/a013/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/fx.php", "http://138.121.15.230:9002/FX/index.m3u8"]
             },
             {
               "id": "xuper_tnt_series",
@@ -9918,7 +9918,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/tntseries.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=tntseries",
               "channelNumber": 75,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/tntseries.php", "https://streamtp-golden1.click/global2.php?stream=tntseries", "http://168.196.127.137:6001/play/a095/index.m3u8", "http://138.121.15.230:9002/TNTSERIES/index.m3u8", "http://45.171.64.30:6060/play/a01l/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/tntseries.php", "http://168.196.127.137:6001/play/a095/index.m3u8", "http://45.171.64.30:6060/play/a01l/index.m3u8"]
             },
             {
               "id": "xuper_axn",
@@ -9931,7 +9931,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/axn.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=axn",
               "channelNumber": 76,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/axn.php", "https://streamtp-golden1.click/global2.php?stream=axn", "http://138.121.15.230:9002/AXN/index.m3u8", "http://45.171.64.30:6060/play/a001/index.m3u8", "http://168.196.127.137:6001/play/a010/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/axn.php", "http://138.121.15.230:9002/AXN/index.m3u8"]
             },
             {
               "id": "xuper_universal_tv",
@@ -9944,7 +9944,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/universalchannel.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=universal",
               "channelNumber": 77,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/universalchannel.php", "https://streamtp-golden1.click/global2.php?stream=universal", "http://45.171.64.30:6060/play/a01b/index.m3u8", "http://190.61.54.54:8005/play/a03t/index.m3u8"]
+              "mirrorUrls": []
             },
             {
               "id": "xuper_studio_universal",
@@ -9957,7 +9957,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/studiouniversal.php",
               "backupStreamUrl": "http://138.121.15.230:9002/STUDIOUNIVERSAL/index.m3u8",
               "channelNumber": 78,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/studiouniversal.php", "http://138.121.15.230:9002/STUDIOUNIVERSAL/index.m3u8", "http://45.171.64.30:6060/play/a01g/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/studiouniversal.php", "http://45.171.64.30:6060/play/a01g/index.m3u8"]
             },
             {
               "id": "xuper_amc",
@@ -9970,7 +9970,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/amc.php",
               "backupStreamUrl": "http://45.171.64.30:6060/play/a00x/index.m3u8",
               "channelNumber": 79,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/amc.php", "http://45.171.64.30:6060/play/a00x/index.m3u8", "http://168.196.127.137:6001/play/a01b/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/amc.php", "http://45.171.64.30:6060/play/a00x/index.m3u8"]
             },
             {
               "id": "xuper_canal_sony",
@@ -9983,7 +9983,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/canalsony.php",
               "backupStreamUrl": "http://138.121.15.230:9002/SONY/index.m3u8",
               "channelNumber": 80,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/canalsony.php", "http://138.121.15.230:9002/SONY/index.m3u8", "http://45.171.64.30:6060/play/a04l/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/canalsony.php", "http://138.121.15.230:9002/SONY/index.m3u8"]
             },
             {
               "id": "xuper_syfy",
@@ -9996,7 +9996,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/usa.php",
               "backupStreamUrl": "http://168.196.127.137:6001/play/a09o/index.m3u8",
               "channelNumber": 81,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/usa.php", "http://168.196.127.137:6001/play/a09o/index.m3u8", "http://45.171.64.30:6060/play/a01b/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/usa.php", "http://168.196.127.137:6001/play/a09o/index.m3u8"]
             },
             {
               "id": "xuper_golden",
@@ -10009,7 +10009,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/golden.php",
               "backupStreamUrl": "http://45.171.64.30:6060/play/a04j/index.m3u8",
               "channelNumber": 82,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/golden.php", "http://45.171.64.30:6060/play/a04j/index.m3u8", "http://138.121.15.230:9002/GOLDEN/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/golden.php", "http://138.121.15.230:9002/GOLDEN/index.m3u8"]
             },
             {
               "id": "xuper_golden_plus",
@@ -10022,7 +10022,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/goldenplus.php",
               "backupStreamUrl": "http://38.134.250.110:8000/play/a01m/index.m3u8",
               "channelNumber": 83,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/goldenplus.php", "http://38.134.250.110:8000/play/a01m/index.m3u8", "http://45.171.64.30:6060/play/a04j/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/goldenplus.php", "http://38.134.250.110:8000/play/a01m/index.m3u8"]
             },
             {
               "id": "xuper_golden_edge",
@@ -10035,7 +10035,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/goldenedge.php",
               "backupStreamUrl": "http://45.171.64.30:6060/play/a01n/index.m3u8",
               "channelNumber": 84,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/goldenedge.php", "http://45.171.64.30:6060/play/a01n/index.m3u8", "http://138.121.15.230:9002/GOLDENEDGE/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/goldenedge.php", "http://45.171.64.30:6060/play/a01n/index.m3u8"]
             },
             {
               "id": "xuper_golden_premier",
@@ -10048,7 +10048,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/goldenpremier.php",
               "backupStreamUrl": "http://45.171.64.30:6060/play/a00j/index.m3u8",
               "channelNumber": 85,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/goldenpremier.php", "http://45.171.64.30:6060/play/a00j/index.m3u8", "http://45.171.64.30:6060/play/a04j/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/goldenpremier.php", "http://45.171.64.30:6060/play/a00j/index.m3u8"]
             },
             {
               "id": "xuper_golden_premier_2",
@@ -10074,7 +10074,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/multipremier.php",
               "backupStreamUrl": "http://168.196.127.137:6001/play/a00s/index.m3u8",
               "channelNumber": 87,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/multipremier.php", "http://168.196.127.137:6001/play/a00s/index.m3u8", "http://45.171.64.30:6060/play/a04j/index.m3u8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/multipremier.php"]
             },
             {
               "id": "xuper_fm_hot_movies",
@@ -10106,7 +10106,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/lasestrellas.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=lasestrellas",
               "channelNumber": 89,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/lasestrellas.php", "https://streamtp-golden1.click/global2.php?stream=lasestrellas"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/lasestrellas.php"]
             },
             {
               "id": "xuper_canal_5",
@@ -10119,7 +10119,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/canal5.php",
               "backupStreamUrl": "https://104game.click/player/capo/107",
               "channelNumber": 90,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/canal5.php", "https://104game.click/player/capo/107"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/canal5.php"]
             },
             {
               "id": "xuper_azteca_7",
@@ -10132,7 +10132,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/azteca7.php",
               "backupStreamUrl": "https://104game.click/player/capo/108",
               "channelNumber": 91,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/azteca7.php", "https://104game.click/player/capo/108", "https://streamtp-golden1.click/global2.php?stream=azteca7"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/azteca7.php"]
             },
             {
               "id": "xuper_azteca_uno",
@@ -10145,7 +10145,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/aztecauno.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=aztecauno",
               "channelNumber": 92,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/aztecauno.php", "https://streamtp-golden1.click/global2.php?stream=aztecauno"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/aztecauno.php"]
             },
             {
               "id": "xuper_telemundo_miami",
@@ -10158,7 +10158,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/telemundo51.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=telemundo",
               "channelNumber": 93,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/telemundo51.php", "https://streamtp-golden1.click/global2.php?stream=telemundo"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/telemundo51.php"]
             },
             {
               "id": "xuper_telemundo_pr",
@@ -10171,7 +10171,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/telemundopuertorico.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=telemundousa",
               "channelNumber": 94,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/telemundopuertorico.php", "https://streamtp-golden1.click/global2.php?stream=telemundousa"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/telemundopuertorico.php"]
             },
             {
               "id": "xuper_univision",
@@ -10184,7 +10184,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/univision.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=univision",
               "channelNumber": 95,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/univision.php", "https://streamtp-golden1.click/global2.php?stream=univision"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/univision.php"]
             },
             {
               "id": "xuper_caracol",
@@ -10197,7 +10197,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/caracol.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=caracol",
               "channelNumber": 96,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/caracol.php", "https://streamtp-golden1.click/global2.php?stream=caracol"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/caracol.php"]
             },
             {
               "id": "xuper_rcn",
@@ -10249,7 +10249,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/americatv.php",
               "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=americatv",
               "channelNumber": 100,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/americatv.php", "https://streamtp-golden1.click/global2.php?stream=americatv"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/americatv.php"]
             },
             {
               "id": "xuper_atv",
@@ -10508,7 +10508,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 119,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "5dcde2ac4bc6c500094ab45b"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "kids_nick_clasico",
@@ -10521,7 +10521,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6824cda00101510f9eeaa011/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 120,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6824cda00101510f9eeaa011/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "5ea7215005d66d0007e8128a"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6824cda00101510f9eeaa011/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "kids_disney_jr",
@@ -10534,7 +10534,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/disneyjr.php",
               "backupStreamUrl": "https://embed.saohgdassregions.com/embed2/disneychannel.php",
               "channelNumber": 121,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/disneyjr.php", "https://embed.saohgdassregions.com/embed2/disneychannel.php", "U", "5f4d3d06fb60d8000781fce8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/disneyjr.php", "https://embed.saohgdassregions.com/embed2/disneychannel.php"]
             },
             {
               "id": "kids_discovery_kids",
@@ -10547,7 +10547,7 @@
               "detailUrl": "https://embed.saohgdassregions.com/embed2/discoverykids.php",
               "backupStreamUrl": "U",
               "channelNumber": 122,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/discoverykids.php", "U", "5f4d3d06fb60d8000781fce8"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/discoverykids.php"]
             },
             {
               "id": "kids_nick_jr",
@@ -10560,7 +10560,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 123,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "6824cda00101510f9eeaa011"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "kids_bob_esponja",
@@ -10573,7 +10573,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62545862e391b7000733991e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 124,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62545862e391b7000733991e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "6824cda00101510f9eeaa011"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62545862e391b7000733991e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "kids_anime_action",
@@ -10586,7 +10586,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1acd39327c0f00078452a3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 125,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1acd39327c0f00078452a3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "5dcde0cc229eff00091b6c30"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1acd39327c0f00078452a3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "kids_naruto_tv",
@@ -10599,7 +10599,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60940a36f904b10007e6c4be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 126,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60940a36f904b10007e6c4be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "5f1acd39327c0f00078452a3"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60940a36f904b10007e6c4be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "kids_one_piece_tv",
@@ -10612,7 +10612,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634d92d915c9a4000703b9fc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 127,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634d92d915c9a4000703b9fc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "5f1acd39327c0f00078452a3"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634d92d915c9a4000703b9fc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "kids_yugioh_tv",
@@ -10625,7 +10625,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde0cc229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 128,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde0cc229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "5f1acd39327c0f00078452a3"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde0cc229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "kids_padrinos_magicos",
@@ -10638,7 +10638,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628695eb0f14e500077c109c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 129,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628695eb0f14e500077c109c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "6824cda00101510f9eeaa011"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628695eb0f14e500077c109c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "kids_tortugas_ninja",
@@ -10651,7 +10651,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1acdb136a4a90007c6472c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 130,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1acdb136a4a90007c6472c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "6824cda00101510f9eeaa011"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f1acdb136a4a90007c6472c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "kids_rugrats_tv",
@@ -10664,7 +10664,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b673c202a1d30007c37876/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 131,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b673c202a1d30007c37876/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "6824cda00101510f9eeaa011"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b673c202a1d30007c37876/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "kids_garfield_tv",
@@ -10677,7 +10677,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61378f9ba0a92d00073a7f5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 132,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61378f9ba0a92d00073a7f5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "5dcde2ac4bc6c500094ab45b"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61378f9ba0a92d00073a7f5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             }
           ]
         },
@@ -10696,7 +10696,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 133,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "66a11a21a79dea0008aa90ca"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "mus_mtv_classic",
@@ -10709,7 +10709,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 134,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "66a01b52a4ee27000808ea36"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "mus_conciertos",
@@ -10722,7 +10722,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 135,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "6868152657543d1f8be4ece3"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "mus_mtv_flow_latino",
@@ -10735,7 +10735,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fb075f5b030007978979/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 136,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fb075f5b030007978979/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "6047fabfce6e8e00070bcc9f"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fb075f5b030007978979/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "mus_mtv_spankin_new",
@@ -10748,7 +10748,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fa760e49b90007898c07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 137,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fa760e49b90007898c07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "6047fabfce6e8e00070bcc9f"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6047fa760e49b90007898c07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "mus_yo_mtv_raps",
@@ -10761,7 +10761,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 138,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "6047fabfce6e8e00070bcc9f"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "mus_vevo_latino",
@@ -10774,7 +10774,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f28e79f8c00007671f82/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 139,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f28e79f8c00007671f82/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "6047fb075f5b030007978979"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f28e79f8c00007671f82/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "mus_vevo_pop",
@@ -10787,7 +10787,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde38d4bc6c500094ab48a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 140,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde38d4bc6c500094ab48a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "6047fabfce6e8e00070bcc9f"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde38d4bc6c500094ab48a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "mus_vevo_retro_rock",
@@ -10800,7 +10800,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6868152657543d1f8be4ece3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 141,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6868152657543d1f8be4ece3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "66a11a21a79dea0008aa90ca"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6868152657543d1f8be4ece3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "mus_qello_concerts",
@@ -10813,7 +10813,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 142,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "66a11a21a79dea0008aa90ca"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             },
             {
               "id": "mus_karaoke_fiesta",
@@ -10826,7 +10826,7 @@
               "detailUrl": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f85ca7b01e0f200071e872f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555",
               "backupStreamUrl": "U",
               "channelNumber": 143,
-              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f85ca7b01e0f200071e872f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555", "U", "6047fb075f5b030007978979"]
+              "mirrorUrls": ["https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f85ca7b01e0f200071e872f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&deviceDNT=0&deviceId=11111111-2222-3333-4444-555555555555&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11111111-2222-3333-4444-555555555555"]
             }
           ]
         },
@@ -10897,7 +10897,7 @@
               "detailUrl": "https://www.youtube.com/results?search_query=ATV+Noticias+Peru+en+vivo&sp=EgJAAQ%253D%253D",
               "backupStreamUrl": "https://www.youtube.com/@atvnoticiasperu/live",
               "channelNumber": 148,
-              "mirrorUrls": ["https://www.youtube.com/results?search_query=ATV+Noticias+Peru+en+vivo&sp=EgJAAQ%253D%253D", "https://www.youtube.com/@atvnoticiasperu/live", "https://www.youtube.com/results?search_query=ATV+Noticias+en+vivo"]
+              "mirrorUrls": ["https://www.youtube.com/results?search_query=ATV+Noticias+Peru+en+vivo&sp=EgJAAQ%253D%253D", "https://www.youtube.com/results?search_query=ATV+Noticias+en+vivo"]
             },
             {
               "id": "int_panamericana_pe",
@@ -10962,7 +10962,7 @@
               "detailUrl": "https://www.youtube.com/results?search_query=24+Horas+TVN+Chile+en+vivo&sp=EgJAAQ%253D%253D",
               "backupStreamUrl": "https://www.youtube.com/@TVNChile/live",
               "channelNumber": 153,
-              "mirrorUrls": ["https://www.youtube.com/results?search_query=24+Horas+TVN+Chile+en+vivo&sp=EgJAAQ%253D%253D", "https://www.youtube.com/@TVNChile/live", "https://www.youtube.com/results?search_query=24+Horas+TVN+Chile+en+vivo"]
+              "mirrorUrls": ["https://www.youtube.com/results?search_query=24+Horas+TVN+Chile+en+vivo&sp=EgJAAQ%253D%253D", "https://www.youtube.com/results?search_query=24+Horas+TVN+Chile+en+vivo"]
             },
             {
               "id": "int_t13_cl",
@@ -11014,7 +11014,7 @@
               "detailUrl": "https://www.youtube.com/results?search_query=BioBioTV+Chile+en+vivo&sp=EgJAAQ%253D%253D",
               "backupStreamUrl": "https://www.youtube.com/@biobiotv/live",
               "channelNumber": 157,
-              "mirrorUrls": ["https://www.youtube.com/results?search_query=BioBioTV+Chile+en+vivo&sp=EgJAAQ%253D%253D", "https://www.youtube.com/@biobiotv/live", "https://www.youtube.com/results?search_query=Radio+Bio+Bio+Chile+en+vivo"]
+              "mirrorUrls": ["https://www.youtube.com/results?search_query=BioBioTV+Chile+en+vivo&sp=EgJAAQ%253D%253D", "https://www.youtube.com/results?search_query=Radio+Bio+Bio+Chile+en+vivo"]
             },
             {
               "id": "int_caracol_co",
@@ -11079,7 +11079,7 @@
               "detailUrl": "https://www.youtube.com/results?search_query=VPItv+Venezuela+en+vivo&sp=EgJAAQ%253D%253D",
               "backupStreamUrl": "https://www.youtube.com/@VPItv/live",
               "channelNumber": 162,
-              "mirrorUrls": ["https://www.youtube.com/results?search_query=VPItv+Venezuela+en+vivo&sp=EgJAAQ%253D%253D", "https://www.youtube.com/@VPItv/live", "https://www.youtube.com/results?search_query=VPItv+en+vivo"]
+              "mirrorUrls": ["https://www.youtube.com/results?search_query=VPItv+Venezuela+en+vivo&sp=EgJAAQ%253D%253D", "https://www.youtube.com/results?search_query=VPItv+en+vivo"]
             },
             {
               "id": "int_evtv_ve",
@@ -11157,7 +11157,7 @@
               "detailUrl": "https://www.youtube.com/results?search_query=Bolivia+TV+en+vivo&sp=EgJAAQ%253D%253D",
               "backupStreamUrl": "https://www.youtube.com/@CanalBoliviaTVOficial/live",
               "channelNumber": 168,
-              "mirrorUrls": ["https://www.youtube.com/results?search_query=Bolivia+TV+en+vivo&sp=EgJAAQ%253D%253D", "https://www.youtube.com/@CanalBoliviaTVOficial/live", "https://www.youtube.com/results?search_query=BTV+Noticias+Bolivia+en+vivo"]
+              "mirrorUrls": ["https://www.youtube.com/results?search_query=Bolivia+TV+en+vivo&sp=EgJAAQ%253D%253D", "https://www.youtube.com/results?search_query=BTV+Noticias+Bolivia+en+vivo"]
             },
             {
               "id": "int_bolivision_bo",
@@ -11209,7 +11209,7 @@
               "detailUrl": "https://www.youtube.com/results?search_query=adn40+Mexico+en+vivo&sp=EgJAAQ%253D%253D",
               "backupStreamUrl": "https://www.youtube.com/@adn40mx/live",
               "channelNumber": 172,
-              "mirrorUrls": ["https://www.youtube.com/results?search_query=adn40+Mexico+en+vivo&sp=EgJAAQ%253D%253D", "https://www.youtube.com/@adn40mx/live", "https://www.youtube.com/results?search_query=Hechos+Fuerza+Informativa+Azteca+en+vivo&sp=EgJAAQ%253D%253D"]
+              "mirrorUrls": ["https://www.youtube.com/results?search_query=adn40+Mexico+en+vivo&sp=EgJAAQ%253D%253D", "https://www.youtube.com/results?search_query=Hechos+Fuerza+Informativa+Azteca+en+vivo&sp=EgJAAQ%253D%253D"]
             },
             {
               "id": "int_imagen_mx",
@@ -11326,7 +11326,7 @@
               "detailUrl": "https://www.youtube.com/results?search_query=Teleamazonas+Ecuador+en+vivo&sp=EgJAAQ%253D%253D",
               "backupStreamUrl": "https://www.youtube.com/@teleamazonasecuador/live",
               "channelNumber": 181,
-              "mirrorUrls": ["https://www.youtube.com/results?search_query=Teleamazonas+Ecuador+en+vivo&sp=EgJAAQ%253D%253D", "https://www.youtube.com/@teleamazonasecuador/live", "https://www.youtube.com/results?search_query=24+Horas+Teleamazonas+Ecuador"]
+              "mirrorUrls": ["https://www.youtube.com/results?search_query=Teleamazonas+Ecuador+en+vivo&sp=EgJAAQ%253D%253D", "https://www.youtube.com/results?search_query=24+Horas+Teleamazonas+Ecuador"]
             },
             {
               "id": "int_tctv_ec",
@@ -11391,7 +11391,7 @@
               "detailUrl": "https://iptv.bitred.cl/euronews/index.m3u8",
               "backupStreamUrl": "U",
               "channelNumber": 186,
-              "mirrorUrls": ["https://iptv.bitred.cl/euronews/index.m3u8", "U", "619d59b7cbef25000728221c"]
+              "mirrorUrls": ["https://iptv.bitred.cl/euronews/index.m3u8"]
             },
             {
               "id": "int_rt_espanol",
