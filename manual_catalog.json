@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1793829296729,
+  "updatedAt": 1793833091140,
   "respectManualOrderStrict": true,
   "deletedCategoryIds": [],
   "deletedItemIds": ["tmdb_movie_9622", "imdb_tt0118708", "title:un ninja en beverly hills", "manual_live_tv_de30c211", "title:nuevo canal en vivo", "manual_live_tv_13951ffe", "tmdb_tv_25365", "title:pure rouge", "tmdb_tv_300093", "imdb_tt1037011", "tmdb_movie_16000", "title:ben 10 race against time", "manual_anime_22e7d571", "title:ben 10 carrera contra el tiempo"],
@@ -8975,18 +8975,18 @@
               "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/telefe-ar.png",
               "posterUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/telefe-ar.png",
               "groupTitle": "Canales Argentina",
-              "streamUrl": "http://45.173.231.22:8000/play/a053/index.m3u8",
-              "detailUrl": "http://45.173.231.22:8000/play/a053/index.m3u8",
-              "backupStreamUrl": "http://200.115.120.1:8000/play/ca016/index.m3u8",
+              "streamUrl": "https://www.mitelefe.com/telefe-en-vivo",
+              "detailUrl": "https://www.mitelefe.com/telefe-en-vivo",
+              "backupStreamUrl": "",
               "channelNumber": 3,
-              "mirrorUrls": ["http://45.173.231.22:8000/play/a053/index.m3u8", "http://200.115.120.1:8000/play/ca016/index.m3u8", "https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8"]
+              "mirrorUrls": ["https://www.mitelefe.com/telefe-en-vivo"]
             },
             {
               "id": "xuper_eltrece",
               "name": "El Trece",
               "title": "El Trece",
-              "logoUrl": "https://i.ibb.co/TB1J11xM/Gemini-Generated-Image-4lcuyz4lcuyz4lcu.jpg",
-              "posterUrl": "https://i.ibb.co/TB1J11xM/Gemini-Generated-Image-4lcuyz4lcuyz4lcu.jpg",
+              "logoUrl": "https://i.ibb.co/r2RX5h3x/Gemini-Generated-Image-pypgkcpypgkcpypg.jpg",
+              "posterUrl": "https://i.ibb.co/r2RX5h3x/Gemini-Generated-Image-pypgkcpypgkcpypg.jpg",
               "groupTitle": "Canales Argentina",
               "streamUrl": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
               "detailUrl": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
