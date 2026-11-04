@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "1.9.19",
-  "updatedAt": "2026-11-03 17:09:09",
+  "versionCode": 30,
+  "versionName": "1.9.20",
+  "updatedAt": "2026-11-03 21:13:07",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -20,7 +20,7 @@
     "linksUpdated": ["TNT Sports Premium", "Disney+ Eventos 1", "Disney+ Eventos 2", "Disney+ Eventos 3", "Disney+ Eventos 4", "Disney+ Eventos 5", "ESPN+ Eventos 1", "ESPN+ Eventos 2", "NBA League Pass 1", "NBA League Pass 2", "Universal TV", "Bolivia TV • BTV (Bolivia)", "Unitel & Telepaís (Bolivia)", "Red Uno & Notivisión (Bolivia)", "Bolivisión Al Día (Bolivia)", "BioBio TV (Chile)", "24 Horas TVN (Chile)", "T13 En Vivo • Canal 13 (Chile)", "Meganoticias (Chile)", "CHV Noticias • Chilevisión (Chile)", "Noticias Caracol (Colombia)", "Noticias RCN (Colombia)", "NTN24 Nuestra Tele Noticias (Colombia)", "Ecuavisa Noticias (Ecuador)", "Teleamazonas • 24 Horas (Ecuador)", "RTVE 24H (España)", "Antena 3 & La Sexta Noticias (España)", "ADN 40 Noticias (México)", "Milenio Televisión (México)", "N+ Foro TV • Noticieros Televisa (México)", "Imagen Noticias (México)", "ABC TV Paraguay (Paraguay)", "C9N & SNT Noticias (Paraguay)", "Telefuturo & NPY (Paraguay)", "ATV+ Noticias (Perú)", "TV Perú Noticias (Perú)", "Latina Noticias 24/7 (Perú)", "RPP Noticias TV (Perú)", "Exitosa Noticias (Perú)", "Panamericana TV • 24 Horas (Perú)", "Telenoche • Canal 4 (Uruguay)", "Subrayado • Canal 10 (Uruguay)", "Telemundo 12 Uruguay (Uruguay)", "Globovisión Noticias (Venezuela)", "VPI TV Noticias (Venezuela)", "EVTV Venezuela (Venezuela)", "TeleSUR HD (Venezuela)", "Euronews Español (Internacionales)"],
     "modified": ["Bolivia TV • BTV (Bolivia)", "Unitel & Telepaís (Bolivia)", "Red Uno & Notivisión (Bolivia)", "Bolivisión Al Día (Bolivia)", "BioBio TV (Chile)", "24 Horas TVN (Chile)", "T13 En Vivo • Canal 13 (Chile)", "Meganoticias (Chile)", "CHV Noticias • Chilevisión (Chile)", "Noticias Caracol (Colombia)", "Noticias RCN (Colombia)", "NTN24 Nuestra Tele Noticias (Colombia)", "Ecuavisa Noticias (Ecuador)", "Teleamazonas • 24 Horas (Ecuador)", "RTVE 24H (España)", "Antena 3 & La Sexta Noticias (España)", "ADN 40 Noticias (México)", "Milenio Televisión (México)", "N+ Foro TV • Noticieros Televisa (México)", "Imagen Noticias (México)", "ABC TV Paraguay (Paraguay)", "C9N & SNT Noticias (Paraguay)", "Telefuturo & NPY (Paraguay)", "ATV+ Noticias (Perú)", "TV Perú Noticias (Perú)", "Latina Noticias 24/7 (Perú)", "RPP Noticias TV (Perú)", "Exitosa Noticias (Perú)", "Panamericana TV • 24 Horas (Perú)", "Telenoche • Canal 4 (Uruguay)", "Subrayado • Canal 10 (Uruguay)", "Telemundo 12 Uruguay (Uruguay)", "Globovisión Noticias (Venezuela)", "VPI TV Noticias (Venezuela)", "EVTV Venezuela (Venezuela)", "TeleSUR HD (Venezuela)", "DW Español (Internacionales)", "France 24 Español (Internacionales)", "CNN en Español (Internacionales)", "Euronews Español (Internacionales)", "RT en Español (Internacionales)"]
   },
-  "changelog": "xdddddd",
-  "releaseNotes": "xdddddd"
+  "changelog": "xddddddbg",
+  "releaseNotes": "xddddddbg"
 }
 
