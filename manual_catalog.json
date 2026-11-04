@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1793825333089,
+  "updatedAt": 1793829296729,
   "respectManualOrderStrict": true,
   "deletedCategoryIds": [],
   "deletedItemIds": ["tmdb_movie_9622", "imdb_tt0118708", "title:un ninja en beverly hills", "manual_live_tv_de30c211", "title:nuevo canal en vivo", "manual_live_tv_13951ffe", "tmdb_tv_25365", "title:pure rouge", "tmdb_tv_300093", "imdb_tt1037011", "tmdb_movie_16000", "title:ben 10 race against time", "manual_anime_22e7d571", "title:ben 10 carrera contra el tiempo"],
@@ -8985,14 +8985,14 @@
               "id": "xuper_eltrece",
               "name": "El Trece",
               "title": "El Trece",
-              "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/eltrece-ar.png",
-              "posterUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/eltrece-ar.png",
+              "logoUrl": "https://i.ibb.co/TB1J11xM/Gemini-Generated-Image-4lcuyz4lcuyz4lcu.jpg",
+              "posterUrl": "https://i.ibb.co/TB1J11xM/Gemini-Generated-Image-4lcuyz4lcuyz4lcu.jpg",
               "groupTitle": "Canales Argentina",
               "streamUrl": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
               "detailUrl": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
-              "backupStreamUrl": "https://embed.saohgdassregions.com/embed2/eltrece.php",
+              "backupStreamUrl": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
               "channelNumber": 4,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/eltrece.php", "https://livetrx01.vodgc.net/eltrecetv/index.m3u8", "https://www.youtube.com/@eltrece/live"]
+              "mirrorUrls": ["https://livetrx01.vodgc.net/eltrecetv/index.m3u8"]
             },
             {
               "id": "ar_tn_5900",
@@ -9081,9 +9081,9 @@
               "groupTitle": "Canales Argentina",
               "streamUrl": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
               "detailUrl": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
-              "backupStreamUrl": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8",
+              "backupStreamUrl": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
               "channelNumber": 11,
-              "mirrorUrls": ["https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8", "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8"]
+              "mirrorUrls": []
             },
             {
               "id": "ar_canal9_mendoza",
@@ -9120,9 +9120,9 @@
               "groupTitle": "Canales Argentina",
               "streamUrl": "https://www.youtube.com/watch?v=yGLVhAklLyM",
               "detailUrl": "https://www.youtube.com/watch?v=yGLVhAklLyM",
-              "backupStreamUrl": "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+              "backupStreamUrl": "https://www.youtube.com/watch?v=yGLVhAklLyM",
               "channelNumber": 14,
-              "mirrorUrls": ["https://www.youtube.com/watch?v=yGLVhAklLyM", "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8"]
+              "mirrorUrls": []
             },
             {
               "id": "ar_nettv_5900",
