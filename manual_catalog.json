@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1793910703719,
+  "updatedAt": 1793915457366,
   "respectManualOrderStrict": true,
   "deletedCategoryIds": [],
-  "deletedItemIds": ["tmdb_movie_9622", "imdb_tt0118708", "title:un ninja en beverly hills", "manual_live_tv_de30c211", "title:nuevo canal en vivo", "manual_live_tv_13951ffe", "tmdb_tv_25365", "title:pure rouge", "tmdb_tv_300093", "imdb_tt1037011", "tmdb_movie_16000", "title:ben 10 race against time", "manual_anime_22e7d571", "title:ben 10 carrera contra el tiempo"],
+  "deletedItemIds": ["tmdb_movie_9622", "imdb_tt0118708", "title:un ninja en beverly hills", "manual_live_tv_de30c211", "title:nuevo canal en vivo", "manual_live_tv_13951ffe", "tmdb_tv_25365", "title:pure rouge", "tmdb_tv_300093", "imdb_tt1037011", "tmdb_movie_16000", "title:ben 10 race against time", "manual_anime_22e7d571", "title:ben 10 carrera contra el tiempo", "imdb_tt12076020", "tmdb_movie_691582", "title:a celebration of the music from coco"],
   "sections": {
     "MOVIE": {
       "categories": [
@@ -3348,6 +3348,30 @@
         }
       ],
       "unassignedItems": [
+            {
+              "id": "manual_movie_75fc8232",
+              "title": "Coco: Celebración musical",
+              "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzE3ZDc1ZjEtYTU2NS00NDI0LTkzZWQtZjI3NDhiZDY0MjcxXkEyXkFqcGc@._V1_SX600.jpg",
+              "backdropUrl": "https://image.tmdb.org/t/p/w780/wWMwNchgk8YGzmPbH4s9YxLtghg.jpg",
+              "badgeText": "HD LATINO",
+              "detailUrl": "https://www.youtube.com/watch?v=iK858YvmhcQ",
+              "year": "2020",
+              "rating": "7.0",
+              "synopsis": "Una presentación al estilo concierto en el Hollywood Bowl, que cuenta con parte del elenco de *Coco*, además de cantantes y bailarines. Una celebración vibrante de la cultura, el amor, la familia y la música.",
+              "groupTitle": "",
+              "isAnimatedMovie": false,
+              "servers": [
+                {
+                  "id": "manual_srv_310babf8",
+                  "name": "Servidor 1",
+                  "embedUrl": "https://www.youtube.com/watch?v=iK858YvmhcQ",
+                  "language": "Latino",
+                  "quality": "1080p",
+                  "isDirectStream": false
+                }
+              ],
+              "seasons": []
+            },
             {
               "id": "manual_movie_5f6fe0ce",
               "title": "Ben 10: Carrera contra el tiempo",
