@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "1.9.39",
-  "updatedAt": "2026-11-05 18:52:22",
+  "versionCode": 50,
+  "versionName": "1.9.40",
+  "updatedAt": "2026-11-05 20:30:48",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -14,13 +14,13 @@
     "universal": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk"
   },
   "changes": {
-    "added": ["Coco: Celebración musical"],
-    "postersUpdated": ["Coco: Celebración musical"],
-    "deleted": ["Coco: Celebración musical", "A Celebration of the Music from Coco"],
+    "added": [],
+    "postersUpdated": [],
+    "deleted": [],
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "Contenido añadido:\n• Coco: Celebración musical\n\nPortadas actualizadas:\n• Coco: Celebración musical\n\nContenido eliminado:\n• Coco: Celebración musical\n• A Celebration of the Music from Coco",
-  "releaseNotes": "Contenido añadido:\n• Coco: Celebración musical\n\nPortadas actualizadas:\n• Coco: Celebración musical\n\nContenido eliminado:\n• Coco: Celebración musical\n• A Celebration of the Music from Coco"
+  "changelog": "Contenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "Contenido añadido:\n• Actualización general del catálogo"
 }
 
