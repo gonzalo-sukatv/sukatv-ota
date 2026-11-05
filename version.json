@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "1.9.28",
-  "updatedAt": "2026-11-04 19:59:18",
+  "versionCode": 39,
+  "versionName": "1.9.29",
+  "updatedAt": "2026-11-05 09:24:56",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -15,12 +15,12 @@
   },
   "changes": {
     "added": [],
-    "postersUpdated": ["El Trece"],
+    "postersUpdated": [],
     "deleted": [],
-    "linksUpdated": ["Telefe"],
+    "linksUpdated": ["El Trece"],
     "modified": []
   },
-  "changelog": "Contenido añadido:\n• Actualización general del catálogo\n\nPortadas actualizadas:\n• El Trece\n\nEnlaces y servidores actualizados:\n• Telefe",
-  "releaseNotes": "Contenido añadido:\n• Actualización general del catálogo\n\nPortadas actualizadas:\n• El Trece\n\nEnlaces y servidores actualizados:\n• Telefe"
+  "changelog": "Contenido añadido:\n• Actualización general del catálogo\n\nEnlaces y servidores actualizados:\n• El Trece",
+  "releaseNotes": "Contenido añadido:\n• Actualización general del catálogo\n\nEnlaces y servidores actualizados:\n• El Trece"
 }
 
