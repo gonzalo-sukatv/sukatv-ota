@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1793880359377,
+  "updatedAt": 1793882764181,
   "respectManualOrderStrict": true,
   "deletedCategoryIds": [],
   "deletedItemIds": ["tmdb_movie_9622", "imdb_tt0118708", "title:un ninja en beverly hills", "manual_live_tv_de30c211", "title:nuevo canal en vivo", "manual_live_tv_13951ffe", "tmdb_tv_25365", "title:pure rouge", "tmdb_tv_300093", "imdb_tt1037011", "tmdb_movie_16000", "title:ben 10 race against time", "manual_anime_22e7d571", "title:ben 10 carrera contra el tiempo"],
@@ -8992,7 +8992,7 @@
               "detailUrl": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
               "backupStreamUrl": "https://embed.saohgdassregions.com/embed2/eltrece.php",
               "channelNumber": 4,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/eltrece.php", "https://www.youtube.com/@eltrece/live"]
+              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/eltrece.php"]
             },
             {
               "id": "ar_tn_5900",
@@ -9027,11 +9027,11 @@
               "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/la-nacion-mas-ar.png",
               "posterUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/la-nacion-mas-ar.png",
               "groupTitle": "Canales Argentina",
-              "streamUrl": "https://www.youtube.com/watch?v=41VgSU5ueRc",
-              "detailUrl": "https://www.youtube.com/watch?v=41VgSU5ueRc",
-              "backupStreamUrl": "https://www.youtube.com/watch?v=41VgSU5ueRc",
+              "streamUrl": "https://www.youtube.com/watch?v=FEWZjXJ7M0c",
+              "detailUrl": "https://www.youtube.com/watch?v=FEWZjXJ7M0c",
+              "backupStreamUrl": "https://www.youtube.com/watch?v=FEWZjXJ7M0c",
               "channelNumber": 7,
-              "mirrorUrls": ["https://www.youtube.com/watch?v=41VgSU5ueRc"]
+              "mirrorUrls": []
             },
             {
               "id": "ar_a24_5900",
