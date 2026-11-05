@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1793898316309,
+  "updatedAt": 1793900041989,
   "respectManualOrderStrict": true,
   "deletedCategoryIds": [],
   "deletedItemIds": ["tmdb_movie_9622", "imdb_tt0118708", "title:un ninja en beverly hills", "manual_live_tv_de30c211", "title:nuevo canal en vivo", "manual_live_tv_13951ffe", "tmdb_tv_25365", "title:pure rouge", "tmdb_tv_300093", "imdb_tt1037011", "tmdb_movie_16000", "title:ben 10 race against time", "manual_anime_22e7d571", "title:ben 10 carrera contra el tiempo"],
@@ -6467,7 +6467,7 @@
             {
               "id": "cartoon_tt0101188",
               "title": "Rugrats: Aventuras en Pañales",
-              "posterUrl": "https://images.metahub.space/poster/medium/tt0101188/img",
+              "posterUrl": "https://i.ibb.co/ynv2bmyH/Rugrats-3-Fster-29.jpg",
               "backdropUrl": "https://images.metahub.space/poster/medium/tt0101188/img",
               "badgeText": "NICK CLÁSICO",
               "detailUrl": "https://embed69.org/f/tt0101188-1x1",

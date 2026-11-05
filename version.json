@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "1.9.32",
-  "updatedAt": "2026-11-05 14:06:31",
+  "versionCode": 43,
+  "versionName": "1.9.33",
+  "updatedAt": "2026-11-05 14:35:13",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -15,12 +15,12 @@
   },
   "changes": {
     "added": [],
-    "postersUpdated": [],
+    "postersUpdated": ["Rugrats: Aventuras en Pañales"],
     "deleted": [],
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "Contenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "Contenido añadido:\n• Actualización general del catálogo"
+  "changelog": "Contenido añadido:\n• Actualización general del catálogo\n\nPortadas actualizadas:\n• Rugrats: Aventuras en Pañales",
+  "releaseNotes": "Contenido añadido:\n• Actualización general del catálogo\n\nPortadas actualizadas:\n• Rugrats: Aventuras en Pañales"
 }
 
