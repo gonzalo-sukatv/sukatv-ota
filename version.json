@@ -1,7 +1,7 @@
 {
-  "versionCode": 55,
-  "versionName": "1.9.45",
-  "updatedAt": "2026-11-06 16:41:36",
+  "versionCode": 56,
+  "versionName": "1.9.46",
+  "updatedAt": "2026-11-06 17:06:46",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -17,10 +17,10 @@
     "added": [],
     "postersUpdated": [],
     "deleted": [],
-    "linksUpdated": ["HBO 2"],
+    "linksUpdated": [],
     "modified": []
   },
-  "changelog": "Contenido añadido:\n• Actualización general del catálogo\n\nEnlaces y servidores actualizados:\n• HBO 2",
-  "releaseNotes": "Contenido añadido:\n• Actualización general del catálogo\n\nEnlaces y servidores actualizados:\n• HBO 2"
+  "changelog": "Contenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "Contenido añadido:\n• Actualización general del catálogo"
 }
 
