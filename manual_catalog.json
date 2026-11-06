@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1793992408936,
+  "updatedAt": 1793993981781,
   "respectManualOrderStrict": true,
   "deletedCategoryIds": [],
   "deletedItemIds": ["tmdb_movie_9622", "imdb_tt0118708", "title:un ninja en beverly hills", "manual_live_tv_de30c211", "title:nuevo canal en vivo", "manual_live_tv_13951ffe", "tmdb_tv_25365", "title:pure rouge", "tmdb_tv_300093", "imdb_tt1037011", "tmdb_movie_16000", "title:ben 10 race against time", "manual_anime_22e7d571", "title:ben 10 carrera contra el tiempo", "imdb_tt12076020", "tmdb_movie_691582", "title:a celebration of the music from coco", "imdb_tt1144841", "title:kimikiss pure rouge", "manual_live_tv_508e604b", "manual_live_tv_68807726"],
@@ -10204,11 +10204,11 @@
               "logoUrl": "",
               "posterUrl": "",
               "groupTitle": "Cine & Series",
-              "streamUrl": "https://embed.saohgdassregions.com/embed2/tnt.php",
-              "detailUrl": "https://embed.saohgdassregions.com/embed2/tnt.php",
-              "backupStreamUrl": "https://streamtp-golden1.click/global2.php?stream=tnt",
+              "streamUrl": "http://45.171.64.30:6060/play/a00i/index.m3u8",
+              "detailUrl": "http://45.171.64.30:6060/play/a00i/index.m3u8",
+              "backupStreamUrl": "http://45.171.64.30:6060/play/a00i/index.m3u8",
               "channelNumber": 58,
-              "mirrorUrls": ["https://embed.saohgdassregions.com/embed2/tnt.php", "https://streamtp-golden1.click/global2.php?stream=tnt"]
+              "mirrorUrls": []
             },
             {
               "id": "hbo_plus_hd",
