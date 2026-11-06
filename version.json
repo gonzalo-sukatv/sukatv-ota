@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "1.9.41",
-  "updatedAt": "2026-11-05 21:15:09",
+  "versionCode": 52,
+  "versionName": "1.9.42",
+  "updatedAt": "2026-11-05 22:33:01",
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -14,13 +14,13 @@
     "universal": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk"
   },
   "changes": {
-    "added": [],
-    "postersUpdated": [],
-    "deleted": [],
+    "added": ["Kimikisu: Pure Rouge"],
+    "postersUpdated": ["Kimikisu: Pure Rouge"],
+    "deleted": ["キミキス pure rouge", "Kimikiss: Pure Rouge"],
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "Contenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "Contenido añadido:\n• Actualización general del catálogo"
+  "changelog": "Contenido añadido:\n• Kimikisu: Pure Rouge\n\nPortadas actualizadas:\n• Kimikisu: Pure Rouge\n\nContenido eliminado:\n• キミキス pure rouge\n• Kimikiss: Pure Rouge",
+  "releaseNotes": "Contenido añadido:\n• Kimikisu: Pure Rouge\n\nPortadas actualizadas:\n• Kimikisu: Pure Rouge\n\nContenido eliminado:\n• キミキス pure rouge\n• Kimikiss: Pure Rouge"
 }
 
