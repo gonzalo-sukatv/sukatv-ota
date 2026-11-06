@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1793928622288,
+  "updatedAt": 1793933409185,
   "respectManualOrderStrict": true,
   "deletedCategoryIds": [],
   "deletedItemIds": ["tmdb_movie_9622", "imdb_tt0118708", "title:un ninja en beverly hills", "manual_live_tv_de30c211", "title:nuevo canal en vivo", "manual_live_tv_13951ffe", "tmdb_tv_25365", "title:pure rouge", "tmdb_tv_300093", "imdb_tt1037011", "tmdb_movie_16000", "title:ben 10 race against time", "manual_anime_22e7d571", "title:ben 10 carrera contra el tiempo", "imdb_tt12076020", "tmdb_movie_691582", "title:a celebration of the music from coco", "imdb_tt1144841", "title:kimikiss pure rouge"],
@@ -7975,6 +7975,484 @@
               "isAnimatedMovie": true,
               "servers": [],
               "seasons": []
+            },
+            {
+              "id": "manual_anime_07489bb4",
+              "title": "Kimi kiss: Pure Rouge",
+              "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzQ5ZDQwZWYtN2I0OC00YzY3LTkzMWItMDNiOWE1OTlkYTZiXkEyXkFqcGc@._V1_SX600.jpg",
+              "backdropUrl": "https://image.tmdb.org/t/p/w780/wUPrTlfXd5J3nap7HoTo9VmZe0f.jpg",
+              "badgeText": "EN VIVO",
+              "detailUrl": "https://files.catbox.moe/g59zef.mp4",
+              "year": "2007",
+              "rating": "6.6",
+              "synopsis": "Mao Mizusawa, amiga de la infancia de Kouichi Sanada y Kazuki Aihara, ha regresado tras vivir un par de años en Francia. Kouichi se sorprende al saber que, dado que sus padres permanecen en el extranjero por el momento, su madre...",
+              "groupTitle": "Ciencia ficción",
+              "isAnimatedMovie": false,
+              "servers": [],
+              "seasons": [
+                {
+                  "seasonNumber": 1,
+                  "title": "Temporada 1",
+                  "episodes": [
+                    {
+                      "id": "manual_ep_6dd45821",
+                      "episodeNumber": 1,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 1",
+                      "detailUrl": "https://files.catbox.moe/g59zef.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_6dd45821_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/g59zef.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_4a9378ed",
+                      "episodeNumber": 2,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 2",
+                      "detailUrl": "https://files.catbox.moe/5ynctg.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_4a9378ed_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/5ynctg.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_a0982bb8",
+                      "episodeNumber": 3,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 3",
+                      "detailUrl": "https://files.catbox.moe/q15s8p.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_a0982bb8_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/q15s8p.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_ce46e097",
+                      "episodeNumber": 4,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 4",
+                      "detailUrl": "https://files.catbox.moe/uwxc2s.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_ce46e097_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/uwxc2s.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_433fb125",
+                      "episodeNumber": 5,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 5",
+                      "detailUrl": "https://files.catbox.moe/s8mw59.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_433fb125_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/s8mw59.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_a1a7460b",
+                      "episodeNumber": 6,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 6",
+                      "detailUrl": "https://files.catbox.moe/5h1sx3.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_a1a7460b_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/5h1sx3.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_69b95ec8",
+                      "episodeNumber": 7,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 7",
+                      "detailUrl": "https://files.catbox.moe/8qmcj7.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_69b95ec8_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/8qmcj7.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_850907da",
+                      "episodeNumber": 8,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 8",
+                      "detailUrl": "https://files.catbox.moe/i8kkcf.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_850907da_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/i8kkcf.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_3712cfdb",
+                      "episodeNumber": 9,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 9",
+                      "detailUrl": "https://files.catbox.moe/g8gkbw.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_3712cfdb_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/g8gkbw.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_8d80aad6",
+                      "episodeNumber": 10,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 10",
+                      "detailUrl": "https://files.catbox.moe/iixfox.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_8d80aad6_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/iixfox.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_d0f1ce21",
+                      "episodeNumber": 11,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 11",
+                      "detailUrl": "https://files.catbox.moe/l91flr.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_d0f1ce21_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/l91flr.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_fba188dd",
+                      "episodeNumber": 12,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 12",
+                      "detailUrl": "https://files.catbox.moe/hts1ni.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_fba188dd_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/hts1ni.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_00e89183",
+                      "episodeNumber": 13,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 13",
+                      "detailUrl": "https://files.catbox.moe/mgsc9p.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_00e89183_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/mgsc9p.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_8d7585fb",
+                      "episodeNumber": 14,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 14",
+                      "detailUrl": "https://files.catbox.moe/0gi8om.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_8d7585fb_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/0gi8om.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_0648fb8e",
+                      "episodeNumber": 15,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 15",
+                      "detailUrl": "https://files.catbox.moe/ic8wr4.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_0648fb8e_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/ic8wr4.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_a3018a47",
+                      "episodeNumber": 16,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 16",
+                      "detailUrl": "https://files.catbox.moe/f0p4ib.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_a3018a47_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/f0p4ib.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_4763477a",
+                      "episodeNumber": 17,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 17",
+                      "detailUrl": "https://files.catbox.moe/0xa6bp.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_4763477a_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/0xa6bp.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_63aca0e2",
+                      "episodeNumber": 18,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 18",
+                      "detailUrl": "https://files.catbox.moe/kucfna.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_63aca0e2_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/kucfna.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_13de4b83",
+                      "episodeNumber": 19,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 19",
+                      "detailUrl": "https://files.catbox.moe/otm2vi.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_13de4b83_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/otm2vi.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_6259c340",
+                      "episodeNumber": 20,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 20",
+                      "detailUrl": "https://files.catbox.moe/o8291b.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_6259c340_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/o8291b.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_4419d67c",
+                      "episodeNumber": 21,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 21",
+                      "detailUrl": "https://files.catbox.moe/3hlqc0.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_4419d67c_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/3hlqc0.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_c25d7962",
+                      "episodeNumber": 22,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 22",
+                      "detailUrl": "https://files.catbox.moe/cwnxwn.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_c25d7962_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/cwnxwn.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_0e46d0b1",
+                      "episodeNumber": 23,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 23",
+                      "detailUrl": "https://files.catbox.moe/qbplgr.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_0e46d0b1_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/qbplgr.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    },
+                    {
+                      "id": "manual_ep_c9c8b588",
+                      "episodeNumber": 24,
+                      "seasonNumber": 1,
+                      "title": "Capítulo 24",
+                      "detailUrl": "https://files.catbox.moe/l76br0.mp4",
+                      "thumbnailUrl": "",
+                      "durationText": "24m",
+                      "servers": [
+                        {
+                          "id": "manual_manual_ep_c9c8b588_srv_1",
+                          "name": "Servidor 1",
+                          "embedUrl": "https://files.catbox.moe/l76br0.mp4",
+                          "language": "Latino",
+                          "quality": "1080p",
+                          "isDirectStream": true
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -8958,484 +9436,6 @@
         }
       ],
       "unassignedItems": [
-            {
-              "id": "manual_anime_07489bb4",
-              "title": "Kimikisu: Pure Rouge",
-              "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzQ5ZDQwZWYtN2I0OC00YzY3LTkzMWItMDNiOWE1OTlkYTZiXkEyXkFqcGc@._V1_SX600.jpg",
-              "backdropUrl": "https://image.tmdb.org/t/p/w780/wUPrTlfXd5J3nap7HoTo9VmZe0f.jpg",
-              "badgeText": "EN VIVO",
-              "detailUrl": "https://files.catbox.moe/g59zef.mp4",
-              "year": "2007",
-              "rating": "6.6",
-              "synopsis": "Mao Mizusawa, amiga de la infancia de Kouichi Sanada y Kazuki Aihara, ha regresado tras vivir un par de años en Francia. Kouichi se sorprende al saber que, dado que sus padres permanecen en el extranjero por el momento, su madre...",
-              "groupTitle": "",
-              "isAnimatedMovie": false,
-              "servers": [],
-              "seasons": [
-                {
-                  "seasonNumber": 1,
-                  "title": "Temporada 1",
-                  "episodes": [
-                    {
-                      "id": "manual_ep_6dd45821",
-                      "episodeNumber": 1,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 1",
-                      "detailUrl": "https://files.catbox.moe/g59zef.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_6dd45821_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/g59zef.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_4a9378ed",
-                      "episodeNumber": 2,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 2",
-                      "detailUrl": "https://files.catbox.moe/5ynctg.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_4a9378ed_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/5ynctg.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_a0982bb8",
-                      "episodeNumber": 3,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 3",
-                      "detailUrl": "https://files.catbox.moe/q15s8p.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_a0982bb8_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/q15s8p.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_ce46e097",
-                      "episodeNumber": 4,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 4",
-                      "detailUrl": "https://files.catbox.moe/uwxc2s.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_ce46e097_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/uwxc2s.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_433fb125",
-                      "episodeNumber": 5,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 5",
-                      "detailUrl": "https://files.catbox.moe/s8mw59.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_433fb125_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/s8mw59.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_a1a7460b",
-                      "episodeNumber": 6,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 6",
-                      "detailUrl": "https://files.catbox.moe/5h1sx3.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_a1a7460b_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/5h1sx3.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_69b95ec8",
-                      "episodeNumber": 7,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 7",
-                      "detailUrl": "https://files.catbox.moe/8qmcj7.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_69b95ec8_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/8qmcj7.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_850907da",
-                      "episodeNumber": 8,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 8",
-                      "detailUrl": "https://files.catbox.moe/i8kkcf.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_850907da_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/i8kkcf.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_3712cfdb",
-                      "episodeNumber": 9,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 9",
-                      "detailUrl": "https://files.catbox.moe/g8gkbw.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_3712cfdb_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/g8gkbw.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_8d80aad6",
-                      "episodeNumber": 10,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 10",
-                      "detailUrl": "https://files.catbox.moe/iixfox.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_8d80aad6_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/iixfox.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_d0f1ce21",
-                      "episodeNumber": 11,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 11",
-                      "detailUrl": "https://files.catbox.moe/l91flr.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_d0f1ce21_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/l91flr.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_fba188dd",
-                      "episodeNumber": 12,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 12",
-                      "detailUrl": "https://files.catbox.moe/hts1ni.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_fba188dd_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/hts1ni.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_00e89183",
-                      "episodeNumber": 13,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 13",
-                      "detailUrl": "https://files.catbox.moe/mgsc9p.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_00e89183_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/mgsc9p.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_8d7585fb",
-                      "episodeNumber": 14,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 14",
-                      "detailUrl": "https://files.catbox.moe/0gi8om.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_8d7585fb_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/0gi8om.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_0648fb8e",
-                      "episodeNumber": 15,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 15",
-                      "detailUrl": "https://files.catbox.moe/ic8wr4.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_0648fb8e_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/ic8wr4.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_a3018a47",
-                      "episodeNumber": 16,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 16",
-                      "detailUrl": "https://files.catbox.moe/f0p4ib.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_a3018a47_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/f0p4ib.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_4763477a",
-                      "episodeNumber": 17,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 17",
-                      "detailUrl": "https://files.catbox.moe/0xa6bp.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_4763477a_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/0xa6bp.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_63aca0e2",
-                      "episodeNumber": 18,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 18",
-                      "detailUrl": "https://files.catbox.moe/kucfna.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_63aca0e2_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/kucfna.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_13de4b83",
-                      "episodeNumber": 19,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 19",
-                      "detailUrl": "https://files.catbox.moe/otm2vi.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_13de4b83_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/otm2vi.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_6259c340",
-                      "episodeNumber": 20,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 20",
-                      "detailUrl": "https://files.catbox.moe/o8291b.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_6259c340_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/o8291b.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_4419d67c",
-                      "episodeNumber": 21,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 21",
-                      "detailUrl": "https://files.catbox.moe/3hlqc0.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_4419d67c_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/3hlqc0.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_c25d7962",
-                      "episodeNumber": 22,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 22",
-                      "detailUrl": "https://files.catbox.moe/cwnxwn.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_c25d7962_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/cwnxwn.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_0e46d0b1",
-                      "episodeNumber": 23,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 23",
-                      "detailUrl": "https://files.catbox.moe/qbplgr.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_0e46d0b1_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/qbplgr.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    },
-                    {
-                      "id": "manual_ep_c9c8b588",
-                      "episodeNumber": 24,
-                      "seasonNumber": 1,
-                      "title": "Capítulo 24",
-                      "detailUrl": "https://files.catbox.moe/l76br0.mp4",
-                      "thumbnailUrl": "",
-                      "durationText": "24m",
-                      "servers": [
-                        {
-                          "id": "manual_manual_ep_c9c8b588_srv_1",
-                          "name": "Servidor 1",
-                          "embedUrl": "https://files.catbox.moe/l76br0.mp4",
-                          "language": "Latino",
-                          "quality": "1080p",
-                          "isDirectStream": true
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
       ]
     },
     "LIVE_TV": {
