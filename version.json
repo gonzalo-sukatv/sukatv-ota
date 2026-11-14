@@ -1,9 +1,9 @@
 {
-  "versionCode": 72,
-  "versionName": "2.0.14",
-  "updatedAt": "2026-11-14 09:42:14",
+  "versionCode": 74,
+  "versionName": "2.0.16",
+  "updatedAt": "2026-11-14 10:38:15",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1794660134504,
+  "catalogUpdatedAt": 1794663495063,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Deduplicación multi-idioma inteligente (Español / Inglés / Japonés) con prioridad de nombre en Español para Películas y Series, y en Inglés para Animes\n• Separación estricta de Películas: todas las películas (animadas o reales) aparecen únicamente en \"Películas\" y nunca en \"Animaciones\"\n• Reproductor: \"Capítulos\" muestra solo los episodios de la temporada actual, y se eliminaron los botones \"Saltar intro (OK)\" y \"Favorito\" en canales de TV\n• TV en Vivo: nuevo widget de Clima del Día auto-actualizable debajo de la vista previa, limpieza de \"Transmisión en vivo\" / barra verde en canales y \"Favoritos\" sin icono de estrella\n• Navegación mejorada: vista fija arriba al buscar en \"Buscar\" y memoria exacta del título enfocado al subir al menú superior y volver a bajar\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Deduplicación multi-idioma inteligente (Español / Inglés / Japonés) con prioridad de nombre en Español para Películas y Series, y en Inglés para Animes\n• Separación estricta de Películas: todas las películas (animadas o reales) aparecen únicamente en \"Películas\" y nunca en \"Animaciones\"\n• Reproductor: \"Capítulos\" muestra solo los episodios de la temporada actual, y se eliminaron los botones \"Saltar intro (OK)\" y \"Favorito\" en canales de TV\n• TV en Vivo: nuevo widget de Clima del Día auto-actualizable debajo de la vista previa, limpieza de \"Transmisión en vivo\" / barra verde en canales y \"Favoritos\" sin icono de estrella\n• Navegación mejorada: vista fija arriba al buscar en \"Buscar\" y memoria exacta del título enfocado al subir al menú superior y volver a bajar\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Arranque instantáneo reparado: corregido el bloqueo en el logo de \"SukaTV\" al iniciar (eliminada la recompilación masiva de expresiones regulares, contención de hilos y escrituras SQLite bloqueantes en apertura)\n• Deduplicación multi-idioma O(1) (Español / Inglés / Japonés) priorizando Español en Películas y Series, e Inglés en Animes\n• Separación estricta de Películas: todas las películas (animadas o reales) aparecen únicamente en \"Películas\" y nunca en \"Animaciones\"\n• Reproductor y TV en Vivo: \"Capítulos\" solo de la temporada actual, sin \"Saltar intro (OK)\" ni \"Favorito\" en TV, nuevo widget de Clima del Día auto-actualizable, \"Favoritos\" sin estrella y limpieza bajo nombres de canales\n• Navegación mejorada: vista fija arriba al escribir en \"Buscar\" y memoria exacta de película/título al subir al menú superior y volver a bajar\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Arranque instantáneo reparado: corregido el bloqueo en el logo de \"SukaTV\" al iniciar (eliminada la recompilación masiva de expresiones regulares, contención de hilos y escrituras SQLite bloqueantes en apertura)\n• Deduplicación multi-idioma O(1) (Español / Inglés / Japonés) priorizando Español en Películas y Series, e Inglés en Animes\n• Separación estricta de Películas: todas las películas (animadas o reales) aparecen únicamente en \"Películas\" y nunca en \"Animaciones\"\n• Reproductor y TV en Vivo: \"Capítulos\" solo de la temporada actual, sin \"Saltar intro (OK)\" ni \"Favorito\" en TV, nuevo widget de Clima del Día auto-actualizable, \"Favoritos\" sin estrella y limpieza bajo nombres de canales\n• Navegación mejorada: vista fija arriba al escribir en \"Buscar\" y memoria exacta de película/título al subir al menú superior y volver a bajar\n\nContenido añadido:\n• Actualización general del catálogo"
 }
