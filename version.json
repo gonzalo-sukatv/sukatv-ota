@@ -1,9 +1,9 @@
 {
-  "versionCode": 78,
-  "versionName": "2.0.20",
-  "updatedAt": "2026-11-14 14:47:58",
+  "versionCode": 80,
+  "versionName": "2.0.22",
+  "updatedAt": "2026-11-14 16:09:16",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1794678478236,
+  "catalogUpdatedAt": 1794683356018,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Nuevo menú de \"Servidores\" en 2 niveles: mantiene \"⚡ Siguiente mejor servidor\" e incorpora \"Servidores Latino\", \"Servidores Subtitulados\" y \"Servidores Castellano\" desplegando abajo la fila horizontal de servidores por idioma\n• Corrección de calidad HD en servidores Subtitulados y Castellano: detección real de resolución HLS (descartando espejos 360p frente a opciones 1080p/720p), preservación completa de Nupload 1080p en todos los idiomas y cruce nativo con JKAnime/TioAnime HD para películas de anime\n• Cambio real garantizado entre servidores del mismo idioma (con fallback automático a WebView para servidores JS y bloqueo de rebote al servidor anterior)\n• Clima en vivo en \"TV\" fijado con datos actualizados para Guaymallén, Mendoza\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Nuevo menú de \"Servidores\" en 2 niveles: mantiene \"⚡ Siguiente mejor servidor\" e incorpora \"Servidores Latino\", \"Servidores Subtitulados\" y \"Servidores Castellano\" desplegando abajo la fila horizontal de servidores por idioma\n• Corrección de calidad HD en servidores Subtitulados y Castellano: detección real de resolución HLS (descartando espejos 360p frente a opciones 1080p/720p), preservación completa de Nupload 1080p en todos los idiomas y cruce nativo con JKAnime/TioAnime HD para películas de anime\n• Cambio real garantizado entre servidores del mismo idioma (con fallback automático a WebView para servidores JS y bloqueo de rebote al servidor anterior)\n• Clima en vivo en \"TV\" fijado con datos actualizados para Guaymallén, Mendoza\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Corrección de raíz en reproducción de servidores VidHide / StreamWish (decodificación nativa de segmentos HLS camuflados con cabecera PNG) y JKPlayer directo\n• Eliminación del bloqueo de carga infinita al cambiar de servidor: auto-rescate automático al siguiente servidor del mismo idioma ante error o demora, permitiendo cambiar en cualquier momento\n• Selección manual fiel al orden de la lista y ruedita de carga únicamente en el servidor pulsado (sin repetirla en \"Servidores\" ni en las categorías de idioma)\n• Nuevo menú interactivo con el Clima de toda la Semana (7 días para Guaymallén, Mendoza) al dar OK sobre el recuadro del clima en \"TV\"\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Corrección de raíz en reproducción de servidores VidHide / StreamWish (decodificación nativa de segmentos HLS camuflados con cabecera PNG) y JKPlayer directo\n• Eliminación del bloqueo de carga infinita al cambiar de servidor: auto-rescate automático al siguiente servidor del mismo idioma ante error o demora, permitiendo cambiar en cualquier momento\n• Selección manual fiel al orden de la lista y ruedita de carga únicamente en el servidor pulsado (sin repetirla en \"Servidores\" ni en las categorías de idioma)\n• Nuevo menú interactivo con el Clima de toda la Semana (7 días para Guaymallén, Mendoza) al dar OK sobre el recuadro del clima en \"TV\"\n\nContenido añadido:\n• Actualización general del catálogo"
 }
