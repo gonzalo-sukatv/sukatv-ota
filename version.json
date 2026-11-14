@@ -1,9 +1,9 @@
 {
-  "versionCode": 74,
-  "versionName": "2.0.16",
-  "updatedAt": "2026-11-14 10:38:15",
+  "versionCode": 76,
+  "versionName": "2.0.18",
+  "updatedAt": "2026-11-14 12:12:16",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1794663495063,
+  "catalogUpdatedAt": 1794669136667,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Arranque instantáneo reparado: corregido el bloqueo en el logo de \"SukaTV\" al iniciar (eliminada la recompilación masiva de expresiones regulares, contención de hilos y escrituras SQLite bloqueantes en apertura)\n• Deduplicación multi-idioma O(1) (Español / Inglés / Japonés) priorizando Español en Películas y Series, e Inglés en Animes\n• Separación estricta de Películas: todas las películas (animadas o reales) aparecen únicamente en \"Películas\" y nunca en \"Animaciones\"\n• Reproductor y TV en Vivo: \"Capítulos\" solo de la temporada actual, sin \"Saltar intro (OK)\" ni \"Favorito\" en TV, nuevo widget de Clima del Día auto-actualizable, \"Favoritos\" sin estrella y limpieza bajo nombres de canales\n• Navegación mejorada: vista fija arriba al escribir en \"Buscar\" y memoria exacta de película/título al subir al menú superior y volver a bajar\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Arranque instantáneo reparado: corregido el bloqueo en el logo de \"SukaTV\" al iniciar (eliminada la recompilación masiva de expresiones regulares, contención de hilos y escrituras SQLite bloqueantes en apertura)\n• Deduplicación multi-idioma O(1) (Español / Inglés / Japonés) priorizando Español en Películas y Series, e Inglés en Animes\n• Separación estricta de Películas: todas las películas (animadas o reales) aparecen únicamente en \"Películas\" y nunca en \"Animaciones\"\n• Reproductor y TV en Vivo: \"Capítulos\" solo de la temporada actual, sin \"Saltar intro (OK)\" ni \"Favorito\" en TV, nuevo widget de Clima del Día auto-actualizable, \"Favoritos\" sin estrella y limpieza bajo nombres de canales\n• Navegación mejorada: vista fija arriba al escribir en \"Buscar\" y memoria exacta de película/título al subir al menú superior y volver a bajar\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Nuevo panel híbrido de \"Servidores\" en el reproductor: botón instantáneo \"⚡ Siguiente mejor servidor\" a 1 clic + selector limpio de opciones (\"Opción 1 • Latino\", \"Opción 2 • Latino\", etc.) con indicador exacto del servidor en reproducción\n• Motor inteligente anti-bucles: memoria de sesión de servidores descartados, salto prioritario a un CDN distinto cuando una opción se traba y cambio paralelo inmediato (~1s) manteniendo Español Latino primero\n• Sincronización real del servidor ganador incluso cuando entra un respaldo automático, y respeto estricto de idioma cuando eliges una opción específica manualmente\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Nuevo panel híbrido de \"Servidores\" en el reproductor: botón instantáneo \"⚡ Siguiente mejor servidor\" a 1 clic + selector limpio de opciones (\"Opción 1 • Latino\", \"Opción 2 • Latino\", etc.) con indicador exacto del servidor en reproducción\n• Motor inteligente anti-bucles: memoria de sesión de servidores descartados, salto prioritario a un CDN distinto cuando una opción se traba y cambio paralelo inmediato (~1s) manteniendo Español Latino primero\n• Sincronización real del servidor ganador incluso cuando entra un respaldo automático, y respeto estricto de idioma cuando eliges una opción específica manualmente\n\nContenido añadido:\n• Actualización general del catálogo"
 }
