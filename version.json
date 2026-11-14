@@ -1,9 +1,9 @@
 {
-  "versionCode": 66,
-  "versionName": "2.0.8",
-  "updatedAt": "2026-11-14 01:50:07",
+  "versionCode": 68,
+  "versionName": "2.0.10",
+  "updatedAt": "2026-11-14 02:27:53",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1794631807322,
+  "catalogUpdatedAt": 1794634073537,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "Novedades de SukaTV v2.0.7:\n• Corregido soporte completo para todos los dominios espejo de Nupload (nupload.my, nupload.me y nupload.*) en Repelis24 para reproducir estrenos como \"Clayface\" directamente en Español Latino\n• Blindada la carrera de servidores para esperar siempre a cualquier servidor en Español Latino activo antes de considerar un respaldo Subtitulado\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "Novedades de SukaTV v2.0.7:\n• Corregido soporte completo para todos los dominios espejo de Nupload (nupload.my, nupload.me y nupload.*) en Repelis24 para reproducir estrenos como \"Clayface\" directamente en Español Latino\n• Blindada la carrera de servidores para esperar siempre a cualquier servidor en Español Latino activo antes de considerar un respaldo Subtitulado\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "Novedades de SukaTV v2.0.9:\n• Resolución instantánea (< 1.2s) por slug estático cacheado en Repelis24 (/pelicula/ y /serie/) evitando el timeout de 8-30s del buscador WordPress (/?s=) que impedía cargar los servidores en Español Latino al buscar estrenos como \"Clayface\"\n• Decodificador Nupload optimizado y test HLS reforzado para reproducir inmediatamente en Español Latino tanto en automático como al cambiar de servidor (Nupload y Voe)\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "Novedades de SukaTV v2.0.9:\n• Resolución instantánea (< 1.2s) por slug estático cacheado en Repelis24 (/pelicula/ y /serie/) evitando el timeout de 8-30s del buscador WordPress (/?s=) que impedía cargar los servidores en Español Latino al buscar estrenos como \"Clayface\"\n• Decodificador Nupload optimizado y test HLS reforzado para reproducir inmediatamente en Español Latino tanto en automático como al cambiar de servidor (Nupload y Voe)\n\nContenido añadido:\n• Actualización general del catálogo"
 }
