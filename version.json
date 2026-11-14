@@ -1,9 +1,9 @@
 {
-  "versionCode": 60,
-  "versionName": "2.0.2",
-  "updatedAt": "2026-11-13 18:32:14",
+  "versionCode": 62,
+  "versionName": "2.0.4",
+  "updatedAt": "2026-11-14 00:09:28",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1794605534406,
+  "catalogUpdatedAt": 1794625768526,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -17,11 +17,11 @@
   },
   "changes": {
     "added": [],
-    "postersUpdated": ["MTV Flow Latino"],
+    "postersUpdated": [],
     "deleted": [],
     "linksUpdated": [],
-    "modified": ["MTV Flow Latino"]
+    "modified": []
   },
-  "changelog": "Contenido añadido:\n• Actualización general del catálogo\n\nPortadas actualizadas:\n• MTV Flow Latino\n\nFichas y categorías modificadas:\n• MTV Flow Latino",
-  "releaseNotes": "Contenido añadido:\n• Actualización general del catálogo\n\nPortadas actualizadas:\n• MTV Flow Latino\n\nFichas y categorías modificadas:\n• MTV Flow Latino"
+  "changelog": "Novedades de SukaTV v2.0.3:\n• Corregido auto-reproducir tras 1 segundo en \"El Trece\" (Canales Argentina) al entrar por primera vez a la aplicación\n• Solucionada cancelación involuntaria del temporizador de 1s al pre-cargar filas en la lista de canales\n• Vía rápida directa en CDN oficial 1080p de El Trece y carrera de servidores sin bloqueos en frío\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "Novedades de SukaTV v2.0.3:\n• Corregido auto-reproducir tras 1 segundo en \"El Trece\" (Canales Argentina) al entrar por primera vez a la aplicación\n• Solucionada cancelación involuntaria del temporizador de 1s al pre-cargar filas en la lista de canales\n• Vía rápida directa en CDN oficial 1080p de El Trece y carrera de servidores sin bloqueos en frío\n\nContenido añadido:\n• Actualización general del catálogo"
 }
