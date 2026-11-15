@@ -1,9 +1,9 @@
 {
-  "versionCode": 80,
-  "versionName": "2.0.22",
-  "updatedAt": "2026-11-14 16:09:16",
+  "versionCode": 82,
+  "versionName": "2.0.24",
+  "updatedAt": "2026-11-15 09:18:50",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1794683356018,
+  "catalogUpdatedAt": 1794745130327,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Corrección de raíz en reproducción de servidores VidHide / StreamWish (decodificación nativa de segmentos HLS camuflados con cabecera PNG) y JKPlayer directo\n• Eliminación del bloqueo de carga infinita al cambiar de servidor: auto-rescate automático al siguiente servidor del mismo idioma ante error o demora, permitiendo cambiar en cualquier momento\n• Selección manual fiel al orden de la lista y ruedita de carga únicamente en el servidor pulsado (sin repetirla en \"Servidores\" ni en las categorías de idioma)\n• Nuevo menú interactivo con el Clima de toda la Semana (7 días para Guaymallén, Mendoza) al dar OK sobre el recuadro del clima en \"TV\"\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Corrección de raíz en reproducción de servidores VidHide / StreamWish (decodificación nativa de segmentos HLS camuflados con cabecera PNG) y JKPlayer directo\n• Eliminación del bloqueo de carga infinita al cambiar de servidor: auto-rescate automático al siguiente servidor del mismo idioma ante error o demora, permitiendo cambiar en cualquier momento\n• Selección manual fiel al orden de la lista y ruedita de carga únicamente en el servidor pulsado (sin repetirla en \"Servidores\" ni en las categorías de idioma)\n• Nuevo menú interactivo con el Clima de toda la Semana (7 días para Guaymallén, Mendoza) al dar OK sobre el recuadro del clima en \"TV\"\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Respeto estricto de idioma en auto-rescate: si falla un servidor Subtitulado o Castellano avanza secuencialmente al siguiente servidor de ese mismo idioma sin volver a Latino\n• Eliminación del marcado celeste/azul persistente en los botones del menú \"Servidores\"\n• Eliminación del botón \"Calidad\" en títulos y canales, priorizando siempre de forma automática la calidad más alta disponible (hasta 1080p Full HD)\n• Clima en vivo de Guaymallén, Mendoza conectado a la estación oficial del Servicio Meteorológico Nacional (SMN Argentina / Mendoza Aero-Observatorio con precisión decimal real, igual a Canal 9 Mendoza y Google)\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Respeto estricto de idioma en auto-rescate: si falla un servidor Subtitulado o Castellano avanza secuencialmente al siguiente servidor de ese mismo idioma sin volver a Latino\n• Eliminación del marcado celeste/azul persistente en los botones del menú \"Servidores\"\n• Eliminación del botón \"Calidad\" en títulos y canales, priorizando siempre de forma automática la calidad más alta disponible (hasta 1080p Full HD)\n• Clima en vivo de Guaymallén, Mendoza conectado a la estación oficial del Servicio Meteorológico Nacional (SMN Argentina / Mendoza Aero-Observatorio con precisión decimal real, igual a Canal 9 Mendoza y Google)\n\nContenido añadido:\n• Actualización general del catálogo"
 }
