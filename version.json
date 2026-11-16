@@ -1,9 +1,9 @@
 {
-  "versionCode": 86,
-  "versionName": "2.0.28",
-  "updatedAt": "2026-11-16 10:25:26",
+  "versionCode": 88,
+  "versionName": "2.0.30",
+  "updatedAt": "2026-11-16 11:16:25",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1794835526316,
+  "catalogUpdatedAt": 1794838584836,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Instalación limpia de Anime: eliminación total de todos los servidores antiguos de anime (JKAnime, TioAnime, AnimeFLV y cruces de Poseidon/Embed69)\n• Nuevo motor estilo AnimeTV 1080p SUB de alta velocidad sin trabas y sincronización automática de capítulos según salen en emisión\n• Coexistencia limpia para que añadas tus propios capítulos de anime con doblaje Español Latino desde el Gestor de Catálogo sin mezclar servidores viejos\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Instalación limpia de Anime: eliminación total de todos los servidores antiguos de anime (JKAnime, TioAnime, AnimeFLV y cruces de Poseidon/Embed69)\n• Nuevo motor estilo AnimeTV 1080p SUB de alta velocidad sin trabas y sincronización automática de capítulos según salen en emisión\n• Coexistencia limpia para que añadas tus propios capítulos de anime con doblaje Español Latino desde el Gestor de Catálogo sin mezclar servidores viejos\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Doblaje oficial 1080p en Español Latino (LAT) y Castellano (CAST) activado automáticamente para Anime (AnimeAV1 DUB + LatAnime)\n• Conserva servidores Subtitulados (SUB) 1080p ultrarrápidos, actualización automática en emisión y compatibilidad con enlaces manuales del Gestor de Catálogo\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Doblaje oficial 1080p en Español Latino (LAT) y Castellano (CAST) activado automáticamente para Anime (AnimeAV1 DUB + LatAnime)\n• Conserva servidores Subtitulados (SUB) 1080p ultrarrápidos, actualización automática en emisión y compatibilidad con enlaces manuales del Gestor de Catálogo\n\nContenido añadido:\n• Actualización general del catálogo"
 }
