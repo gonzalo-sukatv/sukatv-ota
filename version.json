@@ -1,9 +1,9 @@
 {
-  "versionCode": 82,
-  "versionName": "2.0.24",
-  "updatedAt": "2026-11-15 09:18:50",
+  "versionCode": 84,
+  "versionName": "2.0.26",
+  "updatedAt": "2026-11-15 23:32:04",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1794745130327,
+  "catalogUpdatedAt": 1794796323808,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Respeto estricto de idioma en auto-rescate: si falla un servidor Subtitulado o Castellano avanza secuencialmente al siguiente servidor de ese mismo idioma sin volver a Latino\n• Eliminación del marcado celeste/azul persistente en los botones del menú \"Servidores\"\n• Eliminación del botón \"Calidad\" en títulos y canales, priorizando siempre de forma automática la calidad más alta disponible (hasta 1080p Full HD)\n• Clima en vivo de Guaymallén, Mendoza conectado a la estación oficial del Servicio Meteorológico Nacional (SMN Argentina / Mendoza Aero-Observatorio con precisión decimal real, igual a Canal 9 Mendoza y Google)\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Respeto estricto de idioma en auto-rescate: si falla un servidor Subtitulado o Castellano avanza secuencialmente al siguiente servidor de ese mismo idioma sin volver a Latino\n• Eliminación del marcado celeste/azul persistente en los botones del menú \"Servidores\"\n• Eliminación del botón \"Calidad\" en títulos y canales, priorizando siempre de forma automática la calidad más alta disponible (hasta 1080p Full HD)\n• Clima en vivo de Guaymallén, Mendoza conectado a la estación oficial del Servicio Meteorológico Nacional (SMN Argentina / Mendoza Aero-Observatorio con precisión decimal real, igual a Canal 9 Mendoza y Google)\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• El servidor individual activo o seleccionado con \"OK\" se marca completamente en azul para identificar siempre qué servidor estás viendo\n• Nueva primera opción \"Mejor servidor\" al desplegar \"Servidores Latino\", \"Servidores Subtitulados\" y \"Servidores Castellano\" (prueba en vivo cuál es el mejor servidor de ese idioma y lo reproduce)\n• Eliminación del botón \"Siguiente mejor servidor\"\n• Vista limpia en canales de TV: se eliminan la barra de reproducción y los botones \"Servidores\" y \"Ajustar\" exclusivamente en los canales de televisión\n• Numeración independiente desde 1 en adelante (1, 2, 3...) para los canales de cada categoría en la sección \"TV\"\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• El servidor individual activo o seleccionado con \"OK\" se marca completamente en azul para identificar siempre qué servidor estás viendo\n• Nueva primera opción \"Mejor servidor\" al desplegar \"Servidores Latino\", \"Servidores Subtitulados\" y \"Servidores Castellano\" (prueba en vivo cuál es el mejor servidor de ese idioma y lo reproduce)\n• Eliminación del botón \"Siguiente mejor servidor\"\n• Vista limpia en canales de TV: se eliminan la barra de reproducción y los botones \"Servidores\" y \"Ajustar\" exclusivamente en los canales de televisión\n• Numeración independiente desde 1 en adelante (1, 2, 3...) para los canales de cada categoría en la sección \"TV\"\n\nContenido añadido:\n• Actualización general del catálogo"
 }
