@@ -1,9 +1,9 @@
 {
-  "versionCode": 88,
-  "versionName": "2.0.30",
-  "updatedAt": "2026-11-16 11:16:25",
+  "versionCode": 90,
+  "versionName": "2.0.32",
+  "updatedAt": "2026-11-16 12:50:38",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1794838584836,
+  "catalogUpdatedAt": 1794844237831,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Doblaje oficial 1080p en Español Latino (LAT) y Castellano (CAST) activado automáticamente para Anime (AnimeAV1 DUB + LatAnime)\n• Conserva servidores Subtitulados (SUB) 1080p ultrarrápidos, actualización automática en emisión y compatibilidad con enlaces manuales del Gestor de Catálogo\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Doblaje oficial 1080p en Español Latino (LAT) y Castellano (CAST) activado automáticamente para Anime (AnimeAV1 DUB + LatAnime)\n• Conserva servidores Subtitulados (SUB) 1080p ultrarrápidos, actualización automática en emisión y compatibilidad con enlaces manuales del Gestor de Catálogo\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Respaldo multi-fuente automático para Anime en Castellano (CAST) y Latino (LatAnime multi-título + Repelis24 + PoseidonHD2) y limpieza de servidores caídos (Videobin/Fembed)\n• Corrección de FPS fluidos (24fps reales) en Servidores Subtitulados de Anime (prioridad Voe/VidHide H.264 sobre UPNShare y ajuste de decodificación MediaCodec)\n• América TV Argentina renovado directo desde americatv.com.ar sin cortes ni lag en vivo\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Respaldo multi-fuente automático para Anime en Castellano (CAST) y Latino (LatAnime multi-título + Repelis24 + PoseidonHD2) y limpieza de servidores caídos (Videobin/Fembed)\n• Corrección de FPS fluidos (24fps reales) en Servidores Subtitulados de Anime (prioridad Voe/VidHide H.264 sobre UPNShare y ajuste de decodificación MediaCodec)\n• América TV Argentina renovado directo desde americatv.com.ar sin cortes ni lag en vivo\n\nContenido añadido:\n• Actualización general del catálogo"
 }
