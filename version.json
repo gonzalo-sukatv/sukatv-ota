@@ -1,9 +1,9 @@
 {
-  "versionCode": 84,
-  "versionName": "2.0.26",
-  "updatedAt": "2026-11-15 23:32:04",
+  "versionCode": 86,
+  "versionName": "2.0.28",
+  "updatedAt": "2026-11-16 10:25:26",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1794796323808,
+  "catalogUpdatedAt": 1794835526316,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• El servidor individual activo o seleccionado con \"OK\" se marca completamente en azul para identificar siempre qué servidor estás viendo\n• Nueva primera opción \"Mejor servidor\" al desplegar \"Servidores Latino\", \"Servidores Subtitulados\" y \"Servidores Castellano\" (prueba en vivo cuál es el mejor servidor de ese idioma y lo reproduce)\n• Eliminación del botón \"Siguiente mejor servidor\"\n• Vista limpia en canales de TV: se eliminan la barra de reproducción y los botones \"Servidores\" y \"Ajustar\" exclusivamente en los canales de televisión\n• Numeración independiente desde 1 en adelante (1, 2, 3...) para los canales de cada categoría en la sección \"TV\"\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• El servidor individual activo o seleccionado con \"OK\" se marca completamente en azul para identificar siempre qué servidor estás viendo\n• Nueva primera opción \"Mejor servidor\" al desplegar \"Servidores Latino\", \"Servidores Subtitulados\" y \"Servidores Castellano\" (prueba en vivo cuál es el mejor servidor de ese idioma y lo reproduce)\n• Eliminación del botón \"Siguiente mejor servidor\"\n• Vista limpia en canales de TV: se eliminan la barra de reproducción y los botones \"Servidores\" y \"Ajustar\" exclusivamente en los canales de televisión\n• Numeración independiente desde 1 en adelante (1, 2, 3...) para los canales de cada categoría en la sección \"TV\"\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Instalación limpia de Anime: eliminación total de todos los servidores antiguos de anime (JKAnime, TioAnime, AnimeFLV y cruces de Poseidon/Embed69)\n• Nuevo motor estilo AnimeTV 1080p SUB de alta velocidad sin trabas y sincronización automática de capítulos según salen en emisión\n• Coexistencia limpia para que añadas tus propios capítulos de anime con doblaje Español Latino desde el Gestor de Catálogo sin mezclar servidores viejos\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Instalación limpia de Anime: eliminación total de todos los servidores antiguos de anime (JKAnime, TioAnime, AnimeFLV y cruces de Poseidon/Embed69)\n• Nuevo motor estilo AnimeTV 1080p SUB de alta velocidad sin trabas y sincronización automática de capítulos según salen en emisión\n• Coexistencia limpia para que añadas tus propios capítulos de anime con doblaje Español Latino desde el Gestor de Catálogo sin mezclar servidores viejos\n\nContenido añadido:\n• Actualización general del catálogo"
 }
