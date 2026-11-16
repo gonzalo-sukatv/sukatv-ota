@@ -1,9 +1,9 @@
 {
-  "versionCode": 95,
-  "versionName": "2.0.37",
-  "updatedAt": "2026-11-16 16:13:22",
+  "versionCode": 97,
+  "versionName": "2.0.39",
+  "updatedAt": "2026-11-16 19:48:51",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1794856402553,
+  "catalogUpdatedAt": 1794869331499,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -17,11 +17,11 @@
   },
   "changes": {
     "added": [],
-    "postersUpdated": ["KND: Los chicos del barrio"],
+    "postersUpdated": [],
     "deleted": [],
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• América TV Argentina a 25.0 fps nativos sin cortes (corrección de fragmentación de unidades de acceso H.264 NAL 9/6 en Media3 TsExtractor + reparación en tiempo real del SPS VUI max_num_reorder_frames=2 / max_dec_frame_buffering=4) y señal única limpia desde americatv.com.ar\n• Respaldo multi-fuente automático para Anime en Castellano (CAST) y Latino (LatAnime multi-título + Repelis24 + PoseidonHD2) y limpieza de servidores caídos\n• Corrección de FPS fluidos (24fps reales) en Servidores Subtitulados de Anime (prioridad Voe/VidHide H.264 sobre UPNShare)\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• América TV Argentina a 25.0 fps nativos sin cortes (corrección de fragmentación de unidades de acceso H.264 NAL 9/6 en Media3 TsExtractor + reparación en tiempo real del SPS VUI max_num_reorder_frames=2 / max_dec_frame_buffering=4) y señal única limpia desde americatv.com.ar\n• Respaldo multi-fuente automático para Anime en Castellano (CAST) y Latino (LatAnime multi-título + Repelis24 + PoseidonHD2) y limpieza de servidores caídos\n• Corrección de FPS fluidos (24fps reales) en Servidores Subtitulados de Anime (prioridad Voe/VidHide H.264 sobre UPNShare)\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Corrección de raíz de reproducción a bajos FPS en Servidor 1 de Anime (Dragon Ball Z, Death Note, Kimi no Na wa, Imouto sae Ireba Ii): bloqueo de coronación de servidores AV1 10-bit (Zilla-Networks, decodificados por CPU a <12fps en S905X3) y fMP4 .woff2 (UPNShare), + nuevo extractor nativo AES-256-GCM para FileMoon/Byse 1080p H.264 .ts y resolución directa de VOE sin salto intermedio\n• Incorporación automática de Servidores Subtitulados (SUB) desde JKAnime + TioAnime para animes donde AnimeAV1 solo posee doblaje (como Dragon Ball Z)\n• América TV Argentina a 25.0 fps nativos sin cortes",
+  "releaseNotes": "• Corrección de raíz de reproducción a bajos FPS en Servidor 1 de Anime (Dragon Ball Z, Death Note, Kimi no Na wa, Imouto sae Ireba Ii): bloqueo de coronación de servidores AV1 10-bit (Zilla-Networks, decodificados por CPU a <12fps en S905X3) y fMP4 .woff2 (UPNShare), + nuevo extractor nativo AES-256-GCM para FileMoon/Byse 1080p H.264 .ts y resolución directa de VOE sin salto intermedio\n• Incorporación automática de Servidores Subtitulados (SUB) desde JKAnime + TioAnime para animes donde AnimeAV1 solo posee doblaje (como Dragon Ball Z)\n• América TV Argentina a 25.0 fps nativos sin cortes"
 }
