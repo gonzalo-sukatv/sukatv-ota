@@ -1,9 +1,9 @@
 {
-  "versionCode": 92,
-  "versionName": "2.0.34",
-  "updatedAt": "2026-11-16 14:30:01",
+  "versionCode": 93,
+  "versionName": "2.0.35",
+  "updatedAt": "2026-11-16 14:40:43",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1794850201318,
+  "catalogUpdatedAt": 1794850843290,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -17,10 +17,10 @@
   },
   "changes": {
     "added": [],
-    "postersUpdated": [],
+    "postersUpdated": ["KND: Los chicos del barrio"],
     "deleted": [],
-    "linksUpdated": [],
-    "modified": []
+    "linksUpdated": ["América TV"],
+    "modified": ["América TV"]
   },
   "changelog": "• América TV Argentina a 25.0 fps nativos fluidos (reparación en tiempo real del SPS VUI H.264 max_num_reorder_frames=2 / max_dec_frame_buffering=4 en decodificadores por hardware Android TV) y unificación en 1 única señal limpia desde americatv.com.ar\n• Respaldo multi-fuente automático para Anime en Castellano (CAST) y Latino (LatAnime multi-título + Repelis24 + PoseidonHD2) y limpieza de servidores caídos\n• Corrección de FPS fluidos (24fps reales) en Servidores Subtitulados de Anime (prioridad Voe/VidHide H.264 sobre UPNShare)\n\nContenido añadido:\n• Actualización general del catálogo",
   "releaseNotes": "• América TV Argentina a 25.0 fps nativos fluidos (reparación en tiempo real del SPS VUI H.264 max_num_reorder_frames=2 / max_dec_frame_buffering=4 en decodificadores por hardware Android TV) y unificación en 1 única señal limpia desde americatv.com.ar\n• Respaldo multi-fuente automático para Anime en Castellano (CAST) y Latino (LatAnime multi-título + Repelis24 + PoseidonHD2) y limpieza de servidores caídos\n• Corrección de FPS fluidos (24fps reales) en Servidores Subtitulados de Anime (prioridad Voe/VidHide H.264 sobre UPNShare)\n\nContenido añadido:\n• Actualización general del catálogo"
