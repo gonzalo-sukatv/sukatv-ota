@@ -1,9 +1,9 @@
 {
-  "versionCode": 116,
-  "versionName": "2.0.58",
-  "updatedAt": "2026-11-17 19:39:23",
+  "versionCode": 117,
+  "versionName": "2.0.59",
+  "updatedAt": "2026-11-17 20:26:06",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1794955162981,
+  "catalogUpdatedAt": 1794957965844,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -16,11 +16,11 @@
     "universal": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk"
   },
   "changes": {
-    "added": ["TyC Sports Fan", "ESPN PREMIUM ARG"],
+    "added": [],
     "postersUpdated": [],
-    "deleted": ["Fox Sports Premium"],
-    "linksUpdated": ["TNT Sports Premium", "Fox Sports", "Fox Sports 2", "Fox Sports 3"],
-    "modified": []
+    "deleted": [],
+    "linksUpdated": [],
+    "modified": ["TyC Sports Fan", "ESPN PREMIUM ARG", "HBO", "HBO 2", "HBO Plus", "HBO Family", "HBO Signature", "HBO Xtreme", "HBO Pop", "HBO Mundi", "Paramount Network", "Comedy Central", "TNT Novelas", "TNT", "Space", "Star Channel", "Warner Bros TV", "Cinecanal", "Cinemax", "FX", "TNT Series", "AXN", "Universal TV", "Studio Universal", "AMC", "Sony Channel", "Syfy / USA Network", "Golden", "Golden Plus", "Golden Edge", "Golden Premier", "Golden Premier 2", "Multipremier", "FM Hot Movies", "History Channel", "History 2", "National Geographic", "Discovery Channel", "Animal Planet", "A&E Mundo", "Discovery Home & Health", "Investigation Discovery", "Cartoon Network", "Tooncast Clásico", "Disney Channel", "FM Hot Kids", "El Reino Infantil", "Nickelodeon Clásico", "Disney Junior", "Discovery Kids", "Nick Jr.", "Bob Esponja 24/7", "Pluto TV Anime Acción", "Naruto & Shippuden TV", "One Piece & Anime 24/7", "Yu-Gi-Oh! & Anime Retro", "Los Padrinos Mágicos & NickToons", "Las Tortugas Ninja TV", "Rugrats: Aventuras en Pañales", "Garfield y sus Amigos", "MTV Biggest Pop", "MTV Classic & Rocks", "Conciertos", "MTV Flow Latino", "MTV Spankin' New Hits", "Yo! MTV Raps & Hip-Hop", "Vevo Latino", "Vevo Pop Mundial", "Rock & Clásicos 80s / 90s", "Qello Concerts by Stingray", "Stingray Karaoke & Fiesta"]
   },
   "changelog": "• Corrección de raíz de reproducción a bajos FPS en Servidor 1 de Anime (Dragon Ball Z, Death Note, Kimi no Na wa, Imouto sae Ireba Ii): bloqueo de coronación de servidores AV1 10-bit (Zilla-Networks, decodificados por CPU a <12fps en S905X3) y fMP4 .woff2 (UPNShare), + nuevo extractor nativo AES-256-GCM para FileMoon/Byse 1080p H.264 .ts y resolución directa de VOE sin salto intermedio\n• Incorporación automática de Servidores Subtitulados (SUB) desde JKAnime + TioAnime para animes donde AnimeAV1 solo posee doblaje (como Dragon Ball Z)\n• América TV Argentina a 25.0 fps nativos sin cortes",
   "releaseNotes": "• Corrección de raíz de reproducción a bajos FPS en Servidor 1 de Anime (Dragon Ball Z, Death Note, Kimi no Na wa, Imouto sae Ireba Ii): bloqueo de coronación de servidores AV1 10-bit (Zilla-Networks, decodificados por CPU a <12fps en S905X3) y fMP4 .woff2 (UPNShare), + nuevo extractor nativo AES-256-GCM para FileMoon/Byse 1080p H.264 .ts y resolución directa de VOE sin salto intermedio\n• Incorporación automática de Servidores Subtitulados (SUB) desde JKAnime + TioAnime para animes donde AnimeAV1 solo posee doblaje (como Dragon Ball Z)\n• América TV Argentina a 25.0 fps nativos sin cortes"
