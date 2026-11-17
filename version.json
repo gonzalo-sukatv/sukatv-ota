@@ -1,9 +1,9 @@
 {
-  "versionCode": 108,
-  "versionName": "2.0.50",
-  "updatedAt": "2026-11-17 12:37:21",
+  "versionCode": 110,
+  "versionName": "2.0.52",
+  "updatedAt": "2026-11-17 13:36:27",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1794929840898,
+  "catalogUpdatedAt": 1794933387273,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -16,7 +16,7 @@
     "universal": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk"
   },
   "changes": {
-    "added": [],
+    "added": ["Luzu TV", "OLGA", "Vorterix", "Urbana Play 104.3", "Blender", "Carajo", "Gelatina", "Neura Media", "Bondi Live", "Cenital", "Futurock", "El Observador 107.9", "Radio Con Vos 89.9", "El Destape", "Cadena 3 Argentina", "La Popu FM 92.3 (Córdoba)", "Radio Mitre AM 790", "Radio Mitre Córdoba", "Radio 10 AM 710", "Radio Rivadavia AM 630", "Radio La Red AM 910", "Radio Continental AM 590", "Splendid AM 990", "Mega 98.3 FM", "Pop Radio 101.5 FM", "FM Vale 97.5", "La 100 FM 99.9", "FM Rock & Pop 95.9", "AM 530 Somos Radio", "Radio Nacional AM 870", "Radio Nihuil (Mendoza)", "LVDiez (Mendoza)", "MDZ Radio 105.5 (Mendoza)", "NOW 97.9 FM"],
     "postersUpdated": [],
     "deleted": [],
     "linksUpdated": [],
