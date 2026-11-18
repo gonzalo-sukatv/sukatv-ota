@@ -1,9 +1,9 @@
 {
-  "versionCode": 120,
-  "versionName": "2.0.62",
-  "updatedAt": "2026-11-18 11:29:46",
+  "versionCode": 121,
+  "versionName": "2.0.63",
+  "updatedAt": "2026-11-18 12:42:13",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795012186178,
+  "catalogUpdatedAt": 1795016532853,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -17,9 +17,9 @@
   },
   "changes": {
     "added": [],
-    "postersUpdated": ["La 1", "América Televisión", "CBS"],
-    "deleted": ["TNT Sports Premium", "M. Liga de Campeones", "TUDN", "ESPN Colombia", "Fox Sports MX", "Fox Sports 2 MX", "Fox Sports 3 MX", "ESPN MX", "ESPN 2 MX", "ESPN 3 MX", "ESPN 4 MX", "ESPN 5 MX", "Liga 1 Perú", "Liga 1 Max", "Movistar Deportes PE", "Azteca Deportes", "NBA League Pass 1", "NBA League Pass 2"],
-    "linksUpdated": ["ESPN Premium"],
+    "postersUpdated": [],
+    "deleted": [],
+    "linksUpdated": [],
     "modified": []
   },
   "changelog": "• Corrección de raíz de reproducción a bajos FPS en Servidor 1 de Anime (Dragon Ball Z, Death Note, Kimi no Na wa, Imouto sae Ireba Ii): bloqueo de coronación de servidores AV1 10-bit (Zilla-Networks, decodificados por CPU a <12fps en S905X3) y fMP4 .woff2 (UPNShare), + nuevo extractor nativo AES-256-GCM para FileMoon/Byse 1080p H.264 .ts y resolución directa de VOE sin salto intermedio\n• Incorporación automática de Servidores Subtitulados (SUB) desde JKAnime + TioAnime para animes donde AnimeAV1 solo posee doblaje (como Dragon Ball Z)\n• América TV Argentina a 25.0 fps nativos sin cortes",
