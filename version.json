@@ -1,9 +1,9 @@
 {
-  "versionCode": 144,
-  "versionName": "2.0.86",
-  "updatedAt": "2026-11-19 10:47:29",
+  "versionCode": 145,
+  "versionName": "2.0.87",
+  "updatedAt": "2026-11-19 14:10:50",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795096048879,
+  "catalogUpdatedAt": 1795108250415,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -18,8 +18,8 @@
   "changes": {
     "added": [],
     "postersUpdated": [],
-    "deleted": [],
-    "linksUpdated": [],
+    "deleted": ["Discovery Home & Health", "Investigation Discovery", "Tooncast Clásico"],
+    "linksUpdated": ["National Geographic", "Discovery Channel", "Animal Planet", "A&E Mundo", "Cartoon Network", "Nickelodeon", "FM Hot Kids", "Bob Esponja 24/7", "MTV Biggest Pop", "MTV Flow Latino", "MTV Spankin' New Hits", "Yo! MTV Raps & Hip-Hop", "Vevo Latino", "Vevo Pop Mundial"],
     "modified": []
   },
   "changelog": "• Corrección de fluidez (FPS nativos sin lag) en HBO Family, Space, Warner Bros TV y HBO 2 (canal original de Cine).\n• Nuevo canal Warner Bros TV 2 (PelisJuanita Flow 720p HD en Español).\n• Actualización de Cinecanal con señal oficial de PelisJuanita Flow 720p HD en Español.\n• Optimización del extractor HLS en vivo para evitar peticiones de preámbulo bloqueantes en señales DVB/Astra.",
