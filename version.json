@@ -1,9 +1,9 @@
 {
-  "versionCode": 182,
-  "versionName": "2.1.24",
-  "updatedAt": "2026-11-21 15:08:20",
+  "versionCode": 184,
+  "versionName": "2.1.26",
+  "updatedAt": "2026-11-21 16:18:50",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795284500018,
+  "catalogUpdatedAt": 1795288730752,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
