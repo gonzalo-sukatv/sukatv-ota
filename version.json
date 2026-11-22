@@ -1,9 +1,9 @@
 {
-  "versionCode": 190,
-  "versionName": "2.1.32",
-  "updatedAt": "2026-11-21 21:32:12",
+  "versionCode": 192,
+  "versionName": "2.1.34",
+  "updatedAt": "2026-11-22 19:11:10",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795307532193,
+  "catalogUpdatedAt": 1795385470290,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Corrección total de la reproducción de canciones en modo Karaoke: renovación automática de visitorData oficial (`visitor_id` + `sw.js_data`), verificación real sin HTTP 403 en streams de YouTube (`VISIONOS` HLS + respaldo `ANDROID` progresivo `itag=18`), fuente Media3 explícita (`HlsMediaSource`/`ProgressiveMediaSource`) y timeouts extendidos para `googlevideo.com`.\n• En la sección TV, el recuadro del canal seleccionado ahora usa el azul de la aplicación (`#38BDF8`) en lugar de verde.\n• Eliminación del contador de canales (`15 CH`, etc.) arriba a la derecha de cada sección de canales en TV.\n• En TV pantalla completa, los botones Izquierda y Derecha del control ya no realizan ninguna acción.\n• Nueva grilla flotante en el borde izquierdo-centro al presionar Arriba/Abajo en TV pantalla completa, mostrando el logo oficial y nombre de cada canal de la sección actual.",
-  "releaseNotes": "• Corrección total de la reproducción de canciones en modo Karaoke: renovación automática de visitorData oficial (`visitor_id` + `sw.js_data`), verificación real sin HTTP 403 en streams de YouTube (`VISIONOS` HLS + respaldo `ANDROID` progresivo `itag=18`), fuente Media3 explícita (`HlsMediaSource`/`ProgressiveMediaSource`) y timeouts extendidos para `googlevideo.com`.\n• En la sección TV, el recuadro del canal seleccionado ahora usa el azul de la aplicación (`#38BDF8`) en lugar de verde.\n• Eliminación del contador de canales (`15 CH`, etc.) arriba a la derecha de cada sección de canales en TV.\n• En TV pantalla completa, los botones Izquierda y Derecha del control ya no realizan ninguna acción.\n• Nueva grilla flotante en el borde izquierdo-centro al presionar Arriba/Abajo en TV pantalla completa, mostrando el logo oficial y nombre de cada canal de la sección actual."
+  "changelog": "• Nueva integración completa de PelisPop (pelispop.mov) para todas las películas, series, caricaturas y animes del catálogo en Español Latino (LAT), Castellano (CAST) y Subtitulado (SUB).\n• Descifrado instantáneo SHA-256 sin consumo extra de CPU para Chromecast 4 en servidores StreamWish, VidHide y Voe desde /vidurl/, más resolución automática de episodios mediante /api/episodio/ (incluyendo numeración absoluta de anime).\n• Búsqueda multi-fuente ampliada con resultados y fichas de PelisPop, y mejora de compatibilidad en contenedores /vidurl/ y canales Maratón 24/7.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Nueva integración completa de PelisPop (pelispop.mov) para todas las películas, series, caricaturas y animes del catálogo en Español Latino (LAT), Castellano (CAST) y Subtitulado (SUB).\n• Descifrado instantáneo SHA-256 sin consumo extra de CPU para Chromecast 4 en servidores StreamWish, VidHide y Voe desde /vidurl/, más resolución automática de episodios mediante /api/episodio/ (incluyendo numeración absoluta de anime).\n• Búsqueda multi-fuente ampliada con resultados y fichas de PelisPop, y mejora de compatibilidad en contenedores /vidurl/ y canales Maratón 24/7.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
