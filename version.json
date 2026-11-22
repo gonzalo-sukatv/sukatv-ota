@@ -1,9 +1,9 @@
 {
-  "versionCode": 192,
-  "versionName": "2.1.34",
-  "updatedAt": "2026-11-22 19:11:10",
+  "versionCode": 194,
+  "versionName": "2.1.36",
+  "updatedAt": "2026-11-22 19:36:10",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795385470290,
+  "catalogUpdatedAt": 1795386970202,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Nueva integración completa de PelisPop (pelispop.mov) para todas las películas, series, caricaturas y animes del catálogo en Español Latino (LAT), Castellano (CAST) y Subtitulado (SUB).\n• Descifrado instantáneo SHA-256 sin consumo extra de CPU para Chromecast 4 en servidores StreamWish, VidHide y Voe desde /vidurl/, más resolución automática de episodios mediante /api/episodio/ (incluyendo numeración absoluta de anime).\n• Búsqueda multi-fuente ampliada con resultados y fichas de PelisPop, y mejora de compatibilidad en contenedores /vidurl/ y canales Maratón 24/7.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Nueva integración completa de PelisPop (pelispop.mov) para todas las películas, series, caricaturas y animes del catálogo en Español Latino (LAT), Castellano (CAST) y Subtitulado (SUB).\n• Descifrado instantáneo SHA-256 sin consumo extra de CPU para Chromecast 4 en servidores StreamWish, VidHide y Voe desde /vidurl/, más resolución automática de episodios mediante /api/episodio/ (incluyendo numeración absoluta de anime).\n• Búsqueda multi-fuente ampliada con resultados y fichas de PelisPop, y mejora de compatibilidad en contenedores /vidurl/ y canales Maratón 24/7.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Corrección del filtro del buscador: se eliminó la omisión del filtro de coincidencia para resultados de AnimeAV1/AniList que hacía aparecer títulos irrelevantes al buscar frases con artículos cortos (como 'la', 'el', 'de').\n• Se mantiene el soporte de búsqueda de animes en español hacia sus títulos alternativos verificados en inglés/romaji sin colar resultados no relacionados en Películas ni en Animaciones.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Corrección del filtro del buscador: se eliminó la omisión del filtro de coincidencia para resultados de AnimeAV1/AniList que hacía aparecer títulos irrelevantes al buscar frases con artículos cortos (como 'la', 'el', 'de').\n• Se mantiene el soporte de búsqueda de animes en español hacia sus títulos alternativos verificados en inglés/romaji sin colar resultados no relacionados en Películas ni en Animaciones.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
