@@ -1,9 +1,9 @@
 {
-  "versionCode": 194,
-  "versionName": "2.1.36",
-  "updatedAt": "2026-11-22 19:36:10",
+  "versionCode": 196,
+  "versionName": "2.1.38",
+  "updatedAt": "2026-11-23 19:41:15",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795386970202,
+  "catalogUpdatedAt": 1795473674975,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Corrección del filtro del buscador: se eliminó la omisión del filtro de coincidencia para resultados de AnimeAV1/AniList que hacía aparecer títulos irrelevantes al buscar frases con artículos cortos (como 'la', 'el', 'de').\n• Se mantiene el soporte de búsqueda de animes en español hacia sus títulos alternativos verificados en inglés/romaji sin colar resultados no relacionados en Películas ni en Animaciones.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Corrección del filtro del buscador: se eliminó la omisión del filtro de coincidencia para resultados de AnimeAV1/AniList que hacía aparecer títulos irrelevantes al buscar frases con artículos cortos (como 'la', 'el', 'de').\n• Se mantiene el soporte de búsqueda de animes en español hacia sus títulos alternativos verificados en inglés/romaji sin colar resultados no relacionados en Películas ni en Animaciones.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Karaoke en Romaji para canciones japonesas: detección automática de letras en japonés (Hiragana, Katakana y Kanji) y conversión contextual a Hepburn Romaji conservando los tiempos exactos de sincronización milisegundo a milisegundo (más respaldo local Hepburn sin conexión).\n• Ruedita de carga fluida a 60 FPS al alternar entre Audio y Video en Karaoke: nuevo spinner acelerado por hardware GPU (drawWithCache + graphicsLayer sin recomposición por frame), overlay único persistente sin reinicios de giro, armado de fuentes HLS fuera del hilo UI y caché en RAM de streams.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Karaoke en Romaji para canciones japonesas: detección automática de letras en japonés (Hiragana, Katakana y Kanji) y conversión contextual a Hepburn Romaji conservando los tiempos exactos de sincronización milisegundo a milisegundo (más respaldo local Hepburn sin conexión).\n• Ruedita de carga fluida a 60 FPS al alternar entre Audio y Video en Karaoke: nuevo spinner acelerado por hardware GPU (drawWithCache + graphicsLayer sin recomposición por frame), overlay único persistente sin reinicios de giro, armado de fuentes HLS fuera del hilo UI y caché en RAM de streams.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
