@@ -1,9 +1,9 @@
 {
-  "versionCode": 214,
-  "versionName": "2.1.56",
-  "updatedAt": "2026-11-24 09:55:08",
+  "versionCode": 216,
+  "versionName": "2.1.58",
+  "updatedAt": "2026-11-24 10:51:38",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795524908196,
+  "catalogUpdatedAt": 1795528297957,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Integrados los servidores 1080p HLS de ARPartidosHoy (con sesión autenticada automática y sin anuncios) para todas las películas, series, caricaturas y animes de la aplicación.\n• Detección real de idiomas en los streams de ARPartidosHoy (Latino, Castellano y Subtitulado con subtítulos .vtt en español) y selector de pista de audio mejorado para elegir siempre la pista correcta (evitando pistas de Audio Description en modo Subtitulado).\n• Caché de episodios por serie en memoria para cambiar de capítulo al instante.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Integrados los servidores 1080p HLS de ARPartidosHoy (con sesión autenticada automática y sin anuncios) para todas las películas, series, caricaturas y animes de la aplicación.\n• Detección real de idiomas en los streams de ARPartidosHoy (Latino, Castellano y Subtitulado con subtítulos .vtt en español) y selector de pista de audio mejorado para elegir siempre la pista correcta (evitando pistas de Audio Description en modo Subtitulado).\n• Caché de episodios por serie en memoria para cambiar de capítulo al instante.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Corregido a nivel global el motor de \"Relacionados\" para animes y franquicias con múltiples temporadas/películas (como Rascal Does Not Dream of Bunny Girl Senpai, Kaguya-sama, Demon Slayer, SAO, etc.): se corrigió el colapso multilingüe que eliminaba secuelas por prefijo compartido, se amplió el grafo AniList hasta 6 saltos en lotes y se añadió detección automática por prefijo común en AnimeAV1.\n• Integrado el buscador autenticado de ARPartidosHoy directamente en la búsqueda global y fichas de detalle de SukaTV: ahora aparecen, abren con sus datos completos y reproducen en 1080p HLS incluso películas y series exclusivas o con títulos en español ausentes en TMDB (como Silencio Creado y Peppa Pig: Las botas de oro).\n• Pre-calentamiento silencioso de la sesión de ARPartidosHoy en segundo plano para búsquedas y reproducciones mucho más rápidas.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Corregido a nivel global el motor de \"Relacionados\" para animes y franquicias con múltiples temporadas/películas (como Rascal Does Not Dream of Bunny Girl Senpai, Kaguya-sama, Demon Slayer, SAO, etc.): se corrigió el colapso multilingüe que eliminaba secuelas por prefijo compartido, se amplió el grafo AniList hasta 6 saltos en lotes y se añadió detección automática por prefijo común en AnimeAV1.\n• Integrado el buscador autenticado de ARPartidosHoy directamente en la búsqueda global y fichas de detalle de SukaTV: ahora aparecen, abren con sus datos completos y reproducen en 1080p HLS incluso películas y series exclusivas o con títulos en español ausentes en TMDB (como Silencio Creado y Peppa Pig: Las botas de oro).\n• Pre-calentamiento silencioso de la sesión de ARPartidosHoy en segundo plano para búsquedas y reproducciones mucho más rápidas.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
