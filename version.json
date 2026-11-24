@@ -1,9 +1,9 @@
 {
-  "versionCode": 206,
-  "versionName": "2.1.48",
-  "updatedAt": "2026-11-24 01:20:03",
+  "versionCode": 209,
+  "versionName": "2.1.51",
+  "updatedAt": "2026-11-24 02:25:37",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795494003133,
+  "catalogUpdatedAt": 1795497936858,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -19,9 +19,9 @@
     "added": [],
     "postersUpdated": [],
     "deleted": [],
-    "linksUpdated": [],
+    "linksUpdated": ["ESPN PREMIUM ARG"],
     "modified": []
   },
-  "changelog": "• Sección TV optimizada con mini-reproductor 16:9 más grande y sin barras negras: se redujo la columna de Categorías a 150 dp y se compactó la altura de la tarjeta del clima y márgenes internos para expandir el video de borde a borde.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Sección TV optimizada con mini-reproductor 16:9 más grande y sin barras negras: se redujo la columna de Categorías a 150 dp y se compactó la altura de la tarjeta del clima y márgenes internos para expandir el video de borde a borde.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Agregada señal HD de ARPartidosHoy (con autologin automático y renovación de token HLS) como Señal 1 del canal #6 de Fútbol (ESPN PREMIUM ARG), manteniendo las señales previas como respaldo.\n• TV en Vivo con reconexión automática reforzada: ante caídas, tokens vencidos, cortes o congelamientos (>10 s), el reproductor recarga primero la misma señal con un enlace fresco antes de cambiar de respaldo.\n• Tarjeta del clima en la sección TV levemente más alta con mayor separación vertical entre textos, sin modificar otras dimensiones.\n\nContenido añadido:\n• Actualización general del catálogo\n\nEnlaces y servidores actualizados:\n• ESPN PREMIUM ARG",
+  "releaseNotes": "• Agregada señal HD de ARPartidosHoy (con autologin automático y renovación de token HLS) como Señal 1 del canal #6 de Fútbol (ESPN PREMIUM ARG), manteniendo las señales previas como respaldo.\n• TV en Vivo con reconexión automática reforzada: ante caídas, tokens vencidos, cortes o congelamientos (>10 s), el reproductor recarga primero la misma señal con un enlace fresco antes de cambiar de respaldo.\n• Tarjeta del clima en la sección TV levemente más alta con mayor separación vertical entre textos, sin modificar otras dimensiones.\n\nContenido añadido:\n• Actualización general del catálogo\n\nEnlaces y servidores actualizados:\n• ESPN PREMIUM ARG"
 }
