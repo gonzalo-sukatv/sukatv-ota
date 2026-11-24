@@ -1,9 +1,9 @@
 {
-  "versionCode": 204,
-  "versionName": "2.1.46",
-  "updatedAt": "2026-11-24 01:04:01",
+  "versionCode": 206,
+  "versionName": "2.1.48",
+  "updatedAt": "2026-11-24 01:20:03",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795493041218,
+  "catalogUpdatedAt": 1795494003133,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Sección TV rediseñada sin barras negras laterales en el mini-reproductor: se amplió la columna de Categorías (de 142 dp a 190 dp) y se ajustó el reproductor a relación exacta 16:9 para un encuadre limpio de borde a borde.\n• Encabezados centrados en TV: los títulos \"CATEGORÍAS\" y el nombre de la categoría activa (ej. \"CANALES ARGENTINA\") ahora se muestran centrados.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Sección TV rediseñada sin barras negras laterales en el mini-reproductor: se amplió la columna de Categorías (de 142 dp a 190 dp) y se ajustó el reproductor a relación exacta 16:9 para un encuadre limpio de borde a borde.\n• Encabezados centrados en TV: los títulos \"CATEGORÍAS\" y el nombre de la categoría activa (ej. \"CANALES ARGENTINA\") ahora se muestran centrados.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Sección TV optimizada con mini-reproductor 16:9 más grande y sin barras negras: se redujo la columna de Categorías a 150 dp y se compactó la altura de la tarjeta del clima y márgenes internos para expandir el video de borde a borde.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Sección TV optimizada con mini-reproductor 16:9 más grande y sin barras negras: se redujo la columna de Categorías a 150 dp y se compactó la altura de la tarjeta del clima y márgenes internos para expandir el video de borde a borde.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
