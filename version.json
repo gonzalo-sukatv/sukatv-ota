@@ -1,9 +1,9 @@
 {
-  "versionCode": 200,
-  "versionName": "2.1.42",
-  "updatedAt": "2026-11-23 22:51:19",
+  "versionCode": 202,
+  "versionName": "2.1.44",
+  "updatedAt": "2026-11-23 23:38:54",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795485079224,
+  "catalogUpdatedAt": 1795487934442,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Sin títulos repetidos en Relacionados y Recomendados: nuevo filtro universal por ID, TMDB/IMDb/slug, variantes de idioma, signo × y nodo raíz de AniList para que el título que estás viendo jamás se repita.\n• Relacionados y Recomendados mucho más rápidos: ahora se cargan en paralelo desde el milisegundo 0 al abrir una ficha, con similar/recomendaciones embebidos en una sola consulta TMDB, timeouts acotados y caché instantánea en RAM.\n• Movimiento fluido en el carrusel de Relacionados y Recomendados: desplazamiento animado suave (animateScrollBy con anticipación), escala y borde animados en GPU y sin bloqueo de pulsaciones D-pad.\n• Fecha actual en la tarjeta del clima en TV: se reemplazó la ubicación y el texto del estado por la fecha del día en español.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Sin títulos repetidos en Relacionados y Recomendados: nuevo filtro universal por ID, TMDB/IMDb/slug, variantes de idioma, signo × y nodo raíz de AniList para que el título que estás viendo jamás se repita.\n• Relacionados y Recomendados mucho más rápidos: ahora se cargan en paralelo desde el milisegundo 0 al abrir una ficha, con similar/recomendaciones embebidos en una sola consulta TMDB, timeouts acotados y caché instantánea en RAM.\n• Movimiento fluido en el carrusel de Relacionados y Recomendados: desplazamiento animado suave (animateScrollBy con anticipación), escala y borde animados en GPU y sin bloqueo de pulsaciones D-pad.\n• Fecha actual en la tarjeta del clima en TV: se reemplazó la ubicación y el texto del estado por la fecha del día en español.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Buscador global reparado para todas las sagas y búsquedas con mayúsculas o tildes: se corrigió el bug de sensibilidad a mayúsculas/acentos en matchesSearchTokens y scoreSearchTitle que descartaba los resultados remotos (TMDB, IMDb, Cinemeta, PelisPop, etc.) al escribir desde el teclado de TV (ej. \"Scary\").\n• Preservación de entregas clásicas y remakes/reboots con el mismo título original: el deduplicador ahora respeta el TMDB ID y el año real de estreno para que aparezcan todas las entregas (ej. Scary Movie 1 a 5 + 2026, Scream, Halloween, El Rey León, etc.) sin sobrescribir sus títulos en español.\n• Mayor fiabilidad en autocompletado y búsqueda completa con timeouts optimizados para TMDB en Wi-Fi de TV.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Buscador global reparado para todas las sagas y búsquedas con mayúsculas o tildes: se corrigió el bug de sensibilidad a mayúsculas/acentos en matchesSearchTokens y scoreSearchTitle que descartaba los resultados remotos (TMDB, IMDb, Cinemeta, PelisPop, etc.) al escribir desde el teclado de TV (ej. \"Scary\").\n• Preservación de entregas clásicas y remakes/reboots con el mismo título original: el deduplicador ahora respeta el TMDB ID y el año real de estreno para que aparezcan todas las entregas (ej. Scary Movie 1 a 5 + 2026, Scream, Halloween, El Rey León, etc.) sin sobrescribir sus títulos en español.\n• Mayor fiabilidad en autocompletado y búsqueda completa con timeouts optimizados para TMDB en Wi-Fi de TV.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
