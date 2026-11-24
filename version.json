@@ -1,9 +1,9 @@
 {
-  "versionCode": 196,
-  "versionName": "2.1.38",
-  "updatedAt": "2026-11-23 19:41:15",
+  "versionCode": 198,
+  "versionName": "2.1.40",
+  "updatedAt": "2026-11-23 22:04:32",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795473674975,
+  "catalogUpdatedAt": 1795482271826,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Karaoke en Romaji para canciones japonesas: detección automática de letras en japonés (Hiragana, Katakana y Kanji) y conversión contextual a Hepburn Romaji conservando los tiempos exactos de sincronización milisegundo a milisegundo (más respaldo local Hepburn sin conexión).\n• Ruedita de carga fluida a 60 FPS al alternar entre Audio y Video en Karaoke: nuevo spinner acelerado por hardware GPU (drawWithCache + graphicsLayer sin recomposición por frame), overlay único persistente sin reinicios de giro, armado de fuentes HLS fuera del hilo UI y caché en RAM de streams.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Karaoke en Romaji para canciones japonesas: detección automática de letras en japonés (Hiragana, Katakana y Kanji) y conversión contextual a Hepburn Romaji conservando los tiempos exactos de sincronización milisegundo a milisegundo (más respaldo local Hepburn sin conexión).\n• Ruedita de carga fluida a 60 FPS al alternar entre Audio y Video en Karaoke: nuevo spinner acelerado por hardware GPU (drawWithCache + graphicsLayer sin recomposición por frame), overlay único persistente sin reinicios de giro, armado de fuentes HLS fuera del hilo UI y caché en RAM de streams.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Karaoke \"Cantadas recientemente\" persistente: las canciones cantadas ahora se guardan automáticamente por perfil en disco y se conservan al cerrar y volver a abrir la aplicación.\n• Motor inteligente de \"Relacionados\" corregido para toda la app: prioriza todas las temporadas, secuelas, precuelas, películas y OVAs de cada franquicia en orden cronológico (integrando AnimeAV1, grafo oficial de relaciones de AniList, PelisPop, TMDB y catálogo local) antes de los títulos del reparto.\n• Botón \"Cargando...\" con círculo animado fluido: se reemplazó el reloj estático por un spinner circular acelerado por GPU a 60 FPS en toda la pantalla de detalles.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Karaoke \"Cantadas recientemente\" persistente: las canciones cantadas ahora se guardan automáticamente por perfil en disco y se conservan al cerrar y volver a abrir la aplicación.\n• Motor inteligente de \"Relacionados\" corregido para toda la app: prioriza todas las temporadas, secuelas, precuelas, películas y OVAs de cada franquicia en orden cronológico (integrando AnimeAV1, grafo oficial de relaciones de AniList, PelisPop, TMDB y catálogo local) antes de los títulos del reparto.\n• Botón \"Cargando...\" con círculo animado fluido: se reemplazó el reloj estático por un spinner circular acelerado por GPU a 60 FPS en toda la pantalla de detalles.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
