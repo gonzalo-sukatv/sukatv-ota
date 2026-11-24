@@ -1,9 +1,9 @@
 {
-  "versionCode": 210,
-  "versionName": "2.1.52",
-  "updatedAt": "2026-11-24 02:32:36",
+  "versionCode": 212,
+  "versionName": "2.1.54",
+  "updatedAt": "2026-11-24 09:22:11",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795498356497,
+  "catalogUpdatedAt": 1795522931624,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -19,9 +19,9 @@
     "added": [],
     "postersUpdated": [],
     "deleted": [],
-    "linksUpdated": ["ESPN Premium arg"],
-    "modified": ["ESPN Premium arg"]
+    "linksUpdated": ["ESPN PREMIUM ARG"],
+    "modified": ["ESPN PREMIUM ARG"]
   },
-  "changelog": "• Agregada señal HD de ARPartidosHoy (con autologin automático y renovación de token HLS) como Señal 1 del canal #6 de Fútbol (ESPN PREMIUM ARG), manteniendo las señales previas como respaldo.\n• TV en Vivo con reconexión automática reforzada: ante caídas, tokens vencidos, cortes o congelamientos (>10 s), el reproductor recarga primero la misma señal con un enlace fresco antes de cambiar de respaldo.\n• Tarjeta del clima en la sección TV levemente más alta con mayor separación vertical entre textos, sin modificar otras dimensiones.\n\nContenido añadido:\n• Actualización general del catálogo\n\nEnlaces y servidores actualizados:\n• ESPN PREMIUM ARG",
-  "releaseNotes": "• Agregada señal HD de ARPartidosHoy (con autologin automático y renovación de token HLS) como Señal 1 del canal #6 de Fútbol (ESPN PREMIUM ARG), manteniendo las señales previas como respaldo.\n• TV en Vivo con reconexión automática reforzada: ante caídas, tokens vencidos, cortes o congelamientos (>10 s), el reproductor recarga primero la misma señal con un enlace fresco antes de cambiar de respaldo.\n• Tarjeta del clima en la sección TV levemente más alta con mayor separación vertical entre textos, sin modificar otras dimensiones.\n\nContenido añadido:\n• Actualización general del catálogo\n\nEnlaces y servidores actualizados:\n• ESPN PREMIUM ARG"
+  "changelog": "• Canal #6 de Fútbol (ESPN PREMIUM ARG): eliminadas las señales secundarias para dejar únicamente la Señal 1 (ARPartidosHoy HD).\n• Carga drásticamente más rápida de 'Relacionados' y 'Recomendados' sin perder calidad: todas las consultas de TMDB, AniList y AnimeAV1 ahora son 100% no-bloqueantes con cancelación real en timeouts, deduplicación en vuelo de detalles TMDB, caché en memoria de franquicias anime, pausa de 450 ms del prefetch de video para no saturar conexiones y carga progresiva en 2 olas para mostrar pósters en menos de 1 segundo.\n\nContenido añadido:\n• Actualización general del catálogo\n\nEnlaces y servidores actualizados:\n• ESPN PREMIUM ARG\n\nFichas y categorías modificadas:\n• ESPN PREMIUM ARG",
+  "releaseNotes": "• Canal #6 de Fútbol (ESPN PREMIUM ARG): eliminadas las señales secundarias para dejar únicamente la Señal 1 (ARPartidosHoy HD).\n• Carga drásticamente más rápida de 'Relacionados' y 'Recomendados' sin perder calidad: todas las consultas de TMDB, AniList y AnimeAV1 ahora son 100% no-bloqueantes con cancelación real en timeouts, deduplicación en vuelo de detalles TMDB, caché en memoria de franquicias anime, pausa de 450 ms del prefetch de video para no saturar conexiones y carga progresiva en 2 olas para mostrar pósters en menos de 1 segundo.\n\nContenido añadido:\n• Actualización general del catálogo\n\nEnlaces y servidores actualizados:\n• ESPN PREMIUM ARG\n\nFichas y categorías modificadas:\n• ESPN PREMIUM ARG"
 }
