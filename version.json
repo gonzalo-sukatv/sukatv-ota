@@ -1,9 +1,9 @@
 {
-  "versionCode": 198,
-  "versionName": "2.1.40",
-  "updatedAt": "2026-11-23 22:04:32",
+  "versionCode": 200,
+  "versionName": "2.1.42",
+  "updatedAt": "2026-11-23 22:51:19",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795482271826,
+  "catalogUpdatedAt": 1795485079224,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Karaoke \"Cantadas recientemente\" persistente: las canciones cantadas ahora se guardan automáticamente por perfil en disco y se conservan al cerrar y volver a abrir la aplicación.\n• Motor inteligente de \"Relacionados\" corregido para toda la app: prioriza todas las temporadas, secuelas, precuelas, películas y OVAs de cada franquicia en orden cronológico (integrando AnimeAV1, grafo oficial de relaciones de AniList, PelisPop, TMDB y catálogo local) antes de los títulos del reparto.\n• Botón \"Cargando...\" con círculo animado fluido: se reemplazó el reloj estático por un spinner circular acelerado por GPU a 60 FPS en toda la pantalla de detalles.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Karaoke \"Cantadas recientemente\" persistente: las canciones cantadas ahora se guardan automáticamente por perfil en disco y se conservan al cerrar y volver a abrir la aplicación.\n• Motor inteligente de \"Relacionados\" corregido para toda la app: prioriza todas las temporadas, secuelas, precuelas, películas y OVAs de cada franquicia en orden cronológico (integrando AnimeAV1, grafo oficial de relaciones de AniList, PelisPop, TMDB y catálogo local) antes de los títulos del reparto.\n• Botón \"Cargando...\" con círculo animado fluido: se reemplazó el reloj estático por un spinner circular acelerado por GPU a 60 FPS en toda la pantalla de detalles.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Sin títulos repetidos en Relacionados y Recomendados: nuevo filtro universal por ID, TMDB/IMDb/slug, variantes de idioma, signo × y nodo raíz de AniList para que el título que estás viendo jamás se repita.\n• Relacionados y Recomendados mucho más rápidos: ahora se cargan en paralelo desde el milisegundo 0 al abrir una ficha, con similar/recomendaciones embebidos en una sola consulta TMDB, timeouts acotados y caché instantánea en RAM.\n• Movimiento fluido en el carrusel de Relacionados y Recomendados: desplazamiento animado suave (animateScrollBy con anticipación), escala y borde animados en GPU y sin bloqueo de pulsaciones D-pad.\n• Fecha actual en la tarjeta del clima en TV: se reemplazó la ubicación y el texto del estado por la fecha del día en español.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Sin títulos repetidos en Relacionados y Recomendados: nuevo filtro universal por ID, TMDB/IMDb/slug, variantes de idioma, signo × y nodo raíz de AniList para que el título que estás viendo jamás se repita.\n• Relacionados y Recomendados mucho más rápidos: ahora se cargan en paralelo desde el milisegundo 0 al abrir una ficha, con similar/recomendaciones embebidos en una sola consulta TMDB, timeouts acotados y caché instantánea en RAM.\n• Movimiento fluido en el carrusel de Relacionados y Recomendados: desplazamiento animado suave (animateScrollBy con anticipación), escala y borde animados en GPU y sin bloqueo de pulsaciones D-pad.\n• Fecha actual en la tarjeta del clima en TV: se reemplazó la ubicación y el texto del estado por la fecha del día en español.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
