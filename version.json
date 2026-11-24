@@ -1,9 +1,9 @@
 {
-  "versionCode": 202,
-  "versionName": "2.1.44",
-  "updatedAt": "2026-11-23 23:38:54",
+  "versionCode": 204,
+  "versionName": "2.1.46",
+  "updatedAt": "2026-11-24 01:04:01",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795487934442,
+  "catalogUpdatedAt": 1795493041218,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Buscador global reparado para todas las sagas y búsquedas con mayúsculas o tildes: se corrigió el bug de sensibilidad a mayúsculas/acentos en matchesSearchTokens y scoreSearchTitle que descartaba los resultados remotos (TMDB, IMDb, Cinemeta, PelisPop, etc.) al escribir desde el teclado de TV (ej. \"Scary\").\n• Preservación de entregas clásicas y remakes/reboots con el mismo título original: el deduplicador ahora respeta el TMDB ID y el año real de estreno para que aparezcan todas las entregas (ej. Scary Movie 1 a 5 + 2026, Scream, Halloween, El Rey León, etc.) sin sobrescribir sus títulos en español.\n• Mayor fiabilidad en autocompletado y búsqueda completa con timeouts optimizados para TMDB en Wi-Fi de TV.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Buscador global reparado para todas las sagas y búsquedas con mayúsculas o tildes: se corrigió el bug de sensibilidad a mayúsculas/acentos en matchesSearchTokens y scoreSearchTitle que descartaba los resultados remotos (TMDB, IMDb, Cinemeta, PelisPop, etc.) al escribir desde el teclado de TV (ej. \"Scary\").\n• Preservación de entregas clásicas y remakes/reboots con el mismo título original: el deduplicador ahora respeta el TMDB ID y el año real de estreno para que aparezcan todas las entregas (ej. Scary Movie 1 a 5 + 2026, Scream, Halloween, El Rey León, etc.) sin sobrescribir sus títulos en español.\n• Mayor fiabilidad en autocompletado y búsqueda completa con timeouts optimizados para TMDB en Wi-Fi de TV.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Sección TV rediseñada sin barras negras laterales en el mini-reproductor: se amplió la columna de Categorías (de 142 dp a 190 dp) y se ajustó el reproductor a relación exacta 16:9 para un encuadre limpio de borde a borde.\n• Encabezados centrados en TV: los títulos \"CATEGORÍAS\" y el nombre de la categoría activa (ej. \"CANALES ARGENTINA\") ahora se muestran centrados.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Sección TV rediseñada sin barras negras laterales en el mini-reproductor: se amplió la columna de Categorías (de 142 dp a 190 dp) y se ajustó el reproductor a relación exacta 16:9 para un encuadre limpio de borde a borde.\n• Encabezados centrados en TV: los títulos \"CATEGORÍAS\" y el nombre de la categoría activa (ej. \"CANALES ARGENTINA\") ahora se muestran centrados.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
