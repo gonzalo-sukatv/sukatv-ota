@@ -1,9 +1,9 @@
 {
-  "versionCode": 218,
-  "versionName": "2.1.60",
-  "updatedAt": "2026-11-24 11:51:12",
+  "versionCode": 220,
+  "versionName": "2.1.62",
+  "updatedAt": "2026-11-24 14:05:43",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795531872330,
+  "catalogUpdatedAt": 1795539943563,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -19,9 +19,9 @@
     "added": [],
     "postersUpdated": [],
     "deleted": [],
-    "linksUpdated": ["ESPN ARG Premium"],
-    "modified": ["ESPN ARG Premium"]
+    "linksUpdated": [],
+    "modified": []
   },
-  "changelog": "• Integrado DramaFun (dah.dramafuntv.com) como fuente multi-servidor para todas las películas, series, novelas/doramas, caricaturas y animes de SukaTV, incluyendo su catálogo en la búsqueda global y fichas de detalle.\n• Extracción directa de todos los espejos de reproducción de DramaFun (Vidspeed HLS, Vidmoly, Ok.ru, StreamWish/Hgcloud/Playerwish, VidHide, FileMoon, Voe y Dood) con detección automática de idioma (Latino / Castellano / Subtitulado).\n• Índice en RAM por serie (`view-serie.php`) para resolver episodios de cualquier temporada (incluyendo series largas y animes) al instante y sin descargas repetidas.\n\nContenido añadido:\n• Actualización general del catálogo\n\nEnlaces y servidores actualizados:\n• ESPN ARG Premium\n\nFichas y categorías modificadas:\n• ESPN ARG Premium",
-  "releaseNotes": "• Integrado DramaFun (dah.dramafuntv.com) como fuente multi-servidor para todas las películas, series, novelas/doramas, caricaturas y animes de SukaTV, incluyendo su catálogo en la búsqueda global y fichas de detalle.\n• Extracción directa de todos los espejos de reproducción de DramaFun (Vidspeed HLS, Vidmoly, Ok.ru, StreamWish/Hgcloud/Playerwish, VidHide, FileMoon, Voe y Dood) con detección automática de idioma (Latino / Castellano / Subtitulado).\n• Índice en RAM por serie (`view-serie.php`) para resolver episodios de cualquier temporada (incluyendo series largas y animes) al instante y sin descargas repetidas.\n\nContenido añadido:\n• Actualización general del catálogo\n\nEnlaces y servidores actualizados:\n• ESPN ARG Premium\n\nFichas y categorías modificadas:\n• ESPN ARG Premium"
+  "changelog": "• Corregido el foco al bajar a \"Relacionados\" y \"Recomendados\" en la ficha de detalle: ahora el foco permanece siempre sobre la pestaña seleccionada y solo entra a las tarjetas al pulsar Derecha.\n• Solucionado el retroceso continuo manteniendo presionada la flecha izquierda en Relacionados/Recomendados: recorre todos los títulos hasta alinear por completo la primera tarjeta sin cortarla antes de regresar al menú lateral.\n• Navegación horizontal mucho más fluida en Relacionados y Recomendados: cero recomposiciones por frame en el escalado GPU, desplazamiento lineal continuo al mantener pulsado y pausa inteligente de decodificación de imágenes durante scroll rápido.\n• En TV en Vivo, el mini-reproductor ahora respeta con precisión las esquinas redondeadas del marco mediante máscara vectorial en GPU sobre SurfaceView.\n• Centrado exacto (horizontal y vertical) del texto e íconos en los botones \"Señal\" y \"Favorito\" de TV en Vivo.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Corregido el foco al bajar a \"Relacionados\" y \"Recomendados\" en la ficha de detalle: ahora el foco permanece siempre sobre la pestaña seleccionada y solo entra a las tarjetas al pulsar Derecha.\n• Solucionado el retroceso continuo manteniendo presionada la flecha izquierda en Relacionados/Recomendados: recorre todos los títulos hasta alinear por completo la primera tarjeta sin cortarla antes de regresar al menú lateral.\n• Navegación horizontal mucho más fluida en Relacionados y Recomendados: cero recomposiciones por frame en el escalado GPU, desplazamiento lineal continuo al mantener pulsado y pausa inteligente de decodificación de imágenes durante scroll rápido.\n• En TV en Vivo, el mini-reproductor ahora respeta con precisión las esquinas redondeadas del marco mediante máscara vectorial en GPU sobre SurfaceView.\n• Centrado exacto (horizontal y vertical) del texto e íconos en los botones \"Señal\" y \"Favorito\" de TV en Vivo.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
