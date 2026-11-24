@@ -1,9 +1,9 @@
 {
-  "versionCode": 212,
-  "versionName": "2.1.54",
-  "updatedAt": "2026-11-24 09:22:11",
+  "versionCode": 214,
+  "versionName": "2.1.56",
+  "updatedAt": "2026-11-24 09:55:08",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795522931624,
+  "catalogUpdatedAt": 1795524908196,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -19,9 +19,9 @@
     "added": [],
     "postersUpdated": [],
     "deleted": [],
-    "linksUpdated": ["ESPN PREMIUM ARG"],
-    "modified": ["ESPN PREMIUM ARG"]
+    "linksUpdated": [],
+    "modified": []
   },
-  "changelog": "• Canal #6 de Fútbol (ESPN PREMIUM ARG): eliminadas las señales secundarias para dejar únicamente la Señal 1 (ARPartidosHoy HD).\n• Carga drásticamente más rápida de 'Relacionados' y 'Recomendados' sin perder calidad: todas las consultas de TMDB, AniList y AnimeAV1 ahora son 100% no-bloqueantes con cancelación real en timeouts, deduplicación en vuelo de detalles TMDB, caché en memoria de franquicias anime, pausa de 450 ms del prefetch de video para no saturar conexiones y carga progresiva en 2 olas para mostrar pósters en menos de 1 segundo.\n\nContenido añadido:\n• Actualización general del catálogo\n\nEnlaces y servidores actualizados:\n• ESPN PREMIUM ARG\n\nFichas y categorías modificadas:\n• ESPN PREMIUM ARG",
-  "releaseNotes": "• Canal #6 de Fútbol (ESPN PREMIUM ARG): eliminadas las señales secundarias para dejar únicamente la Señal 1 (ARPartidosHoy HD).\n• Carga drásticamente más rápida de 'Relacionados' y 'Recomendados' sin perder calidad: todas las consultas de TMDB, AniList y AnimeAV1 ahora son 100% no-bloqueantes con cancelación real en timeouts, deduplicación en vuelo de detalles TMDB, caché en memoria de franquicias anime, pausa de 450 ms del prefetch de video para no saturar conexiones y carga progresiva en 2 olas para mostrar pósters en menos de 1 segundo.\n\nContenido añadido:\n• Actualización general del catálogo\n\nEnlaces y servidores actualizados:\n• ESPN PREMIUM ARG\n\nFichas y categorías modificadas:\n• ESPN PREMIUM ARG"
+  "changelog": "• Integrados los servidores 1080p HLS de ARPartidosHoy (con sesión autenticada automática y sin anuncios) para todas las películas, series, caricaturas y animes de la aplicación.\n• Detección real de idiomas en los streams de ARPartidosHoy (Latino, Castellano y Subtitulado con subtítulos .vtt en español) y selector de pista de audio mejorado para elegir siempre la pista correcta (evitando pistas de Audio Description en modo Subtitulado).\n• Caché de episodios por serie en memoria para cambiar de capítulo al instante.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Integrados los servidores 1080p HLS de ARPartidosHoy (con sesión autenticada automática y sin anuncios) para todas las películas, series, caricaturas y animes de la aplicación.\n• Detección real de idiomas en los streams de ARPartidosHoy (Latino, Castellano y Subtitulado con subtítulos .vtt en español) y selector de pista de audio mejorado para elegir siempre la pista correcta (evitando pistas de Audio Description en modo Subtitulado).\n• Caché de episodios por serie en memoria para cambiar de capítulo al instante.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
