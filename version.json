@@ -1,9 +1,9 @@
 {
-  "versionCode": 239,
-  "versionName": "2.1.81",
-  "updatedAt": "2026-11-24 21:45:13",
+  "versionCode": 242,
+  "versionName": "2.1.84",
+  "updatedAt": "2026-11-24 22:22:30",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795567513334,
+  "catalogUpdatedAt": 1795569750392,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Tráilers siempre en máxima calidad HD (1080p Full HD forzado desde el primer segundo en ExoPlayer).\n• Priorización inteligente de idioma en tráilers: Español Latino Doblado primero, luego Subtitulado en Español, luego Castellano, y cuando solo existe versión original en japonés (anime) o inglés se generan y muestran automáticamente subtítulos en Español sincronizados (WebVTT).\n• Reproductor de tráilers minimalista: eliminado el botón \"Ajustar\" y quitado el texto \"• YOUTUBE\" del encabezado superior (ahora muestra únicamente \"TRÁILER OFICIAL\").\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Tráilers siempre en máxima calidad HD (1080p Full HD forzado desde el primer segundo en ExoPlayer).\n• Priorización inteligente de idioma en tráilers: Español Latino Doblado primero, luego Subtitulado en Español, luego Castellano, y cuando solo existe versión original en japonés (anime) o inglés se generan y muestran automáticamente subtítulos en Español sincronizados (WebVTT).\n• Reproductor de tráilers minimalista: eliminado el botón \"Ajustar\" y quitado el texto \"• YOUTUBE\" del encabezado superior (ahora muestra únicamente \"TRÁILER OFICIAL\").\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Solución de carga infinita en \"Relacionados\" y \"Recomendados\" al volver del tráiler (o del reproductor): los resultados se publican aunque estés viendo el tráiler/reproductor, el indicador de carga nunca queda bloqueado y al regresar a la ficha se muestran al instante.\n• Mejoras de navegación y tarjetas en \"Buscar\": al pulsar Abajo desde la pestaña Buscar con resultados encontrados ahora va directo al filtro activo (Todo/Películas/Series/Animaciones); las tarjetas muestran únicamente los tags de géneros reales (sin etiquetas redundantes Película/Serie/Animación/Anime ni año); y al ir al teclado, volver al filtro activo y bajar, el foco regresa exactamente al último título donde estabas.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Solución de carga infinita en \"Relacionados\" y \"Recomendados\" al volver del tráiler (o del reproductor): los resultados se publican aunque estés viendo el tráiler/reproductor, el indicador de carga nunca queda bloqueado y al regresar a la ficha se muestran al instante.\n• Mejoras de navegación y tarjetas en \"Buscar\": al pulsar Abajo desde la pestaña Buscar con resultados encontrados ahora va directo al filtro activo (Todo/Películas/Series/Animaciones); las tarjetas muestran únicamente los tags de géneros reales (sin etiquetas redundantes Película/Serie/Animación/Anime ni año); y al ir al teclado, volver al filtro activo y bajar, el foco regresa exactamente al último título donde estabas.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
