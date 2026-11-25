@@ -1,9 +1,9 @@
 {
-  "versionCode": 242,
-  "versionName": "2.1.84",
-  "updatedAt": "2026-11-24 22:22:30",
+  "versionCode": 244,
+  "versionName": "2.1.86",
+  "updatedAt": "2026-11-25 00:20:02",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795569750392,
+  "catalogUpdatedAt": 1795576802345,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Solución de carga infinita en \"Relacionados\" y \"Recomendados\" al volver del tráiler (o del reproductor): los resultados se publican aunque estés viendo el tráiler/reproductor, el indicador de carga nunca queda bloqueado y al regresar a la ficha se muestran al instante.\n• Mejoras de navegación y tarjetas en \"Buscar\": al pulsar Abajo desde la pestaña Buscar con resultados encontrados ahora va directo al filtro activo (Todo/Películas/Series/Animaciones); las tarjetas muestran únicamente los tags de géneros reales (sin etiquetas redundantes Película/Serie/Animación/Anime ni año); y al ir al teclado, volver al filtro activo y bajar, el foco regresa exactamente al último título donde estabas.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Solución de carga infinita en \"Relacionados\" y \"Recomendados\" al volver del tráiler (o del reproductor): los resultados se publican aunque estés viendo el tráiler/reproductor, el indicador de carga nunca queda bloqueado y al regresar a la ficha se muestran al instante.\n• Mejoras de navegación y tarjetas en \"Buscar\": al pulsar Abajo desde la pestaña Buscar con resultados encontrados ahora va directo al filtro activo (Todo/Películas/Series/Animaciones); las tarjetas muestran únicamente los tags de géneros reales (sin etiquetas redundantes Película/Serie/Animación/Anime ni año); y al ir al teclado, volver al filtro activo y bajar, el foco regresa exactamente al último título donde estabas.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Ranking inteligente de idioma y calidad HD global: ahora prioriza fuentes con doblaje fiel y alto bitrate HD (PoseidonHD2, VidHide, Vimeus, ARPartidosHoy) frente a re-encodes degradados (FPS anómalo <23.4 fps o <1.38 Mbps) y servidores con etiquetas cruzadas.\n• Detección y filtrado global de servidores SD (incluyendo 480p CinemaScope como VidSpeed 1164x480) y aplicación inmediata de calidad mínima HD (>=720p) antes de iniciar cada reproducción VOD.\n• Vimeus mucho más rápido y sin trabas: precarga del siguiente segmento en 1 slot acotado (<=6.5 MB RAM), caché instantáneo del manifiesto maestro HLS (ahorra 0.5-1.5 s al arranque) y mayor tolerancia de lectura para picos de origen.\n• Solución definitiva de DoodStream en el primer intento: desbloqueo del desafío Cloudflare en frío, timeout real en WebView, renovación automática de token frío ante rechazo 403/404 y mayor margen de arranque antes de cambiar de servidor.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Ranking inteligente de idioma y calidad HD global: ahora prioriza fuentes con doblaje fiel y alto bitrate HD (PoseidonHD2, VidHide, Vimeus, ARPartidosHoy) frente a re-encodes degradados (FPS anómalo <23.4 fps o <1.38 Mbps) y servidores con etiquetas cruzadas.\n• Detección y filtrado global de servidores SD (incluyendo 480p CinemaScope como VidSpeed 1164x480) y aplicación inmediata de calidad mínima HD (>=720p) antes de iniciar cada reproducción VOD.\n• Vimeus mucho más rápido y sin trabas: precarga del siguiente segmento en 1 slot acotado (<=6.5 MB RAM), caché instantáneo del manifiesto maestro HLS (ahorra 0.5-1.5 s al arranque) y mayor tolerancia de lectura para picos de origen.\n• Solución definitiva de DoodStream en el primer intento: desbloqueo del desafío Cloudflare en frío, timeout real en WebView, renovación automática de token frío ante rechazo 403/404 y mayor margen de arranque antes de cambiar de servidor.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
