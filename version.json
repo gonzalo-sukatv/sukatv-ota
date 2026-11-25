@@ -1,9 +1,9 @@
 {
-  "versionCode": 246,
-  "versionName": "2.1.88",
-  "updatedAt": "2026-11-25 02:07:27",
+  "versionCode": 248,
+  "versionName": "2.1.90",
+  "updatedAt": "2026-11-25 14:02:12",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795583247327,
+  "catalogUpdatedAt": 1795626132404,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -16,12 +16,12 @@
     "universal": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk"
   },
   "changes": {
-    "added": [],
+    "added": ["Érase una segunda vez"],
     "postersUpdated": [],
     "deleted": [],
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Optimización profunda de reproducción y saltos (seeking) para Vimeus, StreamWish, VidHide y Dood: cancelación instantánea en 0 ms de sockets y precargas obsoletas al adelantar o retroceder rápido, eliminando congelamientos y bucles de carga infinita.\n• Arranque mucho más rápido en StreamWish y VidHide: caché efímera en RAM del playlist variante HLS (ahorra ~1.2 s al iniciar), mayor tolerancia para mantener la ruta rápida hls4 sobre HTTP/2 y precarga de 2 sockets en el respaldo hls2 para evitar trabas en escenas pesadas.\n• Mayor estabilidad en Vimeus: reintentos progresivos automáticos ante microcortes HTTP 500/502/503/429, precarga optimizada con rescate parcial por HTTP 206 Range y liberación inmediata del hilo principal al saltar de minuto.\n• DoodStream mucho más ágil y resistente: caché de redirección 302 para saltos directos sin rodeos, ajuste CLOSEST_SYNC, reanudación transparente por Range ante cortes o límites 429/503 y renovación automática de token si caduca a mitad de la película.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Optimización profunda de reproducción y saltos (seeking) para Vimeus, StreamWish, VidHide y Dood: cancelación instantánea en 0 ms de sockets y precargas obsoletas al adelantar o retroceder rápido, eliminando congelamientos y bucles de carga infinita.\n• Arranque mucho más rápido en StreamWish y VidHide: caché efímera en RAM del playlist variante HLS (ahorra ~1.2 s al iniciar), mayor tolerancia para mantener la ruta rápida hls4 sobre HTTP/2 y precarga de 2 sockets en el respaldo hls2 para evitar trabas en escenas pesadas.\n• Mayor estabilidad en Vimeus: reintentos progresivos automáticos ante microcortes HTTP 500/502/503/429, precarga optimizada con rescate parcial por HTTP 206 Range y liberación inmediata del hilo principal al saltar de minuto.\n• DoodStream mucho más ágil y resistente: caché de redirección 302 para saltos directos sin rodeos, ajuste CLOSEST_SYNC, reanudación transparente por Range ante cortes o límites 429/503 y renovación automática de token si caduca a mitad de la película.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Serie añadida manualmente: Érase una segunda vez (2019) — Temporada 1 completa (capítulos 1 al 4) con servidores Filemoon HD (1080p) verificados en Castellano y Subtitulado.\n• Corrección crítica en el extractor nativo de Byse / Filemoon (bysekoze.com y espejos): soporte para ambas permutaciones de clave AES-256-GCM en key_parts, eliminando el ~50% de fallos aleatorios de reproducción en películas y series de Filemoon.\n\nContenido añadido:\n• Érase una segunda vez",
+  "releaseNotes": "• Serie añadida manualmente: Érase una segunda vez (2019) — Temporada 1 completa (capítulos 1 al 4) con servidores Filemoon HD (1080p) verificados en Castellano y Subtitulado.\n• Corrección crítica en el extractor nativo de Byse / Filemoon (bysekoze.com y espejos): soporte para ambas permutaciones de clave AES-256-GCM en key_parts, eliminando el ~50% de fallos aleatorios de reproducción en películas y series de Filemoon.\n\nContenido añadido:\n• Érase una segunda vez"
 }
