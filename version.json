@@ -1,9 +1,9 @@
 {
-  "versionCode": 236,
-  "versionName": "2.1.78",
-  "updatedAt": "2026-11-24 21:03:09",
+  "versionCode": 238,
+  "versionName": "2.1.80",
+  "updatedAt": "2026-11-24 21:39:44",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795564989453,
+  "catalogUpdatedAt": 1795567184068,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Tráilers de YouTube rápidos, fluidos y sin bloqueos (incluyendo títulos como Michael): migración del motor de tráilers a manifiesto HLS oficial adaptativo (VISIONOS + visitorData) con respaldo MPEG-DASH en memoria (rangos Range acotados para evitar HTTP 403 SABR), bypass del reescritor HLS en googlevideo.com, ABR libre 0..1080p para arranque instantáneo sin trabas y salida limpia ante errores.\n• Ficha de título pulida: el botón \"Tráiler\" ahora aparece a la derecha de \"Reiniciar\" cuando está disponible; los 5 botones mantienen altura fija de 1 línea y espaciado compacto para que \"Ver más tarde\" jamás se deforme ni desplace \"Reparto\", \"Relacionados\" o \"Recomendados\" al cargar el tráiler.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Tráilers de YouTube rápidos, fluidos y sin bloqueos (incluyendo títulos como Michael): migración del motor de tráilers a manifiesto HLS oficial adaptativo (VISIONOS + visitorData) con respaldo MPEG-DASH en memoria (rangos Range acotados para evitar HTTP 403 SABR), bypass del reescritor HLS en googlevideo.com, ABR libre 0..1080p para arranque instantáneo sin trabas y salida limpia ante errores.\n• Ficha de título pulida: el botón \"Tráiler\" ahora aparece a la derecha de \"Reiniciar\" cuando está disponible; los 5 botones mantienen altura fija de 1 línea y espaciado compacto para que \"Ver más tarde\" jamás se deforme ni desplace \"Reparto\", \"Relacionados\" o \"Recomendados\" al cargar el tráiler.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Tráilers siempre en máxima calidad HD (1080p Full HD forzado desde el primer segundo en ExoPlayer).\n• Priorización inteligente de idioma en tráilers: Español Latino Doblado primero, luego Subtitulado en Español, luego Castellano, y cuando solo existe versión original en japonés (anime) o inglés se generan y muestran automáticamente subtítulos en Español sincronizados (WebVTT).\n• Reproductor de tráilers minimalista: eliminado el botón \"Ajustar\" y quitado el texto \"• YOUTUBE\" del encabezado superior (ahora muestra únicamente \"TRÁILER OFICIAL\").\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Tráilers siempre en máxima calidad HD (1080p Full HD forzado desde el primer segundo en ExoPlayer).\n• Priorización inteligente de idioma en tráilers: Español Latino Doblado primero, luego Subtitulado en Español, luego Castellano, y cuando solo existe versión original en japonés (anime) o inglés se generan y muestran automáticamente subtítulos en Español sincronizados (WebVTT).\n• Reproductor de tráilers minimalista: eliminado el botón \"Ajustar\" y quitado el texto \"• YOUTUBE\" del encabezado superior (ahora muestra únicamente \"TRÁILER OFICIAL\").\n\nContenido añadido:\n• Actualización general del catálogo"
 }
