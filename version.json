@@ -1,9 +1,9 @@
 {
-  "versionCode": 234,
-  "versionName": "2.1.76",
-  "updatedAt": "2026-11-24 20:31:22",
+  "versionCode": 236,
+  "versionName": "2.1.78",
+  "updatedAt": "2026-11-24 21:03:09",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795563082106,
+  "catalogUpdatedAt": 1795564989453,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Búsqueda reparada y optimizada: desplazamiento vertical fluido en \"Todo\", \"Películas\", \"Series\" y \"Animaciones\" sin quedarse fija la vista; tope inferior firme en el último resultado para no saltar al teclado; flecha derecha desde la última columna del teclado lleva a la barra de filtros (Todo/Películas/Series/Animaciones) aunque la pestaña actual no tenga resultados; flecha arriba desde el primer resultado vuelve al filtro activo exacto.\n• Etiquetas de género en Búsqueda: en Películas, Series y Animaciones ahora se muestran los géneros y etiquetas adicionales a la derecha del tipo de contenido (omitiendo la etiqueta redundante).\n• Nuevo botón \"Tráiler\" junto a Reproducir/Continuar en la ficha de cada título: busca y reproduce automáticamente el tráiler oficial desde YouTube en HD dentro del reproductor de SukaTV sin afectar el historial ni el progreso guardado.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Búsqueda reparada y optimizada: desplazamiento vertical fluido en \"Todo\", \"Películas\", \"Series\" y \"Animaciones\" sin quedarse fija la vista; tope inferior firme en el último resultado para no saltar al teclado; flecha derecha desde la última columna del teclado lleva a la barra de filtros (Todo/Películas/Series/Animaciones) aunque la pestaña actual no tenga resultados; flecha arriba desde el primer resultado vuelve al filtro activo exacto.\n• Etiquetas de género en Búsqueda: en Películas, Series y Animaciones ahora se muestran los géneros y etiquetas adicionales a la derecha del tipo de contenido (omitiendo la etiqueta redundante).\n• Nuevo botón \"Tráiler\" junto a Reproducir/Continuar en la ficha de cada título: busca y reproduce automáticamente el tráiler oficial desde YouTube en HD dentro del reproductor de SukaTV sin afectar el historial ni el progreso guardado.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Tráilers de YouTube rápidos, fluidos y sin bloqueos (incluyendo títulos como Michael): migración del motor de tráilers a manifiesto HLS oficial adaptativo (VISIONOS + visitorData) con respaldo MPEG-DASH en memoria (rangos Range acotados para evitar HTTP 403 SABR), bypass del reescritor HLS en googlevideo.com, ABR libre 0..1080p para arranque instantáneo sin trabas y salida limpia ante errores.\n• Ficha de título pulida: el botón \"Tráiler\" ahora aparece a la derecha de \"Reiniciar\" cuando está disponible; los 5 botones mantienen altura fija de 1 línea y espaciado compacto para que \"Ver más tarde\" jamás se deforme ni desplace \"Reparto\", \"Relacionados\" o \"Recomendados\" al cargar el tráiler.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "• Tráilers de YouTube rápidos, fluidos y sin bloqueos (incluyendo títulos como Michael): migración del motor de tráilers a manifiesto HLS oficial adaptativo (VISIONOS + visitorData) con respaldo MPEG-DASH en memoria (rangos Range acotados para evitar HTTP 403 SABR), bypass del reescritor HLS en googlevideo.com, ABR libre 0..1080p para arranque instantáneo sin trabas y salida limpia ante errores.\n• Ficha de título pulida: el botón \"Tráiler\" ahora aparece a la derecha de \"Reiniciar\" cuando está disponible; los 5 botones mantienen altura fija de 1 línea y espaciado compacto para que \"Ver más tarde\" jamás se deforme ni desplace \"Reparto\", \"Relacionados\" o \"Recomendados\" al cargar el tráiler.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
