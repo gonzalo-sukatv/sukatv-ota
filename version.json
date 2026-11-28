@@ -1,9 +1,9 @@
 {
-  "versionCode": 254,
-  "versionName": "2.1.96",
-  "updatedAt": "2026-11-27 22:57:13",
+  "versionCode": 255,
+  "versionName": "2.1.97",
+  "updatedAt": "2026-11-27 23:53:52",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795831033662,
+  "catalogUpdatedAt": 1795834432594,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "v2.1.96: Corrección global de pistas Subtitulado/Inglés y Castellano en servidores multi-audio de Kimera (y ARPartidosHoy), emparejamiento de títulos con ediciones especiales (V.Extendida / Director's Cut), cambio fluido de idioma en el reproductor con subtítulos en español y carga más rápida en películas extensas.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "v2.1.96: Corrección global de pistas Subtitulado/Inglés y Castellano en servidores multi-audio de Kimera (y ARPartidosHoy), emparejamiento de títulos con ediciones especiales (V.Extendida / Director's Cut), cambio fluido de idioma en el reproductor con subtítulos en español y carga más rápida en películas extensas.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "v2.1.97: Soporte dinámico global para todos los dominios rotativos Byse/FileMoon (bysezoxexe.com y futuros), poda automática de servidores SD (Vidara 256p/360p/480p), rips degradados (22.46 fps / <1.38 Mbps) y enlaces 404 (StreamTape/SaveFiles/FileMoon) cuando hay servidores HD limpios, y refuerzo de detección de idioma en Repelis24 y Dondever.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "v2.1.97: Soporte dinámico global para todos los dominios rotativos Byse/FileMoon (bysezoxexe.com y futuros), poda automática de servidores SD (Vidara 256p/360p/480p), rips degradados (22.46 fps / <1.38 Mbps) y enlaces 404 (StreamTape/SaveFiles/FileMoon) cuando hay servidores HD limpios, y refuerzo de detección de idioma en Repelis24 y Dondever.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
