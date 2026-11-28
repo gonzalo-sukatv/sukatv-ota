@@ -1,9 +1,9 @@
 {
-  "versionCode": 250,
-  "versionName": "2.1.92",
-  "updatedAt": "2026-11-27 21:01:04",
+  "versionCode": 252,
+  "versionName": "2.1.94",
+  "updatedAt": "2026-11-27 21:42:58",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795824064089,
+  "catalogUpdatedAt": 1795826577933,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Corrección crítica de reproducción en ViX Oficial (Avenida Brasil / series-5185) y flujos HLS con subtítulos WebVTT embebidos: se reactivó la transcodificación nativa de subtítulos (`DefaultSubtitleParserFactory` + `experimentalParseSubtitlesDuringExtraction(true)`) tras configurar `HlsSpsPpsRepairExtractorFactory`, resolviendo el error `Legacy decoding is disabled, can't handle text/vtt samples` en Media3 1.4.1.\n• Mejora de precisión en saltos (seeking) HLS VOD: las listas de subtítulos (`subs.m3u8` / `.vtt`) ahora se excluyen del índice de segmentos de video.\n\nContenido añadido:\n• Actualización general del catálogo",
-  "releaseNotes": "• Corrección crítica de reproducción en ViX Oficial (Avenida Brasil / series-5185) y flujos HLS con subtítulos WebVTT embebidos: se reactivó la transcodificación nativa de subtítulos (`DefaultSubtitleParserFactory` + `experimentalParseSubtitlesDuringExtraction(true)`) tras configurar `HlsSpsPpsRepairExtractorFactory`, resolviendo el error `Legacy decoding is disabled, can't handle text/vtt samples` en Media3 1.4.1.\n• Mejora de precisión en saltos (seeking) HLS VOD: las listas de subtítulos (`subs.m3u8` / `.vtt`) ahora se excluyen del índice de segmentos de video.\n\nContenido añadido:\n• Actualización general del catálogo"
+  "changelog": "• Nueva fuente integrada Dondever (dondever.net) sumada de forma aditiva para Películas, Series y Animaciones en Español Latino, Castellano y Subtitulado (servidores Vidara, Filemoon/Byse, Vimeus Full HD, StreamHG, UnlimPlay, Uqload y Voe), manteniendo intactos todos los servidores y catálogos existentes.\n• Extractor directo HLS añadido para UnlimPlay y soporte de espejo StreamHG (audinifer) en FastStreamResolver.\n• Búsqueda en vivo y consulta directa por TMDB ID con reintento automático ligero y cachés LRU acotadas para Chromecast 4.\n\nContenido añadido:\n• Servidores adicionales de dondever.net en Películas, Series y Animaciones (sin eliminar fuentes previas)",
+  "releaseNotes": "• Nueva fuente integrada Dondever (dondever.net) sumada de forma aditiva para Películas, Series y Animaciones en Español Latino, Castellano y Subtitulado (servidores Vidara, Filemoon/Byse, Vimeus Full HD, StreamHG, UnlimPlay, Uqload y Voe), manteniendo intactos todos los servidores y catálogos existentes.\n• Extractor directo HLS añadido para UnlimPlay y soporte de espejo StreamHG (audinifer) en FastStreamResolver.\n• Búsqueda en vivo y consulta directa por TMDB ID con reintento automático ligero y cachés LRU acotadas para Chromecast 4.\n\nContenido añadido:\n• Servidores adicionales de dondever.net en Películas, Series y Animaciones (sin eliminar fuentes previas)"
 }
