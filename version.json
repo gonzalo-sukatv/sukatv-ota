@@ -1,9 +1,9 @@
 {
-  "versionCode": 253,
-  "versionName": "2.1.95",
-  "updatedAt": "2026-11-27 22:30:37",
+  "versionCode": 254,
+  "versionName": "2.1.96",
+  "updatedAt": "2026-11-27 22:57:13",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795829437317,
+  "catalogUpdatedAt": 1795831033662,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Nueva fuente integrada Kimera (kimeraweb.com) sumada de forma 100% aditiva para Películas, Series, Dramas, Animes y Animaciones en Español Latino, Castellano y Subtitulado (streams Full HD propios de cloudcdn.sbs con audio separado y subtítulos VTT, más servidores externos), manteniendo intactos todos los servidores y catálogos existentes.\n• Decodificador nativo en streaming AES-128-CTR (KimeraIgcfCodec) integrado en ExoPlayerController y soporte HLS multi-pista (video + audio separado + subtítulos VTT) en PlayerScreen con cero WebViews y cachés LRU acotadas para Chromecast 4.\n• Búsqueda global, ficha de detalles y carga multi-temporada integradas para el catálogo completo de kimeraweb.com.\n\nContenido añadido:\n• Servidores adicionales Full HD de kimeraweb.com en Películas, Series y Animaciones (sin eliminar fuentes previas)",
-  "releaseNotes": "• Nueva fuente integrada Kimera (kimeraweb.com) sumada de forma 100% aditiva para Películas, Series, Dramas, Animes y Animaciones en Español Latino, Castellano y Subtitulado (streams Full HD propios de cloudcdn.sbs con audio separado y subtítulos VTT, más servidores externos), manteniendo intactos todos los servidores y catálogos existentes.\n• Decodificador nativo en streaming AES-128-CTR (KimeraIgcfCodec) integrado en ExoPlayerController y soporte HLS multi-pista (video + audio separado + subtítulos VTT) en PlayerScreen con cero WebViews y cachés LRU acotadas para Chromecast 4.\n• Búsqueda global, ficha de detalles y carga multi-temporada integradas para el catálogo completo de kimeraweb.com.\n\nContenido añadido:\n• Servidores adicionales Full HD de kimeraweb.com en Películas, Series y Animaciones (sin eliminar fuentes previas)"
+  "changelog": "v2.1.96: Corrección global de pistas Subtitulado/Inglés y Castellano en servidores multi-audio de Kimera (y ARPartidosHoy), emparejamiento de títulos con ediciones especiales (V.Extendida / Director's Cut), cambio fluido de idioma en el reproductor con subtítulos en español y carga más rápida en películas extensas.\n\nContenido añadido:\n• Actualización general del catálogo",
+  "releaseNotes": "v2.1.96: Corrección global de pistas Subtitulado/Inglés y Castellano en servidores multi-audio de Kimera (y ARPartidosHoy), emparejamiento de títulos con ediciones especiales (V.Extendida / Director's Cut), cambio fluido de idioma en el reproductor con subtítulos en español y carga más rápida en películas extensas.\n\nContenido añadido:\n• Actualización general del catálogo"
 }
