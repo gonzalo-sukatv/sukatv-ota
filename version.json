@@ -1,9 +1,9 @@
 {
-  "versionCode": 252,
-  "versionName": "2.1.94",
-  "updatedAt": "2026-11-27 21:42:58",
+  "versionCode": 253,
+  "versionName": "2.1.95",
+  "updatedAt": "2026-11-27 22:30:37",
   "catalogUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/manual_catalog.json",
-  "catalogUpdatedAt": 1795826577933,
+  "catalogUpdatedAt": 1795829437317,
   "apkUrl": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV7a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-armeabi-v7a-release.apk",
   "apkUrlV8a": "https://raw.githubusercontent.com/gonzalo-sukatv/sukatv-ota/main/SukaTV-arm64-v8a-release.apk",
@@ -22,6 +22,6 @@
     "linksUpdated": [],
     "modified": []
   },
-  "changelog": "• Nueva fuente integrada Dondever (dondever.net) sumada de forma aditiva para Películas, Series y Animaciones en Español Latino, Castellano y Subtitulado (servidores Vidara, Filemoon/Byse, Vimeus Full HD, StreamHG, UnlimPlay, Uqload y Voe), manteniendo intactos todos los servidores y catálogos existentes.\n• Extractor directo HLS añadido para UnlimPlay y soporte de espejo StreamHG (audinifer) en FastStreamResolver.\n• Búsqueda en vivo y consulta directa por TMDB ID con reintento automático ligero y cachés LRU acotadas para Chromecast 4.\n\nContenido añadido:\n• Servidores adicionales de dondever.net en Películas, Series y Animaciones (sin eliminar fuentes previas)",
-  "releaseNotes": "• Nueva fuente integrada Dondever (dondever.net) sumada de forma aditiva para Películas, Series y Animaciones en Español Latino, Castellano y Subtitulado (servidores Vidara, Filemoon/Byse, Vimeus Full HD, StreamHG, UnlimPlay, Uqload y Voe), manteniendo intactos todos los servidores y catálogos existentes.\n• Extractor directo HLS añadido para UnlimPlay y soporte de espejo StreamHG (audinifer) en FastStreamResolver.\n• Búsqueda en vivo y consulta directa por TMDB ID con reintento automático ligero y cachés LRU acotadas para Chromecast 4.\n\nContenido añadido:\n• Servidores adicionales de dondever.net en Películas, Series y Animaciones (sin eliminar fuentes previas)"
+  "changelog": "• Nueva fuente integrada Kimera (kimeraweb.com) sumada de forma 100% aditiva para Películas, Series, Dramas, Animes y Animaciones en Español Latino, Castellano y Subtitulado (streams Full HD propios de cloudcdn.sbs con audio separado y subtítulos VTT, más servidores externos), manteniendo intactos todos los servidores y catálogos existentes.\n• Decodificador nativo en streaming AES-128-CTR (KimeraIgcfCodec) integrado en ExoPlayerController y soporte HLS multi-pista (video + audio separado + subtítulos VTT) en PlayerScreen con cero WebViews y cachés LRU acotadas para Chromecast 4.\n• Búsqueda global, ficha de detalles y carga multi-temporada integradas para el catálogo completo de kimeraweb.com.\n\nContenido añadido:\n• Servidores adicionales Full HD de kimeraweb.com en Películas, Series y Animaciones (sin eliminar fuentes previas)",
+  "releaseNotes": "• Nueva fuente integrada Kimera (kimeraweb.com) sumada de forma 100% aditiva para Películas, Series, Dramas, Animes y Animaciones en Español Latino, Castellano y Subtitulado (streams Full HD propios de cloudcdn.sbs con audio separado y subtítulos VTT, más servidores externos), manteniendo intactos todos los servidores y catálogos existentes.\n• Decodificador nativo en streaming AES-128-CTR (KimeraIgcfCodec) integrado en ExoPlayerController y soporte HLS multi-pista (video + audio separado + subtítulos VTT) en PlayerScreen con cero WebViews y cachés LRU acotadas para Chromecast 4.\n• Búsqueda global, ficha de detalles y carga multi-temporada integradas para el catálogo completo de kimeraweb.com.\n\nContenido añadido:\n• Servidores adicionales Full HD de kimeraweb.com en Películas, Series y Animaciones (sin eliminar fuentes previas)"
 }
